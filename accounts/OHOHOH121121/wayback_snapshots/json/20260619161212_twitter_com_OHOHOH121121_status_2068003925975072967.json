@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068003906630889472",
+        "3_2068003916865040384"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2068003925975072967",
+    "created_at": "2026-06-19T16:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068003925975072967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OEP6uQuYzF",
+          "end": 70,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2068003925975072967/photo/1",
+          "media_key": "3_2068003906630889472",
+          "start": 47,
+          "url": "https://t.co/OEP6uQuYzF"
+        },
+        {
+          "display_url": "pic.x.com/OEP6uQuYzF",
+          "end": 70,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2068003925975072967/photo/1",
+          "media_key": "3_2068003916865040384",
+          "start": 47,
+          "url": "https://t.co/OEP6uQuYzF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068003925975072967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买到好像有点太多了，你们觉得我们能用的完吗（无力）\n我错了再也不买那么多了\n------安枫 https://t.co/OEP6uQuYzF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2068003906630889472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMGmKjasAA_NGa.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2068003916865040384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMGmwrbcAAn1RP.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068003906630889472",
+            "3_2068003916865040384"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2068003925975072967",
+        "created_at": "2026-06-19T16:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068003925975072967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEP6uQuYzF",
+              "end": 70,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2068003925975072967/photo/1",
+              "media_key": "3_2068003906630889472",
+              "start": 47,
+              "url": "https://t.co/OEP6uQuYzF"
+            },
+            {
+              "display_url": "pic.x.com/OEP6uQuYzF",
+              "end": 70,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2068003925975072967/photo/1",
+              "media_key": "3_2068003916865040384",
+              "start": 47,
+              "url": "https://t.co/OEP6uQuYzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068003925975072967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买到好像有点太多了，你们觉得我们能用的完吗（无力）\n我错了再也不买那么多了\n------安枫 https://t.co/OEP6uQuYzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 864,
+          "like_count": 5173,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

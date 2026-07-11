@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063207489529868288"
+      ],
+      "media_source_tweet_id": [
+        "2063207492151283861"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063245396529569978",
+    "created_at": "2026-06-06T13:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063245396529569978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1228406233738072064",
+          "start": 3,
+          "username": "AR10545614"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzOf4r9ADD",
+          "end": 52,
+          "expanded_url": "https://x.com/AR10545614/status/2063207492151283861/photo/1",
+          "media_key": "3_2063207489529868288",
+          "start": 29,
+          "url": "https://t.co/GzOf4r9ADD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063245396529569978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063207492151283861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AR10545614: 天使的魔法  也会失灵的 https://t.co/GzOf4r9ADD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063207489529868288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH8R8dacAAS5LZ.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063207489529868288"
+          ],
+          "media_source_tweet_id": [
+            "2063207492151283861"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063245396529569978",
+        "created_at": "2026-06-06T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063245396529569978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1228406233738072064",
+              "start": 3,
+              "username": "AR10545614"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzOf4r9ADD",
+              "end": 52,
+              "expanded_url": "https://x.com/AR10545614/status/2063207492151283861/photo/1",
+              "media_key": "3_2063207489529868288",
+              "start": 29,
+              "url": "https://t.co/GzOf4r9ADD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063245396529569978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063207492151283861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AR10545614: 天使的魔法  也会失灵的 https://t.co/GzOf4r9ADD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063207489529868288"
+          ]
+        },
+        "author_id": "1228406233738072064",
+        "conversation_id": "2063207492151283861",
+        "created_at": "2026-06-06T10:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063207492151283861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzOf4r9ADD",
+              "end": 36,
+              "expanded_url": "https://x.com/AR10545614/status/2063207492151283861/photo/1",
+              "media_key": "3_2063207489529868288",
+              "start": 13,
+              "url": "https://t.co/GzOf4r9ADD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063207492151283861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 178,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天使的魔法  也会失灵的 https://t.co/GzOf4r9ADD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 844,
+          "like_count": 5045,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1272
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 962,
+          "like_count": 274,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 733
+        },
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

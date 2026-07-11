@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2074150733289828772",
+    "created_at": "2026-07-06T15:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074150733289828772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038187797459132416",
+          "start": 3,
+          "username": "month3999"
+        },
+        {
+          "end": 31,
+          "id": "1701484460250890240",
+          "start": 15,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074150733289828772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073638790015701160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @month3999: @SonogamiRinneTS 汉谟拉比法典第196条规定，如果一个自由民毁掉另一个自由民的眼睛，那么他的眼睛也应该被毁掉😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2074150733289828772",
+        "created_at": "2026-07-06T15:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074150733289828772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038187797459132416",
+              "start": 3,
+              "username": "month3999"
+            },
+            {
+              "end": 31,
+              "id": "1701484460250890240",
+              "start": 15,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074150733289828772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073638790015701160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @month3999: @SonogamiRinneTS 汉谟拉比法典第196条规定，如果一个自由民毁掉另一个自由民的眼睛，那么他的眼睛也应该被毁掉😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038187797459132416",
+        "conversation_id": "2073601290878525517",
+        "created_at": "2026-07-05T05:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073638790015701160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073638790015701160",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073601290878525517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 汉谟拉比法典第196条规定，如果一个自由民毁掉另一个自由民的眼睛，那么他的眼睛也应该被毁掉😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 902,
+          "like_count": 5744,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1534
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:35:01.000Z",
+        "description": "哈基米南北路多，哈！\n\n也许是人，中焦轻郁    或许是🧐药娘？不od，不割手，发的东西纯开心为主，看看就好",
+        "id": "2038187797459132416",
+        "location": "离海特别远就是了",
+        "name": "month",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059035569691443200/zJu2UJYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 171,
+          "like_count": 2576,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "month3999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 3730,
+          "like_count": 1496,
+          "listed_count": 17,
+          "media_count": 284,
+          "tweet_count": 1964
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

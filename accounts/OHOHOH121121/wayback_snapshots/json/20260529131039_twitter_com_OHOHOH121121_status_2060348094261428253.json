@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060348088758448129"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060348094261428253",
+    "created_at": "2026-05-29T13:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060348094261428253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pm7akoXmE7",
+          "end": 53,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2060348094261428253/photo/1",
+          "media_key": "3_2060348088758448129",
+          "start": 30,
+          "url": "https://t.co/Pm7akoXmE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060348094261428253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我终于可以看了......\n不要再跟我说我该地区不能看了！ https://t.co/Pm7akoXmE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2060348088758448129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfTq6gaMAE6tzt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060348088758448129"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060348094261428253",
+        "created_at": "2026-05-29T13:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060348094261428253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pm7akoXmE7",
+              "end": 53,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2060348094261428253/photo/1",
+              "media_key": "3_2060348088758448129",
+              "start": 30,
+              "url": "https://t.co/Pm7akoXmE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060348094261428253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于可以看了......\n不要再跟我说我该地区不能看了！ https://t.co/Pm7akoXmE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 830,
+          "like_count": 4825,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 1214
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

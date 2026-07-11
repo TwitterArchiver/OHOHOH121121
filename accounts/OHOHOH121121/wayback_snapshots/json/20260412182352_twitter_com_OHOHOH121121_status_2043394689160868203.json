@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043254965578367481",
+    "created_at": "2026-04-12T18:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043394689160868203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980576726494375940",
+          "start": 0,
+          "username": "udf4bx3007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043394689160868203",
+    "in_reply_to_user_id": "1980576726494375940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043254965578367481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@udf4bx3007 ううっ、こういうのぜんぶ自分に当てはまって、もう焦って泣いちゃったよ🥲🥲😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043254965578367481",
+        "created_at": "2026-04-12T18:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043394689160868203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980576726494375940",
+              "start": 0,
+              "username": "udf4bx3007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043394689160868203",
+        "in_reply_to_user_id": "1980576726494375940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043254965578367481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@udf4bx3007 ううっ、こういうのぜんぶ自分に当てはまって、もう焦って泣いちゃったよ🥲🥲😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980576726494375940",
+        "conversation_id": "2043254965578367481",
+        "created_at": "2026-04-12T09:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043254965578367481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043254965578367481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 16891,
+          "like_count": 1197,
+          "quote_count": 22,
+          "reply_count": 5,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "顔デカすぎ、ブスすぎ、鼻でかすぎ、肩幅広すぎ、体格ゴツすぎ、足太すぎ、肌荒れしすぎ、目小さすぎ、眉毛と目離れすぎ、口分厚すぎ、カス消えろ死ね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 396,
+          "like_count": 2300,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 350
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T10:07:58.000Z",
+        "description": "🌳/顔面コンプ\n神聖かまってちゃんが好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/80f5rpgf869r9c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/80f5rpgf869r9c?t=layvw4&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/TW6LzUc4hN"
+              }
+            ]
+          }
+        },
+        "id": "1980576726494375940",
+        "name": "被害妄想",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008473276784537600/0zVR98Cx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 503,
+          "like_count": 47581,
+          "listed_count": 9,
+          "media_count": 53,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/TW6LzUc4hN",
+        "username": "udf4bx3007",
+        "verified": false
+      }
+    ]
+  }
+}

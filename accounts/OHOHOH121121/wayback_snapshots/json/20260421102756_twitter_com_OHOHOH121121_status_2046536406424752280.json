@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2046512513584406726",
+    "created_at": "2026-04-21T10:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046536406424752280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2002328381380272128",
+          "start": 0,
+          "username": "mauy_0426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046536406424752280",
+    "in_reply_to_user_id": "2002328381380272128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046512513584406726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mauy_0426 揉揉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2046512513584406726",
+        "created_at": "2026-04-21T10:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046536406424752280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2002328381380272128",
+              "start": 0,
+              "username": "mauy_0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046536406424752280",
+        "in_reply_to_user_id": "2002328381380272128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046512513584406726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mauy_0426 揉揉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002328381380272128",
+        "conversation_id": "2046512513584406726",
+        "created_at": "2026-04-21T08:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046512513584406726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046512513584406726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1203,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "からちゃんの歴史\n\n2011年\n当時20のシングル母の元に出生\n\n2021年\n母の男が暴力振るい保護\n\n2022年\n家出で捜索願\n\n2023年\n初トー横&amp;初○D\n案件始めた\n\n2024年\n自○未遂で入院\nリ久力で搬送\n\n2025年\n病み垢で炎上商法始める\n自○未遂で入院\n\n2026年\n病み垢凍結&amp;保護観察\n↑イマココ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 506,
+          "like_count": 2951,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 499
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T10:42:25.000Z",
+        "description": "14歳\n251♡@nam_coco04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "nam_coco04"
+              }
+            ]
+          }
+        },
+        "id": "2002328381380272128",
+        "location": "♡東海♡",
+        "name": "からさん",
+        "pinned_tweet_id": "2046157121855820267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045126989569536000/2suxH5DL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 50,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 42
+        },
+        "username": "mauy_0426",
+        "verified": false
+      }
+    ]
+  }
+}

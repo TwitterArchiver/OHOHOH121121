@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048339681901977769",
+    "created_at": "2026-04-27T08:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048675628401164666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1111042409725452288",
+          "start": 0,
+          "username": "shimo_shina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048675628401164666",
+    "in_reply_to_user_id": "1111042409725452288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048674707978047990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimo_shina 責任追及が怖いから子供に『死ね』と言い放つ人間を、あなたは『可哀想』と呼ぶの？それは共感ではなく、ただの加害への加担だよ。仕事の重圧と、相手の生存権を否定する暴言は全くの別物。その境界線も分からないなら、あなたもその職員と同じで、人の心を持ってないんだね。本当に吐き気がする。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-27T08:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048675628401164666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1111042409725452288",
+              "start": 0,
+              "username": "shimo_shina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048675628401164666",
+        "in_reply_to_user_id": "1111042409725452288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048674707978047990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimo_shina 責任追及が怖いから子供に『死ね』と言い放つ人間を、あなたは『可哀想』と呼ぶの？それは共感ではなく、ただの加害への加担だよ。仕事の重圧と、相手の生存権を否定する暴言は全くの別物。その境界線も分からないなら、あなたもその職員と同じで、人の心を持ってないんだね。本当に吐き気がする。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111042409725452288",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-27T08:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048674707978047990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048674707978047990",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048673270820643174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 一時保護している子供が行方不明になって大騒ぎ確実で\n責任問題として上層部から処罰を受けてもおかしくない哀れな職員を\nそんな鬼畜のような目線で見れないよ\n脱走した子と同じくらいに被害者だよ\n差別じゃないね、それだけ追い詰められていたんだ職員は"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 657,
+          "like_count": 3599,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 721
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-27T23:08:47.000Z",
+        "description": "成年　例のアレ　個人Vを目指し挫折→FANZA同人 総合ランキング 24時間にしようとし続かず→コミケ垢にしようと試行→冬夏に春日部つくし折り本出す→冬コミ新刊用意中",
+        "id": "1111042409725452288",
+        "location": "埼玉県江東区有明３丁目１１−１ビッグサイト",
+        "name": "エズパコ@1日目火曜西ね49b",
+        "pinned_tweet_id": "1804844644960002174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693267793284853760/j6v9fIHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 7501,
+          "like_count": 223122,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 93692
+        },
+        "username": "shimo_shina",
+        "verified": false
+      }
+    ]
+  }
+}

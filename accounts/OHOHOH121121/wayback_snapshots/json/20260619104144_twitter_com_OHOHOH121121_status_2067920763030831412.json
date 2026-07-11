@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2067920763030831412",
+    "created_at": "2026-06-19T10:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067920763030831412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2067877090058526866",
+          "start": 99,
+          "url": "https://t.co/UGz6E8pT3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067920763030831412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067877090058526866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爱你，请你好好的爱自己。\n-----晴。\n其实我本来以为我会说出什么恶毒的话语，说以后不仅会受待很多灾难这些的甚至存活在另一个人身体很倒霉的要把自己杀死。\n但是我想了想，“我”其实也是无辜的啊。 https://t.co/UGz6E8pT3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_2067877081233661952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKTP9IaoAAhJXr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2067920763030831412",
+        "created_at": "2026-06-19T10:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067920763030831412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2067877090058526866",
+              "start": 99,
+              "url": "https://t.co/UGz6E8pT3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067920763030831412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067877090058526866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爱你，请你好好的爱自己。\n-----晴。\n其实我本来以为我会说出什么恶毒的话语，说以后不仅会受待很多灾难这些的甚至存活在另一个人身体很倒霉的要把自己杀死。\n但是我想了想，“我”其实也是无辜的啊。 https://t.co/UGz6E8pT3o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067877081233661952"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2067877090058526866",
+        "created_at": "2026-06-19T07:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067877090058526866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bz5OGI661l",
+              "end": 47,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2067877090058526866/photo/1",
+              "media_key": "3_2067877081233661952",
+              "start": 24,
+              "url": "https://t.co/bz5OGI661l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067877090058526866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "假如碰到小时候的自己，你会对ta说：..... https://t.co/bz5OGI661l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 858,
+          "like_count": 5153,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 1317
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 4131,
+          "like_count": 42803,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 12112
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "2073258880042418240",
+    "created_at": "2026-07-04T04:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073258880042418240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1906170707329069057",
+          "start": 3,
+          "username": "Insomniacangel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073258880042418240",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072786288445444376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Insomniacangel_: De verdad que debo matarme, no debo de pensarlo mucho. Sé que la familia se puede destruir, mi mamá y papá pueden mori…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2073258880042418240",
+        "created_at": "2026-07-04T04:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073258880042418240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1906170707329069057",
+              "start": 3,
+              "username": "Insomniacangel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073258880042418240",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072786288445444376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Insomniacangel_: De verdad que debo matarme, no debo de pensarlo mucho. Sé que la familia se puede destruir, mi mamá y papá pueden mori…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906170707329069057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2072786288445444376",
+        "created_at": "2026-07-02T20:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072786288445444376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072786288445444376",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 11912,
+          "like_count": 771,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "De verdad que debo matarme, no debo de pensarlo mucho. Sé que la familia se puede destruir, mi mamá y papá pueden morir del dolor, pero, si ellos se ponen a pensar, ¿no es más fácil todo sin mí? soy un enfermo mental que no mejora, no hago dinero, no estudio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 892,
+          "like_count": 5670,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 1502
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T02:24:55.000Z",
+        "description": "𖦹 𝘎𝘦𝘯𝘥𝘦𝘳 𝘍𝘭𝘶𝘪𝘥⭑.ᐟ #subtwt #edtw #animetwt #shtwt #suicidetwt #yaoitwt  i'm autistic  𖦹 INFP-T⭑.ᐟ \n Vent acc 🧷 He/him 𖦹 asexual ♱\nm/w: @Sr_Friki0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "subtwt"
+              },
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "edtw"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "animetwt"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "yaoitwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "Sr_Friki0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/insomniacangel…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/insomniacangel_?igsh=YXAzNnZ0Mmt4eHJr",
+                "start": 0,
+                "url": "https://t.co/0OtUzcKYGs"
+              }
+            ]
+          }
+        },
+        "id": "1906170707329069057",
+        "location": "18y a guy with mental issues ",
+        "name": "𝐌𝐚𝐫𝐮𝐤𝐨 🖇️",
+        "pinned_tweet_id": "2061404170989482002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070942276700839936/Cs3VUJyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4797,
+          "following_count": 3509,
+          "like_count": 69744,
+          "listed_count": 25,
+          "media_count": 1928,
+          "tweet_count": 31259
+        },
+        "url": "https://t.co/0OtUzcKYGs",
+        "username": "Insomniacangel_",
+        "verified": false
+      }
+    ]
+  }
+}

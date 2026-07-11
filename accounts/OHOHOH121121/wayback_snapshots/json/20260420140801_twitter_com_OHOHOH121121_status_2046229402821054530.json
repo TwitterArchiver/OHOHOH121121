@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2046229402821054530",
+    "created_at": "2026-04-20T14:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046229402821054530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1426015810472972298",
+          "start": 3,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046229402821054530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045907030301684222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyronANNO: 于此，我强烈反对任何人OD，尤其是以下几类：\n\n1.从未尝试，被人教唆或好奇而OD的\n2.为追求快感 / 幻觉的，娱乐目的的\n3.对服用药物完全不了解，包括药效学以及药动学的，特别是说明书看不懂或者干脆不看的\n4.身体素质本身一般的，特别是肝肾功能…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2046229402821054530",
+        "created_at": "2026-04-20T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046229402821054530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1426015810472972298",
+              "start": 3,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046229402821054530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045907030301684222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyronANNO: 于此，我强烈反对任何人OD，尤其是以下几类：\n\n1.从未尝试，被人教唆或好奇而OD的\n2.为追求快感 / 幻觉的，娱乐目的的\n3.对服用药物完全不了解，包括药效学以及药动学的，特别是说明书看不懂或者干脆不看的\n4.身体素质本身一般的，特别是肝肾功能…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "conversation_id": "2045907030301684222",
+        "created_at": "2026-04-19T16:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045907030301684222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TeamRain_2024/…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/TeamRain_2024/status/2045884442066157727",
+              "start": 153,
+              "url": "https://t.co/4aJmOPL5S0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045907030301684222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "于此，我强烈反对任何人OD，尤其是以下几类：\n\n1.从未尝试，被人教唆或好奇而OD的\n2.为追求快感 / 幻觉的，娱乐目的的\n3.对服用药物完全不了解，包括药效学以及药动学的，特别是说明书看不懂或者干脆不看的\n4.身体素质本身一般的，特别是肝肾功能有缺陷或有任何基础疾病的\n5.为了博流量 / 吸引关注的\n\nOD不仅是对心理健康不好，更是会对肝肾造成极大的代谢压力，因为OD真正（对达成目的而言）有效的部分一般是经肝脏代谢的产物，而这些产物作为非外环境的组成，排出体外对肾脏又有很高的压力，所以对肝肾都有极高的伤害\n\n请不要药物过量。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2698,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045884442066157727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于此，我强烈反对任何人OD，尤其是以下几类：\n\n1.从未尝试，被人教唆或好奇而OD的\n2.为追求快感 / 幻觉的，娱乐目的的\n3.对服用药物完全不了解，包括药效学以及药动学的，特别是说明书看不懂或者干脆不看的\n4.身体素质本身一般的，特别是肝肾功能有缺陷或有任何基础疾病的\n5.为了博流量 / 吸引关注的 https://t.co/4aJmOPL5S0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 506,
+          "like_count": 2941,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 493
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒フォロバ",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "pinned_tweet_id": "2045907030301684222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 891,
+          "like_count": 190790,
+          "listed_count": 0,
+          "media_count": 4926,
+          "tweet_count": 20688
+        },
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

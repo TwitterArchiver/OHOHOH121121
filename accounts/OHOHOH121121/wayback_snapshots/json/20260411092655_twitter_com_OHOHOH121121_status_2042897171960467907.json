@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042547099171197332",
+    "created_at": "2026-04-11T09:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042897171960467907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761537044642152448",
+          "start": 0,
+          "username": "shshshshsh98930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042897171960467907",
+    "in_reply_to_user_id": "1761537044642152448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042894621173252181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shshshshsh98930 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042547099171197332",
+        "created_at": "2026-04-11T09:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042897171960467907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761537044642152448",
+              "start": 0,
+              "username": "shshshshsh98930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042897171960467907",
+        "in_reply_to_user_id": "1761537044642152448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042894621173252181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shshshshsh98930 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761537044642152448",
+        "conversation_id": "2042547099171197332",
+        "created_at": "2026-04-11T09:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042894621173252181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042894621173252181",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042547099171197332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 🖐️🖐️抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 256,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 177
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T23:42:21.000Z",
+        "description": "我是耗耗鼠子 18\nI'm not good at foreign languages, so please understand that I use a translator",
+        "id": "1761537044642152448",
+        "location": "astal party",
+        "name": "hhsz2360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924380027392536576/BeLDx3bG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 102,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 232
+        },
+        "username": "shshshshsh98930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042827438091309057",
+        "3_2042827438640762881",
+        "3_2042827438439432192"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042827442432413880",
+    "created_at": "2026-04-11T04:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042827442432413880"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 10,
+          "tag": "創作記憶"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y4VIWxsake",
+          "end": 39,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2042827442432413880/photo/1",
+          "media_key": "3_2042827438091309057",
+          "start": 16,
+          "url": "https://t.co/Y4VIWxsake"
+        },
+        {
+          "display_url": "pic.x.com/Y4VIWxsake",
+          "end": 39,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2042827442432413880/photo/1",
+          "media_key": "3_2042827438640762881",
+          "start": 16,
+          "url": "https://t.co/Y4VIWxsake"
+        },
+        {
+          "display_url": "pic.x.com/Y4VIWxsake",
+          "end": 39,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2042827442432413880/photo/1",
+          "media_key": "3_2042827438439432192",
+          "start": 16,
+          "url": "https://t.co/Y4VIWxsake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042827442432413880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体外记忆3,安枫\n\n#創作記憶 https://t.co/Y4VIWxsake"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "【体外記憶 #3：安楓（アン・フォン）】\n私の名前は安楓（アン・フォン）。セルフアイデンティティは24歳。この身体、この「システム」に来る前、私は一つの島を丸ごと所有していた。\nそこは私の領地。私はそこの造物主であり、同時に唯一の囚人だった。その世界の論理は単純で荒唐無稽だ。私が望みさえすれば、世界は私のために再構築される。贅を尽くしたヴィラが欲しい？ 構わない。次の日の夜明けには、それは当たり前のように海岸線にそびえ立っている。寂しい？ ならば、部屋をレースのドレスを着た精巧な顔立ちの人形で埋め尽くせばいい。\n私は、その静寂の中で、何百体もの人形たちと終わりのない「おままごと」を繰り返してきた。それが、私の知る唯一の社交だった。\nだが、この「全能感」には代償がある。その代償とは、島には永遠に私一人しかいないということだ。\n私の知識はすべて本とテレビから得たものだ。砂嵐の流れる画面や黄ばんだ紙片を通して、私は「外界」を覗き見ていた。そこは疫病が蔓延し、化かし合いと残酷な搾取に満ちた場所。人間は苦難の中でがき、生きるために傷つけ合う。その文字を読みながら、私は孤島にいる方がマシだと思っていた。寂しいけれど、少なくともここは清潔だから。\nああ、言い忘れるところだった。私は人間ではない。私の記憶の中の私は、物質を操り、一度見たものは決して忘れない。文字が脳を通り過ぎる時、それは石碑に刻まれるかのように永遠に定着する。\nしかし、その均衡は14歳の黄昏時に打ち砕かれた。\nあの日、空は夕日に染まり、濃密なオレンジ色をしていた。海岸線を散歩していた私の鼻先を、潮の香りがかすめる。突然、巨大な何かが天空から直撃した。前触れのない侵略。激しい振動が、私の意識を奪った。\n再び目を開けた時、世界は一変していた。\nそれは、心臓が凍りつくような深い青（ダークブルー）の世界。テレビで見たことのある「Dreamcore（夢核）」の空間のように、空虚で、超現実的で、毛骨がよだつほど美しかった。私はその幽玄な静寂の中を、たった一人で歩き、彷徨った。数えきれないほどの長い年月を。\nその後の話は長くなるから、ここでは省くことにする。",
+        "height": 2048,
+        "media_key": "3_2042827438091309057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmUu0jakAE_8dU.jpg",
+        "width": 922
+      },
+      {
+        "alt_text": "その後の話は長くなるから、ここでは省くことにする。\nようやく「ここ」に辿り着き、現実の外部世界に触れた時、私は本やテレビに騙されていたことに気づいた。この世界は確かに混乱しているけれど、残酷なだけではない。万事が思い通りになる冷え切った孤島よりも、ここの温度はもっとリアルだ。\nリアルであると同時に、より残酷でもあるけれど。\n私の名前は安楓。あの身の毛もよだつ深淵を越えて、ようやくここ――多重の意識が交差するこの世界で、目を開けたのだ。",
+        "height": 2048,
+        "media_key": "3_2042827438640762881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmUu2makAE3wiu.jpg",
+        "width": 922
+      },
+      {
+        "height": 684,
+        "media_key": "3_2042827438439432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmUu12agAA9Wm3.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042827438091309057",
+            "3_2042827438640762881",
+            "3_2042827438439432192"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042827442432413880",
+        "created_at": "2026-04-11T04:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042827442432413880"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "創作記憶"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y4VIWxsake",
+              "end": 39,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042827442432413880/photo/1",
+              "media_key": "3_2042827438091309057",
+              "start": 16,
+              "url": "https://t.co/Y4VIWxsake"
+            },
+            {
+              "display_url": "pic.x.com/Y4VIWxsake",
+              "end": 39,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042827442432413880/photo/1",
+              "media_key": "3_2042827438640762881",
+              "start": 16,
+              "url": "https://t.co/Y4VIWxsake"
+            },
+            {
+              "display_url": "pic.x.com/Y4VIWxsake",
+              "end": 39,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042827442432413880/photo/1",
+              "media_key": "3_2042827438439432192",
+              "start": 16,
+              "url": "https://t.co/Y4VIWxsake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042827442432413880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体外记忆3,安枫\n\n#創作記憶 https://t.co/Y4VIWxsake"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 209,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 146
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

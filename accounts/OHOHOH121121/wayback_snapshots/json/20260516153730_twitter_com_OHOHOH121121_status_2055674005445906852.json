@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2055674005445906852",
+    "created_at": "2026-05-16T15:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055674005445906852"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055674005445906852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上次写过好好的英语和华语作文是什么时候了？\n（为什么没有马来文呢，因为我压根不会写也没有写，初一的时候闪回和失忆状态开始越来越严重了）\n（但是最直观的一点是，我不是读书的料所以读不到书哈哈（每科拿10-20分真的很恐怖）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2055674005445906852",
+        "created_at": "2026-05-16T15:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055674005445906852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055674005445906852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上次写过好好的英语和华语作文是什么时候了？\n（为什么没有马来文呢，因为我压根不会写也没有写，初一的时候闪回和失忆状态开始越来越严重了）\n（但是最直观的一点是，我不是读书的料所以读不到书哈哈（每科拿10-20分真的很恐怖）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 704,
+          "like_count": 4272,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 1009
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

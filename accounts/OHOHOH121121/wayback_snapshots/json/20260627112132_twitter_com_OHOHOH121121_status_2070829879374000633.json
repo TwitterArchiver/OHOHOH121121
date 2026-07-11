@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070813251735351296"
+      ],
+      "media_source_tweet_id": [
+        "2070813338951704920"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2070829879374000633",
+    "created_at": "2026-06-27T11:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070829879374000633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053717016092295169",
+          "start": 3,
+          "username": "xixijun8827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3gTUJJpf3E",
+          "end": 64,
+          "expanded_url": "https://x.com/xixijun8827/status/2070813338951704920/photo/1",
+          "media_key": "3_2070813251735351296",
+          "start": 41,
+          "url": "https://t.co/3gTUJJpf3E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070829879374000633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070813338951704920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xixijun8827: 现在这号毁了，现在此寻回互fo，求帮转！🙏🙏🙏 https://t.co/3gTUJJpf3E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2070813251735351296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0BrknbcAAZvzo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070813251735351296"
+          ],
+          "media_source_tweet_id": [
+            "2070813338951704920"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070829879374000633",
+        "created_at": "2026-06-27T11:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070829879374000633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053717016092295169",
+              "start": 3,
+              "username": "xixijun8827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gTUJJpf3E",
+              "end": 64,
+              "expanded_url": "https://x.com/xixijun8827/status/2070813338951704920/photo/1",
+              "media_key": "3_2070813251735351296",
+              "start": 41,
+              "url": "https://t.co/3gTUJJpf3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070829879374000633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070813338951704920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xixijun8827: 现在这号毁了，现在此寻回互fo，求帮转！🙏🙏🙏 https://t.co/3gTUJJpf3E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070813251735351296"
+          ]
+        },
+        "author_id": "2053717016092295169",
+        "conversation_id": "2070813338951704920",
+        "created_at": "2026-06-27T10:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070813338951704920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gTUJJpf3E",
+              "end": 47,
+              "expanded_url": "https://x.com/xixijun8827/status/2070813338951704920/photo/1",
+              "media_key": "3_2070813251735351296",
+              "start": 24,
+              "url": "https://t.co/3gTUJJpf3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070813338951704920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "现在这号毁了，现在此寻回互fo，求帮转！🙏🙏🙏 https://t.co/3gTUJJpf3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 880,
+          "like_count": 5467,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟鬼/od 已转生@caicaixi9927\n祝你天天开心,来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "caicaixi9927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 69,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 46,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "location": "Uryu-cho, Hokkaidō",
+        "name": "无问",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 153,
+          "like_count": 3713,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "xixijun8827",
+        "verified": false
+      }
+    ]
+  }
+}

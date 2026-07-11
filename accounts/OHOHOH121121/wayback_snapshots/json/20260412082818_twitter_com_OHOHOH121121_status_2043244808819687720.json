@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043243742958850524",
+    "created_at": "2026-04-12T08:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043244808819687720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800150674761728000",
+          "start": 0,
+          "username": "0___qwq___0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043244808819687720",
+    "in_reply_to_user_id": "1800150674761728000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043244717333438684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0___qwq___0 没关系，shopee有！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043243742958850524",
+        "created_at": "2026-04-12T08:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043244808819687720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800150674761728000",
+              "start": 0,
+              "username": "0___qwq___0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043244808819687720",
+        "in_reply_to_user_id": "1800150674761728000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043244717333438684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0___qwq___0 没关系，shopee有！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800150674761728000",
+        "conversation_id": "2043243742958850524",
+        "created_at": "2026-04-12T08:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043244717333438684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043244717333438684",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043243742958850524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 马来西亚居然吃不到吗😨本地有没有什么可替代的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 337,
+          "like_count": 1872,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 284
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T12:59:13.000Z",
+        "description": "she/they/any｜pan｜11.4.3｜不为本账号任何内容负责｜mostly nonsense｜some fanart ｜Think twice before you follow|⚠️ sh&od",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwq89065",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwq89065",
+                "start": 0,
+                "url": "https://t.co/B0VUQT66x1"
+              }
+            ]
+          }
+        },
+        "id": "1800150674761728000",
+        "location": "my room",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039522552243228672/01UbFAUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 642,
+          "like_count": 1848,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/B0VUQT66x1",
+        "username": "0___qwq___0",
+        "verified": false
+      }
+    ]
+  }
+}

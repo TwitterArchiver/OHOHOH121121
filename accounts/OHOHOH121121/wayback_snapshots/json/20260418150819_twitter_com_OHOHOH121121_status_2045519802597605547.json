@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045285353981112472",
+    "created_at": "2026-04-18T15:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045519802597605547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1390322184157990914",
+          "start": 0,
+          "username": "moleucools"
+        },
+        {
+          "end": 24,
+          "id": "1854791437583548416",
+          "start": 12,
+          "username": "mine_eeee83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045519802597605547",
+    "in_reply_to_user_id": "1390322184157990914",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045408893703278744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moleucools @mine_eeee83 ada，tetapi nak tengok apa pilihan kamu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045285353981112472",
+        "created_at": "2026-04-18T15:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045519802597605547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390322184157990914",
+              "start": 0,
+              "username": "moleucools"
+            },
+            {
+              "end": 24,
+              "id": "1854791437583548416",
+              "start": 12,
+              "username": "mine_eeee83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045519802597605547",
+        "in_reply_to_user_id": "1390322184157990914",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045408893703278744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moleucools @mine_eeee83 ada，tetapi nak tengok apa pilihan kamu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390322184157990914",
+        "conversation_id": "2045285353981112472",
+        "created_at": "2026-04-18T07:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045408893703278744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854791437583548416",
+              "start": 0,
+              "username": "mine_eeee83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045408893703278744",
+        "in_reply_to_user_id": "1854791437583548416",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1846,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045285353981112472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mine_eeee83 yang aku tau sih gak ada yh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 493,
+          "like_count": 2872,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 462
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T15:07:16.000Z",
+        "description": "treat people with kindness.",
+        "id": "1390322184157990914",
+        "location": "one direction ",
+        "name": "ociz",
+        "pinned_tweet_id": "1596450429411667968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043610385174179840/5myuEPKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3448,
+          "following_count": 2316,
+          "like_count": 36492,
+          "listed_count": 4,
+          "media_count": 1374,
+          "tweet_count": 47694
+        },
+        "username": "moleucools",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-08T07:42:10.000Z",
+        "description": "社不ゴミカスギタリスト　⚤\n251 @k492490",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "k492490"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/mine_eeee83/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/mine_eeee83/",
+                "start": 0,
+                "url": "https://t.co/haX08BDtrA"
+              }
+            ]
+          }
+        },
+        "id": "1854791437583548416",
+        "location": "ねるねるねーるね",
+        "name": "みね",
+        "pinned_tweet_id": "2020993558724157857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035748938175959041/vsd5cDUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 477,
+          "like_count": 2658,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/haX08BDtrA",
+        "username": "mine_eeee83",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048218185628041533",
+    "created_at": "2026-04-26T01:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048218185628041533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1693576340057047040",
+          "start": 3,
+          "username": "zmzmzmzm1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048218185628041533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048031092964553201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zmzmzmzm1234567: 好想枪毙所有认识我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048218185628041533",
+        "created_at": "2026-04-26T01:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048218185628041533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1693576340057047040",
+              "start": 3,
+              "username": "zmzmzmzm1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048218185628041533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048031092964553201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zmzmzmzm1234567: 好想枪毙所有认识我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693576340057047040",
+        "conversation_id": "2048031092964553201",
+        "created_at": "2026-04-25T13:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048031092964553201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048031092964553201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "好想枪毙所有认识我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 593,
+          "like_count": 3292,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 615
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T10:50:47.000Z",
+        "description": "请节哀。请节哀",
+        "id": "1693576340057047040",
+        "location": "丑人投胎点",
+        "name": "https://",
+        "pinned_tweet_id": "1796176591539630378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855114035282497536/fnP0WL3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 592,
+          "like_count": 20683,
+          "listed_count": 2,
+          "media_count": 1061,
+          "tweet_count": 13711
+        },
+        "username": "zmzmzmzm1234567",
+        "verified": false
+      }
+    ]
+  }
+}

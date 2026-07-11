@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2046950351480492167",
+    "created_at": "2026-04-23T06:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047197003164369118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028475985696591872",
+          "start": 0,
+          "username": "loser_2525_hapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047197003164369118",
+    "in_reply_to_user_id": "2028475985696591872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047107583023222969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loser_2525_hapi バイクで転んだ。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047107583023222969].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047107583023222969",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047107583023222969"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2046950351480492167",
+        "created_at": "2026-04-23T06:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047197003164369118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028475985696591872",
+              "start": 0,
+              "username": "loser_2525_hapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047197003164369118",
+        "in_reply_to_user_id": "2028475985696591872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047107583023222969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loser_2525_hapi バイクで転んだ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 512,
+          "like_count": 3000,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 522
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T14:23:39.000Z",
+        "description": "済 ♀︎ ペア@de_Blois21\n🗝@loser_happy_25\n出戻り",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "de_Blois21"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "loser_happy_25"
+              }
+            ]
+          }
+        },
+        "id": "2028475985696591872",
+        "location": "この世",
+        "name": "みねらる ﾀﾋ",
+        "pinned_tweet_id": "2043192423799812167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040748488284332032/7EXaFPyS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 174,
+          "like_count": 9751,
+          "listed_count": 10,
+          "media_count": 8,
+          "tweet_count": 2935
+        },
+        "username": "loser_2525_hapi",
+        "verified": false
+      }
+    ]
+  }
+}

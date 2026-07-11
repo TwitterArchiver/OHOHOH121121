@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Handstands",
+          "id": "872573517132320768",
+          "name": "Handstands"
+        }
+      }
+    ],
+    "conversation_id": "2043984334944907369",
+    "created_at": "2026-04-14T09:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043984334944907369"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043984334944907369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "健全逼真的能不能去死啊。我好好讨论社会事情直接给我上来玩od梗和抑郁梗我再跟他们谈我倒立洗头。🤬🤬🤬\n健常者の無神経さ、マジで反吐が出る。社会問題をODや鬱ネタで茶化すとか低俗すぎ。二度と話さない🤬🤬🤬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Handstands",
+              "id": "872573517132320768",
+              "name": "Handstands"
+            }
+          }
+        ],
+        "conversation_id": "2043984334944907369",
+        "created_at": "2026-04-14T09:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043984334944907369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043984334944907369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健全逼真的能不能去死啊。我好好讨论社会事情直接给我上来玩od梗和抑郁梗我再跟他们谈我倒立洗头。🤬🤬🤬\n健常者の無神経さ、マジで反吐が出る。社会問題をODや鬱ネタで茶化すとか低俗すぎ。二度と話さない🤬🤬🤬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 457,
+          "like_count": 2577,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 391
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

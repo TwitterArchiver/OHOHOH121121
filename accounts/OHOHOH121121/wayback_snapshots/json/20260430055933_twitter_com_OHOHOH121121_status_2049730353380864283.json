@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2049707878374846895",
+    "created_at": "2026-04-30T05:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049730353380864283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002688318396653568",
+          "start": 0,
+          "username": "xoxo3048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049730353380864283",
+    "in_reply_to_user_id": "2002688318396653568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049707878374846895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xoxo3048 好美丽！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_2049707503123148800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIGHUEbsAAQdGf.jpg",
+        "width": 895
+      },
+      {
+        "height": 1705,
+        "media_key": "3_2049707535712800768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIGJNeaUAA--jl.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2049707878374846895",
+        "created_at": "2026-04-30T05:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049730353380864283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002688318396653568",
+              "start": 0,
+              "username": "xoxo3048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049730353380864283",
+        "in_reply_to_user_id": "2002688318396653568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049707878374846895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xoxo3048 好美丽！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049707503123148800",
+            "3_2049707535712800768"
+          ]
+        },
+        "author_id": "2002688318396653568",
+        "conversation_id": "2049707878374846895",
+        "created_at": "2026-04-30T04:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049707878374846895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lbik7UH2RR",
+              "end": 60,
+              "expanded_url": "https://x.com/xoxo3048/status/2049707878374846895/photo/1",
+              "media_key": "3_2049707503123148800",
+              "start": 37,
+              "url": "https://t.co/Lbik7UH2RR"
+            },
+            {
+              "display_url": "pic.x.com/Lbik7UH2RR",
+              "end": 60,
+              "expanded_url": "https://x.com/xoxo3048/status/2049707878374846895/photo/1",
+              "media_key": "3_2049707535712800768",
+              "start": 37,
+              "url": "https://t.co/Lbik7UH2RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049707878374846895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無地の手帳とか色んなものデコるの大好き\n中は基本お絵描き(ド下手許して) https://t.co/Lbik7UH2RR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 712,
+          "like_count": 4019,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 870
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T10:31:34.000Z",
+        "description": "♀️︙09︙病み垢︙情緒不安定︙独り言︙口悪い︙お別れブロ解︙OD︙🐿🦟︙エロ垢、出会い垢、通話、エンカ✘︙スぺ、DM(返信遅い)△︙虐待\n\n251＆ペア画▸︎▹︎ @YZzkvEwrZw52834\nペアネ▸︎▹︎ @larva_1173\nペアへ▸︎▹︎@ram_DA12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "YZzkvEwrZw52834"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "larva_1173"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "ram_DA12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/xoxo3048/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/xoxo3048/",
+                "start": 0,
+                "url": "https://t.co/aAnp7AxXaA"
+              }
+            ]
+          }
+        },
+        "id": "2002688318396653568",
+        "location": "見て手首からイチゴが出てきた！",
+        "name": "天藍　まい(ᐡ. ̫ .ᐡ )♡",
+        "pinned_tweet_id": "2028036029857591636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672818551517184/jd_Lwycj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1207,
+          "like_count": 63839,
+          "listed_count": 34,
+          "media_count": 43,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/aAnp7AxXaA",
+        "username": "xoxo3048",
+        "verified": false
+      }
+    ]
+  }
+}

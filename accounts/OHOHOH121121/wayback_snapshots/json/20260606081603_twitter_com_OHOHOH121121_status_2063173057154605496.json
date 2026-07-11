@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063068373949292544"
+      ],
+      "media_source_tweet_id": [
+        "2063068385890435202"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063173057154605496",
+    "created_at": "2026-06-06T08:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063173057154605496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042977978267951104",
+          "start": 3,
+          "username": "NoraX2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u6sBntIjNS",
+          "end": 59,
+          "expanded_url": "https://x.com/NoraX2026/status/2063068385890435202/photo/1",
+          "media_key": "3_2063068373949292544",
+          "start": 36,
+          "url": "https://t.co/u6sBntIjNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063173057154605496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063068385890435202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoraX2026: 好好珍惜这些软件吧，6.31号就要下架了 https://t.co/u6sBntIjNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2063068373949292544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKF9wWiXIAApuze.jpg",
+        "width": 436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063068373949292544"
+          ],
+          "media_source_tweet_id": [
+            "2063068385890435202"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063173057154605496",
+        "created_at": "2026-06-06T08:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063173057154605496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042977978267951104",
+              "start": 3,
+              "username": "NoraX2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6sBntIjNS",
+              "end": 59,
+              "expanded_url": "https://x.com/NoraX2026/status/2063068385890435202/photo/1",
+              "media_key": "3_2063068373949292544",
+              "start": 36,
+              "url": "https://t.co/u6sBntIjNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063173057154605496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063068385890435202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NoraX2026: 好好珍惜这些软件吧，6.31号就要下架了 https://t.co/u6sBntIjNS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063068373949292544"
+          ]
+        },
+        "author_id": "2042977978267951104",
+        "conversation_id": "2063068385890435202",
+        "created_at": "2026-06-06T01:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063068385890435202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6sBntIjNS",
+              "end": 44,
+              "expanded_url": "https://x.com/NoraX2026/status/2063068385890435202/photo/1",
+              "media_key": "3_2063068373949292544",
+              "start": 21,
+              "url": "https://t.co/u6sBntIjNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063068385890435202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 915442,
+          "like_count": 556,
+          "quote_count": 6,
+          "reply_count": 419,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "好好珍惜这些软件吧，6.31号就要下架了 https://t.co/u6sBntIjNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 845,
+          "like_count": 5025,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1269
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:49:06.000Z",
+        "description": "🎓经济学 & 心理学\n🌍从美国硅谷跑回深圳AI创业\n💰分享搞钱｜AI｜提升认知📑！\n\n利他是更高级的共赢",
+        "id": "2042977978267951104",
+        "location": "深圳",
+        "name": "Nora X",
+        "pinned_tweet_id": "2059969313524629898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046415173804806144/IqEHzmqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4277,
+          "following_count": 120,
+          "like_count": 5220,
+          "listed_count": 16,
+          "media_count": 394,
+          "tweet_count": 3444
+        },
+        "username": "NoraX2026",
+        "verified": true
+      }
+    ]
+  }
+}

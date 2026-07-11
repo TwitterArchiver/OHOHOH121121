@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2074008646321951099",
+    "created_at": "2026-07-06T05:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074008646321951099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056215337113382912",
+          "start": 3,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074008646321951099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073679096215900319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreeX2222: 同性恋是极好的\n异性恋是极好的\n当男生是极好的\n当女生是极好的\n中性是极好的\n世界是极好的\n互相爱着是极好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2074008646321951099",
+        "created_at": "2026-07-06T05:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074008646321951099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056215337113382912",
+              "start": 3,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074008646321951099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073679096215900319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreeX2222: 同性恋是极好的\n异性恋是极好的\n当男生是极好的\n当女生是极好的\n中性是极好的\n世界是极好的\n互相爱着是极好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056215337113382912",
+        "conversation_id": "2073679096215900319",
+        "created_at": "2026-07-05T08:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073679096215900319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073679096215900319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10409,
+          "like_count": 199,
+          "quote_count": 3,
+          "reply_count": 63,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "同性恋是极好的\n异性恋是极好的\n当男生是极好的\n当女生是极好的\n中性是极好的\n世界是极好的\n互相爱着是极好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 896,
+          "like_count": 5716,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1523
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeX114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JustCloudOvO",
+                "end": 23,
+                "expanded_url": "http://t.me/JustCloudOvO",
+                "start": 0,
+                "url": "https://t.co/Tc2lYEQM8o"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2068292679964983355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060272213274828800/VOo8qXtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21548,
+          "following_count": 172,
+          "like_count": 5329,
+          "listed_count": 13,
+          "media_count": 225,
+          "tweet_count": 1542
+        },
+        "url": "https://t.co/Tc2lYEQM8o",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

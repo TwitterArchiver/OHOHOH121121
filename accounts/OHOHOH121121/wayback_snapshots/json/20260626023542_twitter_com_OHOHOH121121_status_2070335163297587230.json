@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070101398503780352"
+      ],
+      "media_source_tweet_id": [
+        "2070325925930004540"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2070335163297587230",
+    "created_at": "2026-06-26T02:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070335163297587230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/As415AJTSq",
+          "end": 50,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2070325925930004540/photo/1",
+          "media_key": "3_2070101398503780352",
+          "start": 27,
+          "url": "https://t.co/As415AJTSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070335163297587230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070325925930004540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 我是炫彩大蟑螂 https://t.co/As415AJTSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2070101398503780352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp6QQrbcAA5eJ6.jpg",
+        "width": 625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070101398503780352"
+          ],
+          "media_source_tweet_id": [
+            "2070325925930004540"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070335163297587230",
+        "created_at": "2026-06-26T02:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070335163297587230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/As415AJTSq",
+              "end": 50,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2070325925930004540/photo/1",
+              "media_key": "3_2070101398503780352",
+              "start": 27,
+              "url": "https://t.co/As415AJTSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070335163297587230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070325925930004540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 我是炫彩大蟑螂 https://t.co/As415AJTSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070101398503780352"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2070325925930004540",
+        "created_at": "2026-06-26T01:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070325925930004540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/As415AJTSq",
+              "end": 31,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2070325925930004540/photo/1",
+              "media_key": "3_2070101398503780352",
+              "start": 8,
+              "url": "https://t.co/As415AJTSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070325925930004540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是炫彩大蟑螂 https://t.co/As415AJTSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 866,
+          "like_count": 5325,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 1377
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13501,
+          "following_count": 1700,
+          "like_count": 26303,
+          "listed_count": 16,
+          "media_count": 5436,
+          "tweet_count": 29018
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

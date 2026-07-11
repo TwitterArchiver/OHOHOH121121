@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2074809208193859614",
+    "created_at": "2026-07-08T10:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074809208193859614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "874081625260216321",
+          "start": 3,
+          "username": "FGJMNJ"
+        },
+        {
+          "end": 24,
+          "id": "3232393554",
+          "start": 12,
+          "username": "initiumnews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074809208193859614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074798128033657094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FGJMNJ: @initiumnews 性少数群体运动内核是支持平权反对强权，看一个人或组织，会不会反对独裁者，就知道ta们是真的多元文化认同者还是假装的了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2074809208193859614",
+        "created_at": "2026-07-08T10:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074809208193859614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "874081625260216321",
+              "start": 3,
+              "username": "FGJMNJ"
+            },
+            {
+              "end": 24,
+              "id": "3232393554",
+              "start": 12,
+              "username": "initiumnews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074809208193859614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074798128033657094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FGJMNJ: @initiumnews 性少数群体运动内核是支持平权反对强权，看一个人或组织，会不会反对独裁者，就知道ta们是真的多元文化认同者还是假装的了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874081625260216321",
+        "conversation_id": "2074357773899292942",
+        "created_at": "2026-07-08T10:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074798128033657094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3232393554",
+              "start": 0,
+              "username": "initiumnews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074798128033657094",
+        "in_reply_to_user_id": "3232393554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074357773899292942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@initiumnews 性少数群体运动内核是支持平权反对强权，看一个人或组织，会不会反对独裁者，就知道ta们是真的多元文化认同者还是假装的了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 907,
+          "like_count": 5781,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1544
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-12T01:51:13.000Z",
+        "description": "tear down the wall,\nopen the gate!",
+        "id": "874081625260216321",
+        "name": "低端人口",
+        "pinned_tweet_id": "1418853950401429504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729740141491613696/Ru4qGGvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 104,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "FGJMNJ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-01T10:16:14.000Z",
+        "description": "端傳媒成立於2015年，專注原創深度報導，已獲得逾100項新聞及攝影大獎。端傳媒是靠會員付費訂閱維繫的獨立媒體機構，成為訂閱會員，支持華文世界不可或缺的深度報導和多元聲音。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theinitium.com/?utm_source=tw…",
+                "end": 23,
+                "expanded_url": "http://theinitium.com/?utm_source=twitter&utm_medium=social&utm_campaign=tw_post",
+                "start": 0,
+                "url": "https://t.co/YjTSHovelF"
+              }
+            ]
+          }
+        },
+        "id": "3232393554",
+        "name": "端傳媒 Initium Media",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742186027173937152/Fjsm2UMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249225,
+          "following_count": 625,
+          "like_count": 380,
+          "listed_count": 1915,
+          "media_count": 14943,
+          "tweet_count": 40217
+        },
+        "url": "https://t.co/YjTSHovelF",
+        "username": "initiumnews",
+        "verified": true
+      }
+    ]
+  }
+}

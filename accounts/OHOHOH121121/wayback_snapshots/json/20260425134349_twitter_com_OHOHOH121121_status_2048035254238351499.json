@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047803720067670413",
+    "created_at": "2026-04-25T13:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048035254238351499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031790784857726976",
+          "start": 0,
+          "username": "emu0115s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048035254238351499",
+    "in_reply_to_user_id": "2031790784857726976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047803720067670413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emu0115s そうだね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047803720067670413",
+        "created_at": "2026-04-25T13:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048035254238351499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031790784857726976",
+              "start": 0,
+              "username": "emu0115s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048035254238351499",
+        "in_reply_to_user_id": "2031790784857726976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047803720067670413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emu0115s そうだね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031790784857726976",
+        "conversation_id": "2047803720067670413",
+        "created_at": "2026-04-24T22:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047803720067670413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047803720067670413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "いいねしてくれてる方って話しかけに行ってもいいやつ？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 552,
+          "like_count": 3149,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 595
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T17:55:04.000Z",
+        "description": "自発苦手だから話掛けて欲しいな\n18⤵︎ ︎メンヘラ♀︎🚺\n\n251/@OXXx_R_xXXo\n鍵/@ahodesu0115\nペア画/@rHLD8LCCEB39417\nかまちょです。\n自傷癖 JKです/ツイ消し常習犯\n精神障害持ち",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "OXXx_R_xXXo"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "ahodesu0115"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "rHLD8LCCEB39417"
+              }
+            ]
+          }
+        },
+        "id": "2031790784857726976",
+        "location": "九州〜",
+        "name": "えむ",
+        "pinned_tweet_id": "2046573926986514848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047953420079058944/7QldxPM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 147,
+          "like_count": 5481,
+          "listed_count": 6,
+          "media_count": 4,
+          "tweet_count": 199
+        },
+        "username": "emu0115s",
+        "verified": false
+      }
+    ]
+  }
+}

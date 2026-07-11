@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2054934664222216651",
+    "created_at": "2026-05-14T14:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054934664222216651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pinocchiop/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/pinocchiop/status/2054849203352805556",
+          "start": 9,
+          "url": "https://t.co/u9S7FFr9gR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054934664222216651",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054849203352805556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！！！明天新曲！ https://t.co/u9S7FFr9gR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2054743566132609024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPqYwvagAArSrI.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2054934664222216651",
+        "created_at": "2026-05-14T14:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054934664222216651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinocchiop/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/pinocchiop/status/2054849203352805556",
+              "start": 9,
+              "url": "https://t.co/u9S7FFr9gR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054934664222216651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054849203352805556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！！！明天新曲！ https://t.co/u9S7FFr9gR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054743566132609024"
+          ]
+        },
+        "author_id": "56027161",
+        "conversation_id": "2054849203352805556",
+        "created_at": "2026-05-14T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054849203352805556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfM7ZOO1ep",
+              "end": 28,
+              "expanded_url": "https://x.com/pinocchiop/status/2054849203352805556/photo/1",
+              "media_key": "3_2054743566132609024",
+              "start": 5,
+              "url": "https://t.co/gfM7ZOO1ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054849203352805556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 570,
+          "impression_count": 358844,
+          "like_count": 21485,
+          "quote_count": 365,
+          "reply_count": 41,
+          "retweet_count": 3676
+        },
+        "reply_settings": "everyone",
+        "text": "明日新曲 https://t.co/gfM7ZOO1ep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 698,
+          "like_count": 4231,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 995
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-12T05:31:08.000Z",
+        "description": "曲作るし絵を描く\n\nYouTube: https://t.co/ZSHUi3ZYTG\nShop: https://t.co/uKkLyW62x6\nOfficial Website: https://t.co/JG47KnKUV9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/pinocchio…",
+                "end": 42,
+                "expanded_url": "https://www.youtube.com/user/pinocchiopchannel",
+                "start": 19,
+                "url": "https://t.co/ZSHUi3ZYTG"
+              },
+              {
+                "display_url": "pinocchiop.booth.pm",
+                "end": 72,
+                "expanded_url": "https://pinocchiop.booth.pm/",
+                "start": 49,
+                "url": "https://t.co/uKkLyW62x6"
+              },
+              {
+                "display_url": "pinocchiop.com",
+                "end": 114,
+                "expanded_url": "https://pinocchiop.com/",
+                "start": 91,
+                "url": "https://t.co/JG47KnKUV9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pinocchiop",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pinocchiop",
+                "start": 0,
+                "url": "https://t.co/nUaGzgdstv"
+              }
+            ]
+          }
+        },
+        "id": "56027161",
+        "location": "悲しい埼玉(出身)",
+        "name": "ピノキオピー",
+        "pinned_tweet_id": "2024771019928428846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692066434829123584/dUAxMRna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582428,
+          "following_count": 1048,
+          "like_count": 17683,
+          "listed_count": 2937,
+          "media_count": 1977,
+          "tweet_count": 62456
+        },
+        "url": "https://t.co/nUaGzgdstv",
+        "username": "pinocchiop",
+        "verified": true
+      }
+    ]
+  }
+}

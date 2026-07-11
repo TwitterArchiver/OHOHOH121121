@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2073684196565094745",
+    "created_at": "2026-07-05T08:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073684196565094745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990864785685032960",
+          "start": 3,
+          "username": "Wygn4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073684196565094745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073512921418838463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wygn4m: 我目前对于视觉系傻逼乐队男的标准 \n裸奔无所谓。\n威胁别人无所谓。\n到处骂人无所谓。\n磕药自殘无所谓。\n恐怖袭击无所谓。\n跟别的乐队起冲突无所谓。\n绑定时炸弹在街头自爆无所谓。\n拿着刀追人无所谓。\n开车撞死人无所谓。\n操未成年去死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2073684196565094745",
+        "created_at": "2026-07-05T08:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073684196565094745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990864785685032960",
+              "start": 3,
+              "username": "Wygn4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073684196565094745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073512921418838463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wygn4m: 我目前对于视觉系傻逼乐队男的标准 \n裸奔无所谓。\n威胁别人无所谓。\n到处骂人无所谓。\n磕药自殘无所谓。\n恐怖袭击无所谓。\n跟别的乐队起冲突无所谓。\n绑定时炸弹在街头自爆无所谓。\n拿着刀追人无所谓。\n开车撞死人无所谓。\n操未成年去死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990864785685032960",
+        "conversation_id": "2073512921418838463",
+        "created_at": "2026-07-04T21:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073512921418838463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073512921418838463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2753,
+          "like_count": 108,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我目前对于视觉系傻逼乐队男的标准 \n裸奔无所谓。\n威胁别人无所谓。\n到处骂人无所谓。\n磕药自殘无所谓。\n恐怖袭击无所谓。\n跟别的乐队起冲突无所谓。\n绑定时炸弹在街头自爆无所谓。\n拿着刀追人无所谓。\n开车撞死人无所谓。\n操未成年去死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 896,
+          "like_count": 5682,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T19:29:45.000Z",
+        "description": "我是owai ｜这人是个自闭症啊 ｜ADHD并患焦虑抑郁治疗中｜发碎碎念 我的画 自拍照｜我喜欢リリカ gulugulu 毒針 鮮血A子ちゃん｜日本語を勉強しています",
+        "id": "1990864785685032960",
+        "name": "おわい⛑️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066967970408968192/VSOEXV9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 125,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "Wygn4m",
+        "verified": false
+      }
+    ]
+  }
+}

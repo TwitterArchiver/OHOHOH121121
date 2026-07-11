@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042234047171342423",
+    "created_at": "2026-04-09T14:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042245670728572989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014210890443509760",
+          "start": 0,
+          "username": "LGkUZSViC996358"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042245670728572989",
+    "in_reply_to_user_id": "2014210890443509760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042237534261092543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGkUZSViC996358 はい、hh。マレー語も中国語もできなくても大丈夫です。私もあなたともっとたくさんお話しできたら嬉しいです。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042237534261092543].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042237534261092543",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042237534261092543"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042234047171342423",
+        "created_at": "2026-04-09T14:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042245670728572989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014210890443509760",
+              "start": 0,
+              "username": "LGkUZSViC996358"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042245670728572989",
+        "in_reply_to_user_id": "2014210890443509760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042237534261092543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGkUZSViC996358 はい、hh。マレー語も中国語もできなくても大丈夫です。私もあなたともっとたくさんお話しできたら嬉しいです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 69,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T05:38:10.000Z",
+        "description": "最奥",
+        "id": "2014210890443509760",
+        "name": "さぬき",
+        "pinned_tweet_id": "2041590580162261176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649150956826624/hINQF2ZU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 3643,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1865
+        },
+        "username": "LGkUZSViC996358",
+        "verified": false
+      }
+    ]
+  }
+}

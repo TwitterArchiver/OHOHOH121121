@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049420203227037696"
+      ],
+      "media_source_tweet_id": [
+        "2049420306197237901"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2049500786770755706",
+    "created_at": "2026-04-29T14:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049500786770755706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1111345280",
+          "start": 3,
+          "username": "shiromamono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DvsyxEFjhT",
+          "end": 83,
+          "expanded_url": "https://x.com/shiromamono/status/2049420306197237901/photo/1",
+          "media_key": "3_2049420203227037696",
+          "start": 60,
+          "url": "https://t.co/DvsyxEFjhT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049500786770755706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6593
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049420306197237901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiromamono: シャッターちゃんす！！\nKasane Teto &amp; Hatsune Miku https://t.co/DvsyxEFjhT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2600,
+        "media_key": "3_2049420203227037696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEA0QjbQAAhpSX.png",
+        "width": 1938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049420203227037696"
+          ],
+          "media_source_tweet_id": [
+            "2049420306197237901"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2049500786770755706",
+        "created_at": "2026-04-29T14:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049500786770755706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1111345280",
+              "start": 3,
+              "username": "shiromamono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvsyxEFjhT",
+              "end": 83,
+              "expanded_url": "https://x.com/shiromamono/status/2049420306197237901/photo/1",
+              "media_key": "3_2049420203227037696",
+              "start": 60,
+              "url": "https://t.co/DvsyxEFjhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049500786770755706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6593
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049420306197237901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiromamono: シャッターちゃんす！！\nKasane Teto &amp; Hatsune Miku https://t.co/DvsyxEFjhT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049420203227037696"
+          ]
+        },
+        "author_id": "1111345280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          }
+        ],
+        "conversation_id": "2049420306197237901",
+        "created_at": "2026-04-29T09:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049420306197237901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvsyxEFjhT",
+              "end": 66,
+              "expanded_url": "https://x.com/shiromamono/status/2049420306197237901/photo/1",
+              "media_key": "3_2049420203227037696",
+              "start": 43,
+              "url": "https://t.co/DvsyxEFjhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049420306197237901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3544,
+          "impression_count": 587952,
+          "like_count": 58827,
+          "quote_count": 177,
+          "reply_count": 63,
+          "retweet_count": 6593
+        },
+        "reply_settings": "everyone",
+        "text": "シャッターちゃんす！！\nKasane Teto &amp; Hatsune Miku https://t.co/DvsyxEFjhT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 704,
+          "like_count": 3991,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 860
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-22T11:54:15.000Z",
+        "description": "Yostarな感じの絵をあげたりしてます。\n自分からコミュニティに入れないのでコメントは凄く嬉しい。\n Every comment on my posts so happy.\n I use AI to SFW illustrations.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113228620",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/113228620",
+                "start": 0,
+                "url": "https://t.co/gV9c89AN1p"
+              }
+            ]
+          }
+        },
+        "id": "1111345280",
+        "location": "日本",
+        "name": "白まもの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886560815953928194/fMNy1EWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42194,
+          "following_count": 557,
+          "like_count": 9399,
+          "listed_count": 169,
+          "media_count": 348,
+          "tweet_count": 2606
+        },
+        "url": "https://t.co/gV9c89AN1p",
+        "username": "shiromamono",
+        "verified": true
+      }
+    ]
+  }
+}

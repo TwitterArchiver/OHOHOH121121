@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043466910407520580",
+    "created_at": "2026-04-13T00:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T01:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043486994257604785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702357501830897664",
+          "start": 0,
+          "username": "Asimo_gizagiza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043486994257604785",
+    "in_reply_to_user_id": "1702357501830897664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043466910407520580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asimo_gizagiza おはよ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043466910407520580",
+        "created_at": "2026-04-13T00:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043486994257604785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1702357501830897664",
+              "start": 0,
+              "username": "Asimo_gizagiza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043486994257604785",
+        "in_reply_to_user_id": "1702357501830897664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043466910407520580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asimo_gizagiza おはよ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702357501830897664",
+        "conversation_id": "2043466910407520580",
+        "created_at": "2026-04-12T23:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T00:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043466910407520580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043466910407520580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはよー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 421,
+          "like_count": 2374,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 353
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T16:24:06.000Z",
+        "description": "うでちゃん💪グルーミーが好き💪\n🗝▶@EVbX9C453v98325💪会えません\nお別れブロ解　　　　　　　　　　　　　　💪絵垢→@Udemesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "EVbX9C453v98325"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "Udemesu"
+              }
+            ]
+          }
+        },
+        "id": "1702357501830897664",
+        "name": "うでめす",
+        "pinned_tweet_id": "2041359689230025037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023967973426556929/nsJ7egfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 299,
+          "like_count": 2391,
+          "listed_count": 9,
+          "media_count": 71,
+          "tweet_count": 952
+        },
+        "username": "Asimo_gizagiza",
+        "verified": false
+      }
+    ]
+  }
+}

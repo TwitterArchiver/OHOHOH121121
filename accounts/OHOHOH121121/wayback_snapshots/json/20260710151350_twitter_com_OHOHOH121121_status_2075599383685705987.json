@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2075599383685705987",
+    "created_at": "2026-07-10T15:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075599383685705987"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075599383685705987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "慢半拍是好事情啊。这样的话就算被人霸凌或者是被打情绪起伏没有那么大。\n虽然这个慢半拍太过慢了，以至于知道这是不对的直接承受不了。\n所以也是有缺点的，缺点是抗压能力没有那么强大。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2075599383685705987",
+        "created_at": "2026-07-10T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075599383685705987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075599383685705987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慢半拍是好事情啊。这样的话就算被人霸凌或者是被打情绪起伏没有那么大。\n虽然这个慢半拍太过慢了，以至于知道这是不对的直接承受不了。\n所以也是有缺点的，缺点是抗压能力没有那么强大。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 909,
+          "like_count": 5804,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1562
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

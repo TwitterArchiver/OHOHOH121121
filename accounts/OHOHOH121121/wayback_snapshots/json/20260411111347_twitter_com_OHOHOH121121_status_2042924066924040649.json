@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042594617573675395",
+    "created_at": "2026-04-11T11:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042924066924040649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949220315336470529",
+          "start": 0,
+          "username": "wimzylens0"
+        },
+        {
+          "end": 28,
+          "id": "1970359036014141442",
+          "start": 12,
+          "username": "Janeschanshadow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042924066924040649",
+    "in_reply_to_user_id": "1949220315336470529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042594617573675395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wimzylens0 @Janeschanshadow 恭喜恭喜！要99啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2042594613333233665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjA-ovakAEFXA0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042594617573675395",
+        "created_at": "2026-04-11T11:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042924066924040649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949220315336470529",
+              "start": 0,
+              "username": "wimzylens0"
+            },
+            {
+              "end": 28,
+              "id": "1970359036014141442",
+              "start": 12,
+              "username": "Janeschanshadow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042924066924040649",
+        "in_reply_to_user_id": "1949220315336470529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042594617573675395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wimzylens0 @Janeschanshadow 恭喜恭喜！要99啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042594613333233665"
+          ]
+        },
+        "author_id": "1949220315336470529",
+        "conversation_id": "2042594617573675395",
+        "created_at": "2026-04-10T13:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042594617573675395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1970359036014141442",
+              "start": 42,
+              "username": "Janeschanshadow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/koIpIYNBuw",
+              "end": 82,
+              "expanded_url": "https://x.com/wimzylens0/status/2042594617573675395/photo/1",
+              "media_key": "3_2042594613333233665",
+              "start": 59,
+              "url": "https://t.co/koIpIYNBuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042594617573675395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 596,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "´͈ ᵕ `͈  诶嘿\n小德的手握着真舒服\n喜欢小德 ε=ε=(ﾉ≧∇≦)ﾉ 爱你\n@Janeschanshadow https://t.co/koIpIYNBuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 284,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 195
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T21:28:55.000Z",
+        "description": "Dreams shattered into gummy bears | \n🧸超可爱的妹妹：@caliE694030 | 饲养员：@allthistime42 (仅限猫猫本喵使用)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "caliE694030"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "allthistime42"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wimzylens.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://wimzylens.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KTkSJFNezx"
+              }
+            ]
+          }
+        },
+        "id": "1949220315336470529",
+        "location": "dream",
+        "name": "Lens Zzz",
+        "pinned_tweet_id": "1994583508883575161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039483243272298496/Gsg8QZFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 255,
+          "like_count": 12576,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/KTkSJFNezx",
+        "username": "wimzylens0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T05:26:35.000Z",
+        "description": "普通人，情感障碍，喜欢胡思乱想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mnFpPaWw",
+                "end": 23,
+                "expanded_url": "https://discord.gg/mnFpPaWw",
+                "start": 0,
+                "url": "https://t.co/YncQnjG527"
+              }
+            ]
+          }
+        },
+        "id": "1970359036014141442",
+        "location": "法国 奥尔良",
+        "name": "Janes_chan",
+        "pinned_tweet_id": "1991412602229133657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372823140139008/wOgxSqLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 457,
+          "like_count": 20900,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/YncQnjG527",
+        "username": "Janeschanshadow",
+        "verified": false
+      }
+    ]
+  }
+}

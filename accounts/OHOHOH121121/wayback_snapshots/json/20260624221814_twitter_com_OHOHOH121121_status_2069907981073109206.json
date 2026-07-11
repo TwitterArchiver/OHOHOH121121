@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2069754601302286633",
+    "created_at": "2026-06-24T22:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T23:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069907981073109206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948268170302889984",
+          "start": 0,
+          "username": "LimTongyi84917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069907981073109206",
+    "in_reply_to_user_id": "1948268170302889984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069814666449301883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimTongyi84917 希望吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2069754601302286633",
+        "created_at": "2026-06-24T22:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069907981073109206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948268170302889984",
+              "start": 0,
+              "username": "LimTongyi84917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069907981073109206",
+        "in_reply_to_user_id": "1948268170302889984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069814666449301883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimTongyi84917 希望吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948268170302889984",
+        "conversation_id": "2069754601302286633",
+        "created_at": "2026-06-24T16:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069814666449301883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069814666449301883",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069754601302286633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 不会的，你会撑过去的🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 858,
+          "like_count": 5254,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T06:25:42.000Z",
+        "description": "叽里咕噜说什么呢。。我要睡觉了🛏️\n/会发自己唱歌/intp/世界只是一个巨大的乐色桶，大家都只是各种各样的乐色，我也是乐色/不聊任何黄色内容/内容超负面。（不是中国人。只是会中文。）",
+        "id": "1948268170302889984",
+        "name": "非人类",
+        "pinned_tweet_id": "2045141422475706869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036886027353415681/4ysRfabU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 55,
+          "like_count": 44150,
+          "listed_count": 0,
+          "media_count": 2564,
+          "tweet_count": 8730
+        },
+        "url": "",
+        "username": "LimTongyi84917",
+        "verified": false
+      }
+    ]
+  }
+}

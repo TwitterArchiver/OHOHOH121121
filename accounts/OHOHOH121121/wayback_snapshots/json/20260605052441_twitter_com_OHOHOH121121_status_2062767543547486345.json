@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062767528158584832"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2062767543547486345",
+    "created_at": "2026-06-05T05:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062767543547486345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gsCCSqGzIo",
+          "end": 53,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2062767543547486345/photo/1",
+          "media_key": "3_2062767528158584832",
+          "start": 30,
+          "url": "https://t.co/gsCCSqGzIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062767543547486345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这东西我经常在a片里看到。\n一般都是在男生的脸上。（暴言） https://t.co/gsCCSqGzIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062767528158584832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBsI0oaYAAzgKw.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062767528158584832"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2062767543547486345",
+        "created_at": "2026-06-05T05:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062767543547486345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsCCSqGzIo",
+              "end": 53,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2062767543547486345/photo/1",
+              "media_key": "3_2062767528158584832",
+              "start": 30,
+              "url": "https://t.co/gsCCSqGzIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062767543547486345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这东西我经常在a片里看到。\n一般都是在男生的脸上。（暴言） https://t.co/gsCCSqGzIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 822,
+          "like_count": 4913,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 1238
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

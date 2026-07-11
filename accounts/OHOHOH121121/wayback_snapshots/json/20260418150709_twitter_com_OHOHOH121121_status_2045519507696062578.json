@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045285353981112472",
+    "created_at": "2026-04-18T15:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045519507696062578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854791437583548416",
+          "start": 0,
+          "username": "mine_eeee83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045519507696062578",
+    "in_reply_to_user_id": "1854791437583548416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045285353981112472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mine_eeee83 是的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045285353981112472",
+        "created_at": "2026-04-18T15:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045519507696062578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854791437583548416",
+              "start": 0,
+              "username": "mine_eeee83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045519507696062578",
+        "in_reply_to_user_id": "1854791437583548416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045285353981112472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mine_eeee83 是的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854791437583548416",
+        "conversation_id": "2045285353981112472",
+        "created_at": "2026-04-17T23:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045285353981112472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045285353981112472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 399,
+          "impression_count": 502855,
+          "like_count": 9005,
+          "quote_count": 53,
+          "reply_count": 53,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "海外にも病み垢界隈ってあんのかな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 493,
+          "like_count": 2872,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 461
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:42:10.000Z",
+        "description": "社不ゴミカスギタリスト　⚤\n251 @k492490",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "k492490"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/mine_eeee83/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/mine_eeee83/",
+                "start": 0,
+                "url": "https://t.co/haX08BDtrA"
+              }
+            ]
+          }
+        },
+        "id": "1854791437583548416",
+        "location": "ねるねるねーるね",
+        "name": "みね",
+        "pinned_tweet_id": "2020993558724157857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035748938175959041/vsd5cDUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 477,
+          "like_count": 2658,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/haX08BDtrA",
+        "username": "mine_eeee83",
+        "verified": false
+      }
+    ]
+  }
+}

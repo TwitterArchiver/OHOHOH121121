@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071150547407962112",
+        "3_2071150557532942336",
+        "3_2071150569075675136",
+        "3_2071150583042674688"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2071150592517623840",
+    "created_at": "2026-06-28T08:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071150592517623840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bLdxr5DGW",
+          "end": 26,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+          "media_key": "3_2071150547407962112",
+          "start": 3,
+          "url": "https://t.co/9bLdxr5DGW"
+        },
+        {
+          "display_url": "pic.x.com/9bLdxr5DGW",
+          "end": 26,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+          "media_key": "3_2071150557532942336",
+          "start": 3,
+          "url": "https://t.co/9bLdxr5DGW"
+        },
+        {
+          "display_url": "pic.x.com/9bLdxr5DGW",
+          "end": 26,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+          "media_key": "3_2071150569075675136",
+          "start": 3,
+          "url": "https://t.co/9bLdxr5DGW"
+        },
+        {
+          "display_url": "pic.x.com/9bLdxr5DGW",
+          "end": 26,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+          "media_key": "3_2071150583042674688",
+          "start": 3,
+          "url": "https://t.co/9bLdxr5DGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071150592517623840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画。 https://t.co/9bLdxr5DGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2071150547407962112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL40cw6bgAAd0Qq.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2071150557532942336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL40dWoacAAJeDW.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2071150569075675136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL40eBoakAAnfMq.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2071150583042674688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL40e1qaEAAJ04Z.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071150547407962112",
+            "3_2071150557532942336",
+            "3_2071150569075675136",
+            "3_2071150583042674688"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2071150592517623840",
+        "created_at": "2026-06-28T08:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071150592517623840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bLdxr5DGW",
+              "end": 26,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+              "media_key": "3_2071150547407962112",
+              "start": 3,
+              "url": "https://t.co/9bLdxr5DGW"
+            },
+            {
+              "display_url": "pic.x.com/9bLdxr5DGW",
+              "end": 26,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+              "media_key": "3_2071150557532942336",
+              "start": 3,
+              "url": "https://t.co/9bLdxr5DGW"
+            },
+            {
+              "display_url": "pic.x.com/9bLdxr5DGW",
+              "end": 26,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+              "media_key": "3_2071150569075675136",
+              "start": 3,
+              "url": "https://t.co/9bLdxr5DGW"
+            },
+            {
+              "display_url": "pic.x.com/9bLdxr5DGW",
+              "end": 26,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2071150592517623840/photo/1",
+              "media_key": "3_2071150583042674688",
+              "start": 3,
+              "url": "https://t.co/9bLdxr5DGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071150592517623840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画。 https://t.co/9bLdxr5DGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 881,
+          "like_count": 5500,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 1447
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

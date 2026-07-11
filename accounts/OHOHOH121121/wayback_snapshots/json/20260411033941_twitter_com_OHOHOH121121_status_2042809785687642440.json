@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042809785687642440",
+    "created_at": "2026-04-11T03:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042809785687642440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1324052031708012545",
+          "start": 3,
+          "username": "pokemon_twts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042809785687642440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2867
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042613972973527154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pokemon_twts: ･ ｡\n    🫧｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     🫧｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. 🫧…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2042613968842186752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjSlRoW4AA1GNu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042809785687642440",
+        "created_at": "2026-04-11T03:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042809785687642440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1324052031708012545",
+              "start": 3,
+              "username": "pokemon_twts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042809785687642440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042613972973527154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pokemon_twts: ･ ｡\n    🫧｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     🫧｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. 🫧…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042613968842186752"
+          ]
+        },
+        "author_id": "1324052031708012545",
+        "conversation_id": "2042613972973527154",
+        "created_at": "2026-04-10T14:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042613972973527154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fk868D2hew",
+              "end": 234,
+              "expanded_url": "https://x.com/pokemon_twts/status/2042613972973527154/photo/1",
+              "media_key": "3_2042613968842186752",
+              "start": 211,
+              "url": "https://t.co/fk868D2hew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042613972973527154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 611,
+          "impression_count": 168701,
+          "like_count": 16832,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 2867
+        },
+        "reply_settings": "everyone",
+        "text": "･ ｡\n    🫧｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     🫧｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. 🫧\n                      °*.\n                      ﾟ*.\n                 ｡｡ ･\n             🫧 ･ﾟ\n       ｡°*.\n   ｡🫧･｡ https://t.co/fk868D2hew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 195,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 131
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T18:15:12.000Z",
+        "description": "Pokémon Visual Archive — curated nostalgia from every gen Everything belongs to Nintendo, Game Freak & TPCi. TCG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1835330650418627005",
+                "start": 0,
+                "url": "https://t.co/n9vRF0jr0w"
+              }
+            ]
+          }
+        },
+        "id": "1324052031708012545",
+        "name": "Why everyone loves Pokemon",
+        "pinned_tweet_id": "2039762609327559160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827799092270956544/sFV0JC-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107494,
+          "following_count": 19,
+          "like_count": 7034,
+          "listed_count": 161,
+          "media_count": 1392,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/n9vRF0jr0w",
+        "username": "pokemon_twts",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042113581739868179",
+    "created_at": "2026-04-09T09:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042176252761788471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723546829454032896",
+          "start": 0,
+          "username": "yeshsbxhjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042176252761788471",
+    "in_reply_to_user_id": "1723546829454032896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042113581739868179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeshsbxhjs 哎呦不行笑死了，加我一个🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042113581739868179",
+        "created_at": "2026-04-09T09:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042176252761788471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723546829454032896",
+              "start": 0,
+              "username": "yeshsbxhjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042176252761788471",
+        "in_reply_to_user_id": "1723546829454032896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042113581739868179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeshsbxhjs 哎呦不行笑死了，加我一个🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723546829454032896",
+        "conversation_id": "2042113581739868179",
+        "created_at": "2026-04-09T05:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042113581739868179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042113581739868179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备去卖冥币了身边那么多死了妈的一定能发财"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！09 （欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人🙌我很温良可以找我聊天🥹我很社恐 说话像人机 没回就是手机不在……或者我在睡觉 谢谢你们喜欢我呀！！",
+        "id": "1723546829454032896",
+        "location": "天堂",
+        "name": "秋秋OvO",
+        "pinned_tweet_id": "2038958911869555021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035225888196108288/aOw29pev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 150,
+          "like_count": 201,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 203
+        },
+        "username": "yeshsbxhjs",
+        "verified": false
+      }
+    ]
+  }
+}

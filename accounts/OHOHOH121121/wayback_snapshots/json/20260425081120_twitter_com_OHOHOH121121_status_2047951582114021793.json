@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047917201441927168"
+      ],
+      "media_source_tweet_id": [
+        "2047917232542425452"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047951582114021793",
+    "created_at": "2026-04-25T08:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047951582114021793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2034479048370352131",
+          "start": 3,
+          "username": "hyunjennnagua"
+        },
+        {
+          "end": 34,
+          "id": "1965246583379034117",
+          "start": 21,
+          "username": "hyunjennagua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3YFcMITYnc",
+          "end": 90,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2047917232542425452/photo/1",
+          "media_key": "3_2047917201441927168",
+          "start": 67,
+          "url": "https://t.co/3YFcMITYnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047951582114021793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047917232542425452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyunjennnagua: 大号@hyunjennagua 被人举报永久封禁 现在我要巡回推友\n\n请大家帮我转帖！谢谢🥺🥺 https://t.co/3YFcMITYnc"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hyunjennagua].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hyunjennagua",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hyunjennagua"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047917201441927168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGup2ClbsAA3QoR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047917201441927168"
+          ],
+          "media_source_tweet_id": [
+            "2047917232542425452"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047951582114021793",
+        "created_at": "2026-04-25T08:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047951582114021793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2034479048370352131",
+              "start": 3,
+              "username": "hyunjennnagua"
+            },
+            {
+              "end": 34,
+              "id": "1965246583379034117",
+              "start": 21,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YFcMITYnc",
+              "end": 90,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2047917232542425452/photo/1",
+              "media_key": "3_2047917201441927168",
+              "start": 67,
+              "url": "https://t.co/3YFcMITYnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047951582114021793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047917232542425452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyunjennnagua: 大号@hyunjennagua 被人举报永久封禁 现在我要巡回推友\n\n请大家帮我转帖！谢谢🥺🥺 https://t.co/3YFcMITYnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047917201441927168"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2047917232542425452",
+        "created_at": "2026-04-25T05:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047917232542425452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965246583379034117",
+              "start": 2,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YFcMITYnc",
+              "end": 71,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2047917232542425452/photo/1",
+              "media_key": "3_2047917201441927168",
+              "start": 48,
+              "url": "https://t.co/3YFcMITYnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047917232542425452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1263,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "大号@hyunjennagua 被人举报永久封禁 现在我要巡回推友\n\n请大家帮我转帖！谢谢🥺🥺 https://t.co/3YFcMITYnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 540,
+          "like_count": 3108,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 572
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜（二世巡回推友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 73,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

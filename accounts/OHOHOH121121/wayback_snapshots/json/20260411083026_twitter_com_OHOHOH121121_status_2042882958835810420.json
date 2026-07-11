@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042882958835810420",
+    "created_at": "2026-04-11T08:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042882958835810420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1946850497585086464",
+          "start": 3,
+          "username": "GAFAM0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042882958835810420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042880857795629564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GAFAM0615: この猫がいれば何言ってもいいかなって…そういう感じ…そんな感じ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042882958835810420",
+        "created_at": "2026-04-11T08:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042882958835810420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946850497585086464",
+              "start": 3,
+              "username": "GAFAM0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042882958835810420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042880857795629564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GAFAM0615: この猫がいれば何言ってもいいかなって…そういう感じ…そんな感じ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946850497585086464",
+        "conversation_id": "2042880857795629564",
+        "created_at": "2026-04-11T08:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042880857795629564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042880857795629564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "この猫がいれば何言ってもいいかなって…そういう感じ…そんな感じ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 231,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 169
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T08:31:51.000Z",
+        "description": "03 20↑\n         孤独から逃げてインターネットしてる\n         普通に独り言を吐く場所です。\n　　 なんだこいつってなったら遠慮なく消してくださいいい\n\n発言が多くてうるさいのでご理解していただけると嬉しいです…。\n\n自分が嫌いです。",
+        "id": "1946850497585086464",
+        "name": "!!!＆???",
+        "pinned_tweet_id": "2041926745650294880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041645962565967872/hRjfRID9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 461
+        },
+        "username": "GAFAM0615",
+        "verified": false
+      }
+    ]
+  }
+}

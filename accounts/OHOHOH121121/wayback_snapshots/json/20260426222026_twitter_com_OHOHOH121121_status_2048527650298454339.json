@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048339681901977769",
+    "created_at": "2026-04-26T22:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T23:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048527650298454339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545725859117801472",
+          "start": 0,
+          "username": "pipipi_pigumon"
+        },
+        {
+          "end": 32,
+          "id": "1948365390813310976",
+          "start": 16,
+          "username": "HsMmMThJ4V90618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048527650298454339",
+    "in_reply_to_user_id": "1545725859117801472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048513856931319833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pipipi_pigumon @HsMmMThJ4V90618 理解できないならその小さな口を閉じれば？誰もあんたのことなんて気にしてないし。ああ、転載して人を叩くことでしか存在感を示せないんだっけ。傷つけちゃって本当にごめんね🙄🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-26T22:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048527650298454339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545725859117801472",
+              "start": 0,
+              "username": "pipipi_pigumon"
+            },
+            {
+              "end": 32,
+              "id": "1948365390813310976",
+              "start": 16,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048527650298454339",
+        "in_reply_to_user_id": "1545725859117801472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048513856931319833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipipi_pigumon @HsMmMThJ4V90618 理解できないならその小さな口を閉じれば？誰もあんたのことなんて気にしてないし。ああ、転載して人を叩くことでしか存在感を示せないんだっけ。傷つけちゃって本当にごめんね🙄🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545725859117801472",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-26T21:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T22:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048513856931319833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1948365390813310976",
+              "start": 14,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048513856931319833",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412021058850935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @HsMmMThJ4V90618 差別ではねぇだろ。\n何言うてんねんお前。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 643,
+          "like_count": 3511,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 689
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:05:45.000Z",
+        "description": "北海道 既婚 日本国籍 ピグモン",
+        "id": "1545725859117801472",
+        "name": "ピグモン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736372891091140608/DQkdKLEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 117,
+          "like_count": 1210,
+          "listed_count": 19,
+          "media_count": 17,
+          "tweet_count": 19582
+        },
+        "username": "pipipi_pigumon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T12:51:45.000Z",
+        "description": "10/♀️/通信制休学中/トラウマ/ﾘｽｶ/0d/DM△その他自衛します",
+        "id": "1948365390813310976",
+        "name": "ちゃちゃまる",
+        "pinned_tweet_id": "1985689921236189522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950558527359213568/C0muAaV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 91,
+          "like_count": 22118,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 593
+        },
+        "username": "HsMmMThJ4V90618",
+        "verified": false
+      }
+    ]
+  }
+}

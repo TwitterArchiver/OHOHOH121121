@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2045862988322877571",
+    "created_at": "2026-04-19T13:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045862988322877571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1716325928479903744",
+          "start": 3,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045862988322877571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045191751170711601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiu_song60259: 其实春天很适合自杀，比其他季节都合适，夏天总是闷热，尸体会很快腐烂，长出蛆虫，阴郁的暴雨会冲散最后只剩腐肉的尸体。但春天不一样，在春天种下的种子能健康成长，在春天死掉的人埋进图里也会重新生长，这也是我对新的自己的期许吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045862988322877571",
+        "created_at": "2026-04-19T13:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045862988322877571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1716325928479903744",
+              "start": 3,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045862988322877571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045191751170711601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiu_song60259: 其实春天很适合自杀，比其他季节都合适，夏天总是闷热，尸体会很快腐烂，长出蛆虫，阴郁的暴雨会冲散最后只剩腐肉的尸体。但春天不一样，在春天种下的种子能健康成长，在春天死掉的人埋进图里也会重新生长，这也是我对新的自己的期许吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716325928479903744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045191751170711601",
+        "created_at": "2026-04-17T17:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045191751170711601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045191751170711601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 30843,
+          "like_count": 1441,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "其实春天很适合自杀，比其他季节都合适，夏天总是闷热，尸体会很快腐烂，长出蛆虫，阴郁的暴雨会冲散最后只剩腐肉的尸体。但春天不一样，在春天种下的种子能健康成长，在春天死掉的人埋进图里也会重新生长，这也是我对新的自己的期许吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 497,
+          "like_count": 2918,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 478
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "09苦逼美术生丨hello你们好我是苦瓜/小咪咪（别忘记我我喜欢改头像和名字TωT）|小号闭关只过互关熟人@Kuguadawang6677 我只是个可怜的住宿生上学常驻小号@o65518kuguagua 每天给我发一百条匿名好不好(๑•̀ω•́๑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "o65518kuguagua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcv4VK"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "加载失败，请重试      匿名→",
+        "name": "擦去你眼角的泪",
+        "pinned_tweet_id": "2035054781144998185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035213801264689152/oBVhKu4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 1435,
+          "like_count": 14954,
+          "listed_count": 8,
+          "media_count": 426,
+          "tweet_count": 8142
+        },
+        "url": "https://t.co/YLzBwcv4VK",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

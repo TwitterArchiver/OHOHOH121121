@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043300971535814751",
+    "created_at": "2026-04-12T12:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043300971535814751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2013209398395752448",
+          "start": 3,
+          "username": "DesireLovet1qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043300971535814751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043279893476331915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DesireLovet1qi: 其实没有人在乎oder的死活，闹钟巴不得这群人全都死掉，因为你买便宜的药不赚钱，有这些药吃了抗抑郁药咋赚钱，带不来经济效益的底层人自然就被抛弃了，他们从来没有正视过青少年的心理问题。最后有钱人自会润走或者封存吸毒记录，剩下的是底层人尸体垒…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043300971535814751",
+        "created_at": "2026-04-12T12:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043300971535814751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2013209398395752448",
+              "start": 3,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043300971535814751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043279893476331915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DesireLovet1qi: 其实没有人在乎oder的死活，闹钟巴不得这群人全都死掉，因为你买便宜的药不赚钱，有这些药吃了抗抑郁药咋赚钱，带不来经济效益的底层人自然就被抛弃了，他们从来没有正视过青少年的心理问题。最后有钱人自会润走或者封存吸毒记录，剩下的是底层人尸体垒…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2043279893476331915",
+        "created_at": "2026-04-12T10:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043279893476331915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043279893476331915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实没有人在乎oder的死活，闹钟巴不得这群人全都死掉，因为你买便宜的药不赚钱，有这些药吃了抗抑郁药咋赚钱，带不来经济效益的底层人自然就被抛弃了，他们从来没有正视过青少年的心理问题。最后有钱人自会润走或者封存吸毒记录，剩下的是底层人尸体垒成的尸山#广州禁毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 345,
+          "like_count": 1972,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 309
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 174,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 292
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

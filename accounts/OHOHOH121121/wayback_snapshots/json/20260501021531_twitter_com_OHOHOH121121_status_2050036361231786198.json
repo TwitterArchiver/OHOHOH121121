@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2050036361231786198",
+    "created_at": "2026-05-01T02:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050036361231786198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3249704858",
+          "start": 3,
+          "username": "7888999eeettt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050036361231786198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049812942447898649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @7888999eeettt: 鬱病になり一度でも希死念慮を抱いてしまうと、寛解してもそれは完全には消えてくれない。でも、好きな本や映画に出会えるとあのとき死ななくてよかったって心の底から思えるし、これからの未来で待っている好きな作品や好きなひとに会うために生きなくちゃっ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2050036361231786198",
+        "created_at": "2026-05-01T02:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050036361231786198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3249704858",
+              "start": 3,
+              "username": "7888999eeettt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050036361231786198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049812942447898649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @7888999eeettt: 鬱病になり一度でも希死念慮を抱いてしまうと、寛解してもそれは完全には消えてくれない。でも、好きな本や映画に出会えるとあのとき死ななくてよかったって心の底から思えるし、これからの未来で待っている好きな作品や好きなひとに会うために生きなくちゃっ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3249704858",
+        "conversation_id": "2049812942447898649",
+        "created_at": "2026-04-30T11:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049812942447898649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049812942447898649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 71914,
+          "like_count": 2523,
+          "quote_count": 25,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "reply_settings": "following",
+        "text": "鬱病になり一度でも希死念慮を抱いてしまうと、寛解してもそれは完全には消えてくれない。でも、好きな本や映画に出会えるとあのとき死ななくてよかったって心の底から思えるし、これからの未来で待っている好きな作品や好きなひとに会うために生きなくちゃって思う。飼い慣らしながら、生きていく。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 710,
+          "like_count": 4046,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 877
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-19T11:01:32.000Z",
+        "description": "このまま世界を時間を止めて",
+        "id": "3249704858",
+        "name": "当麻 青衣",
+        "pinned_tweet_id": "1837098229009199531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388446872801464323/YxcZv33t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44801,
+          "following_count": 6,
+          "like_count": 41778,
+          "listed_count": 168,
+          "media_count": 1345,
+          "tweet_count": 8628
+        },
+        "username": "7888999eeettt",
+        "verified": false
+      }
+    ]
+  }
+}

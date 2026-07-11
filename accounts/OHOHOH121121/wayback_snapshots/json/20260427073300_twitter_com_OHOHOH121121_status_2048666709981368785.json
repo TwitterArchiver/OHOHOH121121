@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048635604829876665",
+    "created_at": "2026-04-27T07:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048666709981368785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958952052371202051",
+          "start": 0,
+          "username": "4_ho_i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048666709981368785",
+    "in_reply_to_user_id": "1958952052371202051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048635604829876665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_ho_i 作文の試験で2時間寝ちゃった（ちょうど試験時間が2時間だった）。それで、読解のときも1時間寝ちゃった（試験は2時間半）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048635604829876665",
+        "created_at": "2026-04-27T07:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048666709981368785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958952052371202051",
+              "start": 0,
+              "username": "4_ho_i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048666709981368785",
+        "in_reply_to_user_id": "1958952052371202051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048635604829876665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_ho_i 作文の試験で2時間寝ちゃった（ちょうど試験時間が2時間だった）。それで、読解のときも1時間寝ちゃった（試験は2時間半）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958952052371202051",
+        "conversation_id": "2048635604829876665",
+        "created_at": "2026-04-27T05:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048635604829876665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "しほ’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Oxwb…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OxwbleMkzEJB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2048635606088208384/S6v5Pfei?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048635606088208384/S6v5Pfei?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: ひまぼ",
+              "unwound_url": "https://twitter.com/i/spaces/1OxwbleMkzEJB/peek",
+              "url": "https://t.co/sthX34AYGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048635604829876665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sthX34AYGS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 656,
+          "like_count": 3567,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 709
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T17:59:14.000Z",
+        "description": "初手呼びタメ - 片思い2日 - 気分浮上 - 浮上≠返信\nお隣います - 濃い絡みできるお友達永久募集中🙌🏻\n🗝 - @TEL_4ho ￤ 🤍 - @maplekaede1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "TEL_4ho"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "maplekaede1234"
+              }
+            ]
+          }
+        },
+        "id": "1958952052371202051",
+        "location": "よくアイコン変わるよ",
+        "name": "しほ",
+        "pinned_tweet_id": "2048002831823896902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047631473008906240/FG4r2kAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 236,
+          "like_count": 2106,
+          "listed_count": 10,
+          "media_count": 32,
+          "tweet_count": 1865
+        },
+        "username": "4_ho_i",
+        "verified": false
+      }
+    ]
+  }
+}

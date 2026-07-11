@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043272751876898857",
+    "created_at": "2026-04-12T10:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043276191050904053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883768460993552385",
+          "start": 0,
+          "username": "XiShangguan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043276191050904053",
+    "in_reply_to_user_id": "1883768460993552385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043272751876898857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiShangguan 来了(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2043272749154799618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFspvVibkAIBpyo.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043272751876898857",
+        "created_at": "2026-04-12T10:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043276191050904053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043276191050904053",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043272751876898857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 来了(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043272749154799618"
+          ]
+        },
+        "author_id": "1883768460993552385",
+        "conversation_id": "2043272751876898857",
+        "created_at": "2026-04-12T10:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043272751876898857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/ckZ5vhFSMm"
+            },
+            {
+              "display_url": "pic.x.com/BCHoBpcGIz",
+              "end": 71,
+              "expanded_url": "https://x.com/XiShangguan/status/2043272751876898857/photo/1",
+              "media_key": "3_2043272749154799618",
+              "start": 48,
+              "url": "https://t.co/BCHoBpcGIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043272751876898857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/ckZ5vhFSMm https://t.co/BCHoBpcGIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 345,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 298
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞百分百互fo，忘记请私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp白毛红瞳✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死（🕯️）✞网络性别未知🤔✞喜欢花譜✞不约，请不要来恶心我😡✞在线时间被压榨，可能没能及时回信息，抱歉✞拒绝线下",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 106,
+          "like_count": 4001,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 753
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

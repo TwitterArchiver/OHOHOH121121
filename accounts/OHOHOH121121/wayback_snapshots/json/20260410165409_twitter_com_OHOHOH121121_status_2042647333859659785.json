@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042647329094930439"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042647333859659785",
+    "created_at": "2026-04-10T16:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042647333859659785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P74p8qdgXv",
+          "end": 28,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2042647333859659785/photo/1",
+          "media_key": "3_2042647329094930439",
+          "start": 5,
+          "url": "https://t.co/P74p8qdgXv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042647333859659785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "停电了。 https://t.co/P74p8qdgXv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042647329094930439",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjw7GQakAc4CQv.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042647329094930439"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042647333859659785",
+        "created_at": "2026-04-10T16:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042647333859659785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P74p8qdgXv",
+              "end": 28,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042647333859659785/photo/1",
+              "media_key": "3_2042647329094930439",
+              "start": 5,
+              "url": "https://t.co/P74p8qdgXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042647333859659785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停电了。 https://t.co/P74p8qdgXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 162,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 112
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

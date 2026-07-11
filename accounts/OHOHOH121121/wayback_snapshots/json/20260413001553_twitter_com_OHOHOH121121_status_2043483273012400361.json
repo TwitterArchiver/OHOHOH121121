@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043262777343828384",
+    "created_at": "2026-04-13T00:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T01:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043483273012400361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506538004210679811",
+          "start": 0,
+          "username": "momo_nekot7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043483273012400361",
+    "in_reply_to_user_id": "1506538004210679811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043262777343828384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@momo_nekot7 可以看到很清楚（马来西亚在此）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043262777343828384",
+        "created_at": "2026-04-13T00:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043483273012400361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506538004210679811",
+              "start": 0,
+              "username": "momo_nekot7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043483273012400361",
+        "in_reply_to_user_id": "1506538004210679811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043262777343828384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@momo_nekot7 可以看到很清楚（马来西亚在此）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506538004210679811",
+        "conversation_id": "2043262777343828384",
+        "created_at": "2026-04-12T09:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043262777343828384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043262777343828384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13932,
+          "like_count": 736,
+          "quote_count": 1,
+          "reply_count": 132,
+          "retweet_count": 22
+        },
+        "reply_settings": "other",
+        "text": "海外の人にも見えてるのかな…？\n見えてますか？見えてたら仲良くしましょう！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 400,
+          "like_count": 2324,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 352
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T07:47:15.000Z",
+        "description": "個人勢￤不定期￤Streamer￤引きこもりぼっちゲーマー￤🐈‍⬛😈￤APEX.競技未経験.複数マスター😈 / OW.ゴールド4 / VALO.🥈\n主催🏆 #猫ももカスタム￤ママ @NomeMic￤FA #ねこたぁーと ￤日常アカ@Nekotanano7￤弟子@Urota_eru / @choka_Coco",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "猫ももカスタム"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "ねこたぁーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 90,
+                "username": "NomeMic"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "Nekotanano7"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "username": "Urota_eru"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "choka_Coco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@NekotaMomo",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@NekotaMomo",
+                "start": 0,
+                "url": "https://t.co/ohIRKtH6gq"
+              }
+            ]
+          }
+        },
+        "id": "1506538004210679811",
+        "location": "案件.コラボ.カスタムはDMまで✉️",
+        "name": "猫太もも🐈‍⬛😈",
+        "pinned_tweet_id": "1992066879926718797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026570786149117956/K8mwWSOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19311,
+          "following_count": 992,
+          "like_count": 20816,
+          "listed_count": 65,
+          "media_count": 809,
+          "tweet_count": 19605
+        },
+        "url": "https://t.co/ohIRKtH6gq",
+        "username": "momo_nekot7",
+        "verified": true
+      }
+    ]
+  }
+}

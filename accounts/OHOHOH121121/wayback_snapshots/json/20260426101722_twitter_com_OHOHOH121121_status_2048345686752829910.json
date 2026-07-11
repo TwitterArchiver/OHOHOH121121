@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048345681203789824",
+        "3_2048345683665817600",
+        "3_2048345683556716544"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048345686752829910",
+    "created_at": "2026-04-26T10:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048345686752829910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kCAldiB3J8",
+          "end": 23,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2048345686752829910/photo/1",
+          "media_key": "3_2048345681203789824",
+          "start": 0,
+          "url": "https://t.co/kCAldiB3J8"
+        },
+        {
+          "display_url": "pic.x.com/kCAldiB3J8",
+          "end": 23,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2048345686752829910/photo/1",
+          "media_key": "3_2048345683665817600",
+          "start": 0,
+          "url": "https://t.co/kCAldiB3J8"
+        },
+        {
+          "display_url": "pic.x.com/kCAldiB3J8",
+          "end": 23,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2048345686752829910/photo/1",
+          "media_key": "3_2048345683556716544",
+          "start": 0,
+          "url": "https://t.co/kCAldiB3J8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048345686752829910",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kCAldiB3J8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048345681203789824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0vi2FbgAAb8Zf.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048345683665817600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0vi_QbEAAA2UQ.jpg",
+        "width": 922
+      },
+      {
+        "height": 196,
+        "media_key": "3_2048345683556716544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0vi-2aUAAnbED.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048345681203789824",
+            "3_2048345683665817600",
+            "3_2048345683556716544"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048345686752829910",
+        "created_at": "2026-04-26T10:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048345686752829910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCAldiB3J8",
+              "end": 23,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048345686752829910/photo/1",
+              "media_key": "3_2048345681203789824",
+              "start": 0,
+              "url": "https://t.co/kCAldiB3J8"
+            },
+            {
+              "display_url": "pic.x.com/kCAldiB3J8",
+              "end": 23,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048345686752829910/photo/1",
+              "media_key": "3_2048345683665817600",
+              "start": 0,
+              "url": "https://t.co/kCAldiB3J8"
+            },
+            {
+              "display_url": "pic.x.com/kCAldiB3J8",
+              "end": 23,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048345686752829910/photo/1",
+              "media_key": "3_2048345683556716544",
+              "start": 0,
+              "url": "https://t.co/kCAldiB3J8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048345686752829910",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kCAldiB3J8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 629,
+          "like_count": 3418,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 650
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

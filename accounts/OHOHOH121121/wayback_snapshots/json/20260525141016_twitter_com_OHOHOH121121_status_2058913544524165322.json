@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2058847160054198732",
+    "created_at": "2026-05-25T14:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058913544524165322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2023361934880571392",
+          "start": 0,
+          "username": "OrlandoLea96775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058913544524165322",
+    "in_reply_to_user_id": "2023361934880571392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058904892677497020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrlandoLea96775 会的会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2058847160054198732",
+        "created_at": "2026-05-25T14:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058913544524165322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2023361934880571392",
+              "start": 0,
+              "username": "OrlandoLea96775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058913544524165322",
+        "in_reply_to_user_id": "2023361934880571392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058904892677497020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrlandoLea96775 会的会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023361934880571392",
+        "conversation_id": "2058847160054198732",
+        "created_at": "2026-05-25T13:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058904892677497020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058904892677497020",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058902552318743022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 🤔那不是很清楚呢，注意通风呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 772,
+          "like_count": 4579,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 1153
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T11:41:08.000Z",
+        "description": "一只农机学院的理工科学生喵",
+        "id": "2023361934880571392",
+        "location": "Tokyo-to, Japan",
+        "name": "Orlando Lean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043739146913710080/inLKCdUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 109,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 135
+        },
+        "username": "OrlandoLea96775",
+        "verified": false
+      }
+    ]
+  }
+}

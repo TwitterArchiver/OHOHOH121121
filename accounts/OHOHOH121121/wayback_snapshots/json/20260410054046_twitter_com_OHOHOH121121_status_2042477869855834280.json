@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042477869855834280",
+    "created_at": "2026-04-10T05:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042477869855834280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042477869855834280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉自己迟早得糖尿病，因为我一直吃糖吃到头晕呕吐才停下（糖分过量）\nこのままだと、そのうち糖尿病になりそうな気がする。頭がくらくらして吐き気がするくらいまで甘いものを食べ続けてしまうから（糖分の摂りすぎ）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042477869855834280",
+        "created_at": "2026-04-10T05:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042477869855834280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042477869855834280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉自己迟早得糖尿病，因为我一直吃糖吃到头晕呕吐才停下（糖分过量）\nこのままだと、そのうち糖尿病になりそうな気がする。頭がくらくらして吐き気がするくらいまで甘いものを食べ続けてしまうから（糖分の摂りすぎ）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 92,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 49
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

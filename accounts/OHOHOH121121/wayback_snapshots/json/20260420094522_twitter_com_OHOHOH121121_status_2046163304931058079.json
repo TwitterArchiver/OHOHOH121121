@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "2042789922625696056",
+    "created_at": "2026-04-20T09:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T10:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046163304931058079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961895033889804288",
+          "start": 0,
+          "username": "Xx_774chan_xX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046163304931058079",
+    "in_reply_to_user_id": "1961895033889804288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046162507245728082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xx_774chan_xX Same here! My English isn’t very good too, so I use a translator sometimes :3\nEnglish is hard, but learning it is fun!\nLet’s improve together!\n（I’m still bad at English though ，i try my best qwq）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2042789922625696056",
+        "created_at": "2026-04-20T09:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046163304931058079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961895033889804288",
+              "start": 0,
+              "username": "Xx_774chan_xX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046163304931058079",
+        "in_reply_to_user_id": "1961895033889804288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046162507245728082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xx_774chan_xX Same here! My English isn’t very good too, so I use a translator sometimes :3\nEnglish is hard, but learning it is fun!\nLet’s improve together!\n（I’m still bad at English though ，i try my best qwq）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961895033889804288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2042789922625696056",
+        "created_at": "2026-04-20T09:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046162507245728082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046162507245728082",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046160290593820864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 I can’t speak English well ,too!\nSo maybe I use translator.\nIt’s difficult to speak English ,right?\nI often learn about English.\nWhy don’t we become good English speakers!?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 503,
+          "like_count": 2928,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 488
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T20:53:54.000Z",
+        "description": "未成年男❌ \nI can speak English a little \n꒰ঌアクアリウムと日焼け止めと薬とホモに詳しい幼卒ネカマ定型発達な淫夢厨໒꒱\n꒰ঌジョジョ⌇サンリオ⌇ポケモン⌇ニディガ⌇みい山໒꒱\n꒰ঌ病み、批判、暴言、飯テロ、腐発言、夢発言、ネタバレ注意໒꒱\n꒰ঌ天使になりたい໒꒱\n\n💚⭐️🪽🧸🎠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "お別れブロックかリムでお願いします.com",
+                "end": 23,
+                "expanded_url": "https://xn--n8jlad6dm8g1iqeupjhlizeyfsb3054icosl.com",
+                "start": 0,
+                "url": "https://t.co/AhBDWl0tnE"
+              }
+            ]
+          }
+        },
+        "id": "1961895033889804288",
+        "location": "໒꒱身体は東海地方脳はTwitter心はいつもミクちゃんの隣",
+        "name": "【把握会中】໒꒱名無しちゃん/Nanashi/무명짱",
+        "pinned_tweet_id": "2045539961974476865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961895173878939648/E9EZsmDT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 944,
+          "like_count": 9044,
+          "listed_count": 5,
+          "media_count": 135,
+          "tweet_count": 9440
+        },
+        "url": "https://t.co/AhBDWl0tnE",
+        "username": "Xx_774chan_xX",
+        "verified": false
+      }
+    ]
+  }
+}

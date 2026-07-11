@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063568947463729152"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063568950387232838",
+    "created_at": "2026-06-07T10:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063568950387232838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D1XjUeFhfU",
+          "end": 36,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2063568950387232838/photo/1",
+          "media_key": "3_2063568947463729152",
+          "start": 13,
+          "url": "https://t.co/D1XjUeFhfU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063568950387232838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算了，世界不要去死一天。 https://t.co/D1XjUeFhfU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2063568947463729152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNFBkMaMAA2ZWl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063568947463729152"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063568950387232838",
+        "created_at": "2026-06-07T10:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063568950387232838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1XjUeFhfU",
+              "end": 36,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2063568950387232838/photo/1",
+              "media_key": "3_2063568947463729152",
+              "start": 13,
+              "url": "https://t.co/D1XjUeFhfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568950387232838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了，世界不要去死一天。 https://t.co/D1XjUeFhfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 851,
+          "like_count": 5089,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 1277
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

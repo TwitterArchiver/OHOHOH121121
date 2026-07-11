@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042568946348654592"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042568950215774484",
+    "created_at": "2026-04-10T11:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042568950215774484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qzZZ7MOmor",
+          "end": 44,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2042568950215774484/photo/1",
+          "media_key": "3_2042568946348654592",
+          "start": 21,
+          "url": "https://t.co/qzZZ7MOmor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042568950215774484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难怪.....\nなるほど........ https://t.co/qzZZ7MOmor"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "③ 依存感が生じる（※依存症ではない）\nつらくなると必ず嗅がないと落ち着かない、という状態になる可能性があります。\nこれは心理的な依存／条件反射であり、薬物依存ではありませんが、感情を自分で調整する力に影響することがあります。\n④ 過剰吸入のリスク（まれだが知っておくべき）\nもし長時間・大量に吸い続けると：\n・吐き気、嘔吐\n・頭痛\n・重い場合は呼吸や神経に影響が出る可能性があります（特に密閉され",
+        "height": 2048,
+        "media_key": "3_2042568946348654592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiponxbAAATQW4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042568946348654592"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042568950215774484",
+        "created_at": "2026-04-10T11:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042568950215774484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzZZ7MOmor",
+              "end": 44,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042568950215774484/photo/1",
+              "media_key": "3_2042568946348654592",
+              "start": 21,
+              "url": "https://t.co/qzZZ7MOmor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042568950215774484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难怪.....\nなるほど........ https://t.co/qzZZ7MOmor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 113,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 71
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

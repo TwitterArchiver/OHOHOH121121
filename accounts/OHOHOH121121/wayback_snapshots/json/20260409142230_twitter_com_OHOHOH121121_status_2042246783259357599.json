@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2041545031429783860",
+    "created_at": "2026-04-09T14:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042246783259357599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902101912410820608",
+          "start": 0,
+          "username": "ltrlyamechan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042246783259357599",
+    "in_reply_to_user_id": "1902101912410820608",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041545031429783860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ltrlyamechan Try breathing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2041545031429783860",
+        "created_at": "2026-04-09T14:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042246783259357599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902101912410820608",
+              "start": 0,
+              "username": "ltrlyamechan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042246783259357599",
+        "in_reply_to_user_id": "1902101912410820608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041545031429783860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ltrlyamechan Try breathing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902101912410820608",
+        "conversation_id": "2041545031429783860",
+        "created_at": "2026-04-07T15:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041545031429783860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041545031429783860",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 26243,
+          "like_count": 4642,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 1631
+        },
+        "reply_settings": "everyone",
+        "text": "i wanna cut \ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\ni wanna cut\nkms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 69,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T20:57:04.000Z",
+        "description": "੭੭ ݂ 14 ; . literally ame chan ! 🖤 ꒱ ⌣ ( ʚ̴̶̷́ .̠ ʚ̴̶̷̥̀ ) ִ ﹙ #proshiptwt #jiraitwt #shtwt #shedtwt #nictwt ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 63,
+                "tag": "proshiptwt"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "tag": "jiraitwt"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "shtwt"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "nictwt"
+              }
+            ]
+          }
+        },
+        "id": "1902101912410820608",
+        "location": "bmi : 18 ish?",
+        "name": "ame chan of proshipshtwt (recov)",
+        "pinned_tweet_id": "2013609370836193538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038605212299264000/9O4aOc5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 242,
+          "like_count": 4229,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1538
+        },
+        "username": "ltrlyamechan",
+        "verified": false
+      }
+    ]
+  }
+}

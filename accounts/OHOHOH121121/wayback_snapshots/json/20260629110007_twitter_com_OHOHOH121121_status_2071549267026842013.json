@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2071549267026842013",
+    "created_at": "2026-06-29T11:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071549267026842013"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071549267026842013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天睡了一天。\n早上老师没有来课室两个小时我睡了两个小时然后补满精神上数学和历史课（补好精神就真的知识能进到脑子了）（落泪）\n然后回来又感觉十分疲惫从4点睡到6点半。\n我是睡王。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2071549267026842013",
+        "created_at": "2026-06-29T11:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071549267026842013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071549267026842013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天睡了一天。\n早上老师没有来课室两个小时我睡了两个小时然后补满精神上数学和历史课（补好精神就真的知识能进到脑子了）（落泪）\n然后回来又感觉十分疲惫从4点睡到6点半。\n我是睡王。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 882,
+          "like_count": 5502,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

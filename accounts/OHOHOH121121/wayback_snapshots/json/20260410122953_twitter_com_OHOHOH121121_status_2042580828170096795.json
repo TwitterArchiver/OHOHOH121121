@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042503311577006271",
+    "created_at": "2026-04-10T12:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042580828170096795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041394869386797056",
+          "start": 0,
+          "username": "Yumiuwd7jl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042580828170096795",
+    "in_reply_to_user_id": "2041394869386797056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042503311577006271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumiuwd7jl 我也想聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042503311577006271",
+        "created_at": "2026-04-10T12:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042580828170096795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041394869386797056",
+              "start": 0,
+              "username": "Yumiuwd7jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042580828170096795",
+        "in_reply_to_user_id": "2041394869386797056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042503311577006271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumiuwd7jl 我也想聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041394869386797056",
+        "conversation_id": "2042503311577006271",
+        "created_at": "2026-04-10T07:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042503311577006271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042503311577006271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4459,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想跟人聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 124,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 79
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T05:58:43.000Z",
+        "description": "话唠我想发啥发啥/只回有礼貌的/内向但喜欢的会fo/高中生/私信随机解锁温良人格和暴怒人格",
+        "id": "2041394869386797056",
+        "location": "纯绿52互关免费",
+        "name": "好懵逼呀",
+        "pinned_tweet_id": "2042552953643634924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041850782954455041/5F9P2AS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 32,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "username": "Yumiuwd7jl",
+        "verified": false
+      }
+    ]
+  }
+}

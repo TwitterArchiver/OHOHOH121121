@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044423661135048704"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2044423663764881871",
+    "created_at": "2026-04-15T14:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044423663764881871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GELkacsYBu",
+          "end": 110,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2044423663764881871/photo/1",
+          "media_key": "3_2044423661135048704",
+          "start": 87,
+          "url": "https://t.co/GELkacsYBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044423663764881871",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "书包坏了一点了,要换一个新包带美术东西去学校了(⁠╥⁠﹏⁠╥⁠)\nカバンがちょっと壊れちゃったから、新しいのに替えて、美術の道具を学校に持っていかないとい(⁠╥⁠﹏⁠╥⁠) https://t.co/GELkacsYBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044423661135048704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9AfOxbsAAogQt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044423661135048704"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2044423663764881871",
+        "created_at": "2026-04-15T14:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044423663764881871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GELkacsYBu",
+              "end": 110,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2044423663764881871/photo/1",
+              "media_key": "3_2044423661135048704",
+              "start": 87,
+              "url": "https://t.co/GELkacsYBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044423663764881871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "书包坏了一点了,要换一个新包带美术东西去学校了(⁠╥⁠﹏⁠╥⁠)\nカバンがちょっと壊れちゃったから、新しいのに替えて、美術の道具を学校に持っていかないとい(⁠╥⁠﹏⁠╥⁠) https://t.co/GELkacsYBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 477,
+          "like_count": 2703,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 419
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

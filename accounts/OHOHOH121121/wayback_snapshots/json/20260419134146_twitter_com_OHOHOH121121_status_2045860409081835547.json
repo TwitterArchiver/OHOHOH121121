@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045551246237716975",
+    "created_at": "2026-04-19T13:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045860409081835547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888562153004929024",
+          "start": 0,
+          "username": "ST_Bed0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045860409081835547",
+    "in_reply_to_user_id": "1888562153004929024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045551246237716975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ST_Bed0721 如果说最不痛苦的话，吸一氧化碳吧。但如果是比较平常的方法是在一个封闭空间烧木炭并且那时候已经吃了安眠药就可以比较不痛苦的自杀了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045551246237716975",
+        "created_at": "2026-04-19T13:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045860409081835547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888562153004929024",
+              "start": 0,
+              "username": "ST_Bed0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045860409081835547",
+        "in_reply_to_user_id": "1888562153004929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045551246237716975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ST_Bed0721 如果说最不痛苦的话，吸一氧化碳吧。但如果是比较平常的方法是在一个封闭空间烧木炭并且那时候已经吃了安眠药就可以比较不痛苦的自杀了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888562153004929024",
+        "conversation_id": "2045551246237716975",
+        "created_at": "2026-04-18T17:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045551246237716975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045551246237716975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3199,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "橙子想知道，怎么自杀最不难受ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 496,
+          "like_count": 2909,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 475
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T12:14:47.000Z",
+        "description": "可以叫我ST或者橙子酱🍊~｜渴望交朋友！｜不想当男生｜无糖｜06年 175cm 50kg｜快来找我聊天！｜不开心可以和我倾诉哦｜最重要的人@Shionaowo｜好宝宝@Evenin_eko @xiey57828｜妹妹@as_qwq0721｜橙子的幼稚园（群）1087803950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "Shionaowo"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Evenin_eko"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "xiey57828"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "as_qwq0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/st_bed0721",
+                "end": 23,
+                "expanded_url": "https://ngl.link/st_bed0721",
+                "start": 0,
+                "url": "https://t.co/fyfckL9h5q"
+              }
+            ]
+          }
+        },
+        "id": "1888562153004929024",
+        "name": "ST_Bed🏳️‍⚧️",
+        "pinned_tweet_id": "2041998228351283704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 125,
+          "like_count": 732,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/fyfckL9h5q",
+        "username": "ST_Bed0721",
+        "verified": true
+      }
+    ]
+  }
+}

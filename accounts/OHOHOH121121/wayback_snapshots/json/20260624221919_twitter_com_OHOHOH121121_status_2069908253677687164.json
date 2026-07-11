@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2069752579245166790",
+    "created_at": "2026-06-24T22:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T23:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069908253677687164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055894739283845120",
+          "start": 0,
+          "username": "ritalian0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069908253677687164",
+    "in_reply_to_user_id": "2055894739283845120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069818488395550783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritalian0105 抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2069752579245166790",
+        "created_at": "2026-06-24T22:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069908253677687164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055894739283845120",
+              "start": 0,
+              "username": "ritalian0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069908253677687164",
+        "in_reply_to_user_id": "2055894739283845120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069818488395550783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritalian0105 抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055894739283845120",
+        "conversation_id": "2069752579245166790",
+        "created_at": "2026-06-24T16:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069818488395550783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069818488395550783",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069752579245166790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 我也很不喜歡我的精神疾病，它會讓我在做最喜歡的事情時被迫中斷，工作也會受到影響。\n這真的很令人感到挫折，而且這種挫折又會反過來加重你的疾病......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 858,
+          "like_count": 5255,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1359
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T06:14:58.000Z",
+        "description": "多重人格患者，想把腦子裡的東西用畫畫倒出來\n正在接受治療和學習畫畫。最喜歡的創作者是PEPOYO和匹諾曹P",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/126132822",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/126132822",
+                "start": 0,
+                "url": "https://t.co/KNG2fuUvUQ"
+              }
+            ]
+          }
+        },
+        "id": "2055894739283845120",
+        "name": "夜不急(ユフリ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061151843653423104/wPOt7_qH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/KNG2fuUvUQ",
+        "username": "ritalian0105",
+        "verified": true
+      }
+    ]
+  }
+}

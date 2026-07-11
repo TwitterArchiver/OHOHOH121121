@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042991354062737772",
+    "created_at": "2026-04-12T02:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043161634949243004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041508636200144896",
+          "start": 0,
+          "username": "Cyprinella_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043161634949243004",
+    "in_reply_to_user_id": "2041508636200144896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043160849804837160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyprinella_520 好，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042991354062737772",
+        "created_at": "2026-04-12T02:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043161634949243004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041508636200144896",
+              "start": 0,
+              "username": "Cyprinella_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043161634949243004",
+        "in_reply_to_user_id": "2041508636200144896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043160849804837160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyprinella_520 好，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041508636200144896",
+        "conversation_id": "2042991354062737772",
+        "created_at": "2026-04-12T02:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043160849804837160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043160849804837160",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043160645391294818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 如果接受不了痛感就不要再伤害自己了，抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 313,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 253
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T13:31:37.000Z",
+        "description": "现生刷到绕道走，喜欢画画躺尸，泛性恋\n我是个臭网蛆 顺直男加我打52 我无性\n休学戒割中 我特别温良呀可以来找我闲聊\n安安静静经营自己呆萌唐氏的生活\n想和呆萌的人互fo",
+        "id": "2041508636200144896",
+        "name": "羽生槐枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042073948150755328/FuN7SDfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 49,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 82
+        },
+        "username": "Cyprinella_520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048339681901977769",
+    "created_at": "2026-04-27T07:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048668232568148159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1111042409725452288",
+          "start": 0,
+          "username": "shimo_shina"
+        },
+        {
+          "end": 29,
+          "id": "1948365390813310976",
+          "start": 13,
+          "username": "HsMmMThJ4V90618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048668232568148159",
+    "in_reply_to_user_id": "1111042409725452288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048666883445190693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimo_shina @HsMmMThJ4V90618 笑止千万。仕事のストレスを差別の言い訳にしないで。医者や警官が同じことしたら大問題でしょ？プロ意識が欠如してるのを環境のせいにするのは卑怯。不満があるなら辞めればいい。弱者を叩いてストレス解消してるだけの自分勝手な人間性を、労働搾取なんて言葉で美化しないで"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-27T07:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048668232568148159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1111042409725452288",
+              "start": 0,
+              "username": "shimo_shina"
+            },
+            {
+              "end": 29,
+              "id": "1948365390813310976",
+              "start": 13,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048668232568148159",
+        "in_reply_to_user_id": "1111042409725452288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048666883445190693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimo_shina @HsMmMThJ4V90618 笑止千万。仕事のストレスを差別の言い訳にしないで。医者や警官が同じことしたら大問題でしょ？プロ意識が欠如してるのを環境のせいにするのは卑怯。不満があるなら辞めればいい。弱者を叩いてストレス解消してるだけの自分勝手な人間性を、労働搾取なんて言葉で美化しないで"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111042409725452288",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-27T07:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048666883445190693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1948365390813310976",
+              "start": 14,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048666883445190693",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412021058850935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @HsMmMThJ4V90618 ガキは暴れるし外野からはこうして殴られるし\n給料も安いのにガキになにかあれば責任まで追及されるだろうから\n児童相談所の職員さんが本当に可哀想でならない、労働搾取だよこれは"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 656,
+          "like_count": 3582,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 712
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-27T23:08:47.000Z",
+        "description": "成年　例のアレ　個人Vを目指し挫折→FANZA同人 総合ランキング 24時間にしようとし続かず→コミケ垢にしようと試行→冬夏に春日部つくし折り本出す→冬コミ新刊用意中",
+        "id": "1111042409725452288",
+        "location": "埼玉県江東区有明３丁目１１−１ビッグサイト",
+        "name": "エズパコ@1日目火曜西ね49b",
+        "pinned_tweet_id": "1804844644960002174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693267793284853760/j6v9fIHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 7501,
+          "like_count": 223097,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 93677
+        },
+        "username": "shimo_shina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T12:51:45.000Z",
+        "description": "10/♀️/通信制休学中/トラウマ/ﾘｽｶ/0d/DM△その他自衛します",
+        "id": "1948365390813310976",
+        "name": "ちゃちゃまる",
+        "pinned_tweet_id": "1985689921236189522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950558527359213568/C0muAaV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 93,
+          "like_count": 22276,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 595
+        },
+        "username": "HsMmMThJ4V90618",
+        "verified": false
+      }
+    ]
+  }
+}

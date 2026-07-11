@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2067282343912702269",
+    "created_at": "2026-06-17T16:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067282343912702269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829548387936681984",
+          "start": 3,
+          "username": "Othercypl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067282343912702269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067278697175150596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Othercypl: 有谁能联系到他吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2067282343912702269",
+        "created_at": "2026-06-17T16:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067282343912702269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829548387936681984",
+              "start": 3,
+              "username": "Othercypl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067282343912702269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067278697175150596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Othercypl: 有谁能联系到他吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829548387936681984",
+        "conversation_id": "2067278697175150596",
+        "created_at": "2026-06-17T16:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067278697175150596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awaTsuki1111/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/awaTsuki1111/status/2067239273951383724",
+              "start": 9,
+              "url": "https://t.co/DzuaUw4HSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067278697175150596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067239273951383724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有谁能联系到他吗 https://t.co/DzuaUw4HSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 855,
+          "like_count": 5118,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 1310
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T15:55:13.000Z",
+        "description": "08 17河北苦命高中生/重抑中焦/od/不键政/互fo\n可以称呼为我鸽子，鸽子神万岁！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/otherb1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/otherb1",
+                "start": 0,
+                "url": "https://t.co/02ZX2AOpC1"
+              }
+            ]
+          }
+        },
+        "id": "1829548387936681984",
+        "location": "石家庄",
+        "name": "OtherB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063101517180317696/v-47W4Nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 123,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/02ZX2AOpC1",
+        "username": "Othercypl",
+        "verified": false
+      }
+    ]
+  }
+}

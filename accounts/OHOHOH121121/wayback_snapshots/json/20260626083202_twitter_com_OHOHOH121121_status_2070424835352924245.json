@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070424825454362624"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070388425740681387",
+    "created_at": "2026-06-26T08:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070424835352924245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959453062650843136",
+          "start": 0,
+          "username": "liudazhuang1213"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pftJL74JN6",
+          "end": 44,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2070424835352924245/photo/1",
+          "media_key": "3_2070424825454362624",
+          "start": 21,
+          "url": "https://t.co/pftJL74JN6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070424835352924245",
+    "in_reply_to_user_id": "1959453062650843136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070424412277395902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liudazhuang1213 这个！ https://t.co/pftJL74JN6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2070424825454362624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLugaL9bgAAg-cW.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070424825454362624"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070388425740681387",
+        "created_at": "2026-06-26T08:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070424835352924245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959453062650843136",
+              "start": 0,
+              "username": "liudazhuang1213"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pftJL74JN6",
+              "end": 44,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2070424835352924245/photo/1",
+              "media_key": "3_2070424825454362624",
+              "start": 21,
+              "url": "https://t.co/pftJL74JN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070424835352924245",
+        "in_reply_to_user_id": "1959453062650843136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070424412277395902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liudazhuang1213 这个！ https://t.co/pftJL74JN6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959453062650843136",
+        "conversation_id": "2070388425740681387",
+        "created_at": "2026-06-26T08:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070424412277395902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070424412277395902",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070424038091166166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 熟普吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 867,
+          "like_count": 5346,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T03:09:57.000Z",
+        "description": "",
+        "id": "1959453062650843136",
+        "name": "evora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062773540160499712/jiEDlpuf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "liudazhuang1213",
+        "verified": false
+      }
+    ]
+  }
+}

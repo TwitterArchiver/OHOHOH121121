@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047870269386280960"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047762898366435758",
+    "created_at": "2026-04-25T02:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047870271747748178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804875241367433216",
+          "start": 0,
+          "username": "aberyoheiskm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rj0VSpSJfP",
+          "end": 75,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2047870271747748178/photo/1",
+          "media_key": "3_2047870269386280960",
+          "start": 52,
+          "url": "https://t.co/Rj0VSpSJfP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047870271747748178",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "lt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047762898366435758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiskm popipopipopopipopipo popipopipopopipo https://t.co/Rj0VSpSJfP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047870269386280960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt_KPDaUAAZzsQ.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047762895728234497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsdgRAbUAEa_zV.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047870269386280960"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047762898366435758",
+        "created_at": "2026-04-25T02:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047870271747748178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rj0VSpSJfP",
+              "end": 75,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2047870271747748178/photo/1",
+              "media_key": "3_2047870269386280960",
+              "start": 52,
+              "url": "https://t.co/Rj0VSpSJfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047870271747748178",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047762898366435758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm popipopipopopipopipo popipopipopopipo https://t.co/Rj0VSpSJfP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047762895728234497"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047762898366435758",
+        "created_at": "2026-04-24T19:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047762898366435758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "嘴最脏拳最快、却最恨自己的不良少女",
+              "display_url": "manosaba-test.asachiri.com/r/alisa/",
+              "end": 55,
+              "expanded_url": "http://manosaba-test.asachiri.com/r/alisa/",
+              "start": 32,
+              "status": 200,
+              "title": "紫藤亚里沙 · 魔女审判人格测试",
+              "unwound_url": "https://manosaba-test.asachiri.com/r/alisa/",
+              "url": "https://t.co/QJOGEIZmRO"
+            },
+            {
+              "display_url": "pic.x.com/yTNGn3NAPT",
+              "end": 79,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2047762898366435758/photo/1",
+              "media_key": "3_2047762895728234497",
+              "start": 56,
+              "url": "https://t.co/yTNGn3NAPT"
+            },
+            {
+              "display_url": "x.com/ta9ton_502/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/ta9ton_502/status/2045797405577367982",
+              "start": 80,
+              "url": "https://t.co/4OIIhtQ2Al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047762898366435758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045797405577367982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "〇Ð妹测出〇Ð妹\n别〇Ð了，神在法你\n\n▸ 戳这里开始你的审判：https://t.co/QJOGEIZmRO https://t.co/yTNGn3NAPT https://t.co/4OIIhtQ2Al"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 533,
+          "like_count": 3086,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 565
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 202,
+          "like_count": 2243,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

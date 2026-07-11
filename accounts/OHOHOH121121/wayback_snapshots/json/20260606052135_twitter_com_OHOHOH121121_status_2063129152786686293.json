@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063129152786686293",
+    "created_at": "2026-06-06T05:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063129152786686293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047721932205035520",
+          "start": 3,
+          "username": "yamossiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063129152786686293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062563280342884390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamossiui: 好想被阴湿男操一顿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063129152786686293",
+        "created_at": "2026-06-06T05:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063129152786686293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047721932205035520",
+              "start": 3,
+              "username": "yamossiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063129152786686293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062563280342884390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamossiui: 好想被阴湿男操一顿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047721932205035520",
+        "conversation_id": "2062563280342884390",
+        "created_at": "2026-06-04T15:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062563280342884390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062563280342884390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 150927,
+          "like_count": 1753,
+          "quote_count": 15,
+          "reply_count": 218,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "好想被阴湿男操一顿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 841,
+          "like_count": 4991,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 1260
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T17:02:06.000Z",
+        "description": "🥺\n我只是一个爱说废话的大学生 没🚪不约不线下除非你很对我口味( ̀⌄ ́)\n来找我聊天 没回就是没空看推特\n女宝来找我玩！",
+        "id": "2047721932205035520",
+        "name": "aymossi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060796163016863744/Zq8vnC_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 9,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 63
+        },
+        "username": "yamossiui",
+        "verified": false
+      }
+    ]
+  }
+}

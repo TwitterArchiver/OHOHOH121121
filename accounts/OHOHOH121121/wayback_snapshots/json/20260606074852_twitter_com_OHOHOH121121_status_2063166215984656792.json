@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063166215984656792",
+    "created_at": "2026-06-06T07:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063166215984656792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962203164696084480",
+          "start": 3,
+          "username": "cokeeaine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063166215984656792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063094295419072841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cokeeaine: honestly i can’t wait for the day i die"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063166215984656792",
+        "created_at": "2026-06-06T07:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063166215984656792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962203164696084480",
+              "start": 3,
+              "username": "cokeeaine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166215984656792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063094295419072841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cokeeaine: honestly i can’t wait for the day i die"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962203164696084480",
+        "conversation_id": "2063094295419072841",
+        "created_at": "2026-06-06T03:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063094295419072841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063094295419072841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "honestly i can’t wait for the day i die"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 844,
+          "like_count": 5012,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1266
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T17:17:55.000Z",
+        "description": "#drugtwt @420lverr/@ccokeaine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "420lverr"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "ccokeaine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@cokeeaine?_r=…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@cokeeaine?_r=1&_t=ZS-95l3PAfVi1E",
+                "start": 0,
+                "url": "https://t.co/hq2mR9oqrs"
+              }
+            ]
+          }
+        },
+        "id": "1962203164696084480",
+        "location": "🇨🇦🇨🇦 | insta: 420lovrr",
+        "name": "cokeeaine",
+        "pinned_tweet_id": "2062547551866269851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062638894806347776/l1rf8IGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 1221,
+          "like_count": 11665,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 5157
+        },
+        "url": "https://t.co/hq2mR9oqrs",
+        "username": "cokeeaine",
+        "verified": true
+      }
+    ]
+  }
+}

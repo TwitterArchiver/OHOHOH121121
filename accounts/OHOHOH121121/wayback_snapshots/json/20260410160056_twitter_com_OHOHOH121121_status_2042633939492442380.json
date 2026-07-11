@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042632117021216850",
+    "created_at": "2026-04-10T16:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042633939492442380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1948996653694025728",
+          "start": 0,
+          "username": "ruiwashiawase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042633939492442380",
+    "in_reply_to_user_id": "1948996653694025728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042633749788266758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiwashiawase 谢谢(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042632117021216850",
+        "created_at": "2026-04-10T16:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042633939492442380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1948996653694025728",
+              "start": 0,
+              "username": "ruiwashiawase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042633939492442380",
+        "in_reply_to_user_id": "1948996653694025728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042633749788266758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiwashiawase 谢谢(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948996653694025728",
+        "conversation_id": "2042632117021216850",
+        "created_at": "2026-04-10T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042633749788266758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042633749788266758",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042632117021216850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 可爱捏(｡･ω･｡)/～💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 149,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 103
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T06:39:54.000Z",
+        "description": "绚彩的世界和灰色的我",
+        "id": "1948996653694025728",
+        "name": "蕊",
+        "pinned_tweet_id": "2042138301268947169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041406929575317504/9NN6kRCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 58,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 109
+        },
+        "username": "ruiwashiawase",
+        "verified": false
+      }
+    ]
+  }
+}

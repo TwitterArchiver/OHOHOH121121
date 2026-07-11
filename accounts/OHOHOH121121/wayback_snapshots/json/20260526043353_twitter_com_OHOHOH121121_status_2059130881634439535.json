@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2059128636859408785",
+    "created_at": "2026-05-26T04:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059130881634439535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1409894139701854221",
+          "start": 0,
+          "username": "loser_happy_25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059130881634439535",
+    "in_reply_to_user_id": "1409894139701854221",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059129907570249894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loser_happy_25 (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059129907570249894].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059129907570249894",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059129907570249894"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2059128636859408785",
+        "created_at": "2026-05-26T04:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059130881634439535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1409894139701854221",
+              "start": 0,
+              "username": "loser_happy_25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059130881634439535",
+        "in_reply_to_user_id": "1409894139701854221",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059129907570249894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loser_happy_25 (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 783,
+          "like_count": 4587,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1158
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T15:19:24.000Z",
+        "description": "@loser_2525_hapi🗝 という名のイキリ垢 現実に近い\n避難垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "loser_2525_hapi"
+              }
+            ]
+          }
+        },
+        "id": "1409894139701854221",
+        "location": "ワイが教祖や",
+        "name": "みねらる ｶｷﾞ",
+        "pinned_tweet_id": "2043708883596898426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048672673002328064/VtpirrlC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 66,
+          "like_count": 6134,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1285
+        },
+        "username": "loser_happy_25",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067151514150526976"
+      ],
+      "media_source_tweet_id": [
+        "2067151516373495924"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2068008767896289460",
+    "created_at": "2026-06-19T16:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068008767896289460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890029305205608448",
+          "start": 3,
+          "username": "wsl8297"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ScbQCmGHSI",
+          "end": 53,
+          "expanded_url": "https://x.com/wsl8297/status/2067151516373495924/photo/1",
+          "media_key": "3_2067151514150526976",
+          "start": 30,
+          "url": "https://t.co/ScbQCmGHSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068008767896289460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3456
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067151516373495924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wsl8297: 想给新宠物起个名字，叫什么好呢？ https://t.co/ScbQCmGHSI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067151514150526976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK__WZHaYAA0-3k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067151514150526976"
+          ],
+          "media_source_tweet_id": [
+            "2067151516373495924"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2068008767896289460",
+        "created_at": "2026-06-19T16:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068008767896289460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890029305205608448",
+              "start": 3,
+              "username": "wsl8297"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScbQCmGHSI",
+              "end": 53,
+              "expanded_url": "https://x.com/wsl8297/status/2067151516373495924/photo/1",
+              "media_key": "3_2067151514150526976",
+              "start": 30,
+              "url": "https://t.co/ScbQCmGHSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068008767896289460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3456
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067151516373495924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wsl8297: 想给新宠物起个名字，叫什么好呢？ https://t.co/ScbQCmGHSI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067151514150526976"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2067151516373495924",
+        "created_at": "2026-06-17T07:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067151516373495924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScbQCmGHSI",
+              "end": 40,
+              "expanded_url": "https://x.com/wsl8297/status/2067151516373495924/photo/1",
+              "media_key": "3_2067151514150526976",
+              "start": 17,
+              "url": "https://t.co/ScbQCmGHSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067151516373495924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2761,
+          "impression_count": 2378226,
+          "like_count": 33780,
+          "quote_count": 1567,
+          "reply_count": 2343,
+          "retweet_count": 3456
+        },
+        "reply_settings": "everyone",
+        "text": "想给新宠物起个名字，叫什么好呢？ https://t.co/ScbQCmGHSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 866,
+          "like_count": 5186,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 1330
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2067151516373495924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17907,
+          "following_count": 639,
+          "like_count": 20104,
+          "listed_count": 101,
+          "media_count": 2332,
+          "tweet_count": 18492
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

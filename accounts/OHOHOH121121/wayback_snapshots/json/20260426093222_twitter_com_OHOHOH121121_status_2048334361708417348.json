@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048252201869754429",
+    "created_at": "2026-04-26T09:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048334361708417348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046523339368476672",
+          "start": 0,
+          "username": "aika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048334361708417348",
+    "in_reply_to_user_id": "2046523339368476672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048252201869754429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aika_overdose 吃一下泡面？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048252201869754429",
+        "created_at": "2026-04-26T09:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048334361708417348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046523339368476672",
+              "start": 0,
+              "username": "aika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048334361708417348",
+        "in_reply_to_user_id": "2046523339368476672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048252201869754429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aika_overdose 吃一下泡面？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046523339368476672",
+        "conversation_id": "2048252201869754429",
+        "created_at": "2026-04-26T04:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048252201869754429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048252201869754429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "リスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたいリスカしたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 623,
+          "like_count": 3400,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 640
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T09:36:31.000Z",
+        "description": "🖤あいかわらず君だけの🩷天使ちゃん\n@aika_himitsu ⬅️ 뒷계정 / 裏アカ💊\n🇰🇷🇯🇵🆗 🎀🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "aika_himitsu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinylink.net/v5Z8N",
+                "end": 23,
+                "expanded_url": "https://tinylink.net/v5Z8N",
+                "start": 0,
+                "url": "https://t.co/IAr6vStbch"
+              }
+            ]
+          }
+        },
+        "id": "2046523339368476672",
+        "location": "†堕天†",
+        "name": "ぁぃゕ",
+        "pinned_tweet_id": "2047753000467521748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046585434747420672/vkVLVs7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 172,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/IAr6vStbch",
+        "username": "aika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

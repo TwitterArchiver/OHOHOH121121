@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058144781789016064"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2058144797681144139",
+    "created_at": "2026-05-23T11:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058144797681144139"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 82,
+          "tag": "性取向測試"
+        }
+      ],
+      "urls": [
+        {
+          "description": "性從來都不止是異性戀，同性戀、雙性戀都是性的一部分，他們之間沒有高低貴賤之分，只是正常的一種取向而已。想知道你未知的內心究竟是什麽樣的嗎？下面10道題目給你答案！",
+          "display_url": "arealme.com/gay-test/zh/24…",
+          "end": 81,
+          "expanded_url": "https://www.arealme.com/gay-test/zh/24416933",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2058144798641696768/rkoKb8P5?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2058144798641696768/rkoKb8P5?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "我的性取向測試得分是：雙性戀: 66.67%, 異性戀: 28.57%, 同性戀: 4.76%，你也快來測測看吧！",
+          "unwound_url": "https://www.arealme.com/gay-test/zh/24416933",
+          "url": "https://t.co/FA3d1ENGWf"
+        },
+        {
+          "display_url": "pic.x.com/bGnUU6qIZo",
+          "end": 112,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2058144797681144139/photo/1",
+          "media_key": "3_2058144781789016064",
+          "start": 89,
+          "url": "https://t.co/bGnUU6qIZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058144797681144139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的性取向測試得分是：雙性戀: 66.67%, 異性戀: 28.57%, 同性戀: 4.76%，你也快來測測看吧！ https://t.co/FA3d1ENGWf #性取向測試 https://t.co/bGnUU6qIZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2058144781789016064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI__xkbbsAAiuZO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058144781789016064"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2058144797681144139",
+        "created_at": "2026-05-23T11:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058144797681144139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "性取向測試"
+            }
+          ],
+          "urls": [
+            {
+              "description": "性從來都不止是異性戀，同性戀、雙性戀都是性的一部分，他們之間沒有高低貴賤之分，只是正常的一種取向而已。想知道你未知的內心究竟是什麽樣的嗎？下面10道題目給你答案！",
+              "display_url": "arealme.com/gay-test/zh/24…",
+              "end": 81,
+              "expanded_url": "https://www.arealme.com/gay-test/zh/24416933",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2058144798641696768/rkoKb8P5?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058144798641696768/rkoKb8P5?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "我的性取向測試得分是：雙性戀: 66.67%, 異性戀: 28.57%, 同性戀: 4.76%，你也快來測測看吧！",
+              "unwound_url": "https://www.arealme.com/gay-test/zh/24416933",
+              "url": "https://t.co/FA3d1ENGWf"
+            },
+            {
+              "display_url": "pic.x.com/bGnUU6qIZo",
+              "end": 112,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2058144797681144139/photo/1",
+              "media_key": "3_2058144781789016064",
+              "start": 89,
+              "url": "https://t.co/bGnUU6qIZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058144797681144139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的性取向測試得分是：雙性戀: 66.67%, 異性戀: 28.57%, 同性戀: 4.76%，你也快來測測看吧！ https://t.co/FA3d1ENGWf #性取向測試 https://t.co/bGnUU6qIZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 729,
+          "like_count": 4372,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1072
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046950349060321280"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2046950351480492167",
+    "created_at": "2026-04-22T13:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046950351480492167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBFyCkBfLY",
+          "end": 37,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2046950351480492167/photo/1",
+          "media_key": "3_2046950349060321280",
+          "start": 14,
+          "url": "https://t.co/PBFyCkBfLY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046950351480492167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "霍，肿了。\nうわ、腫れた。 https://t.co/PBFyCkBfLY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2046950349060321280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg6f0yaMAAmJlV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046950349060321280"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2046950351480492167",
+        "created_at": "2026-04-22T13:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046950351480492167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBFyCkBfLY",
+              "end": 37,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2046950351480492167/photo/1",
+              "media_key": "3_2046950349060321280",
+              "start": 14,
+              "url": "https://t.co/PBFyCkBfLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046950351480492167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "霍，肿了。\nうわ、腫れた。 https://t.co/PBFyCkBfLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 508,
+          "like_count": 2975,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 514
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042594258574889099",
+    "created_at": "2026-04-11T03:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042810873744626128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1783808130151043072",
+          "start": 0,
+          "username": "ya_nuo863"
+        },
+        {
+          "end": 20,
+          "id": "1593963565521698816",
+          "start": 11,
+          "username": "chuge857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042810873744626128",
+    "in_reply_to_user_id": "1783808130151043072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042631164255703207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya_nuo863 @chuge857 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042594258574889099",
+        "created_at": "2026-04-11T03:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042810873744626128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1783808130151043072",
+              "start": 0,
+              "username": "ya_nuo863"
+            },
+            {
+              "end": 20,
+              "id": "1593963565521698816",
+              "start": 11,
+              "username": "chuge857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042810873744626128",
+        "in_reply_to_user_id": "1783808130151043072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042631164255703207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya_nuo863 @chuge857 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783808130151043072",
+        "conversation_id": "2042594258574889099",
+        "created_at": "2026-04-10T15:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042631164255703207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1593963565521698816",
+              "start": 0,
+              "username": "chuge857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042631164255703207",
+        "in_reply_to_user_id": "1593963565521698816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1895,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042594258574889099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuge857 我要吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 197,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 133
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:39:47.000Z",
+        "description": "hallo/im noiya！\n大人請互fo❤️",
+        "id": "1783808130151043072",
+        "name": "↑简易升天装置↑",
+        "pinned_tweet_id": "2041509629335884214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041453112184262656/a2UezjZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 262,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 138
+        },
+        "username": "ya_nuo863",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T13:45:05.000Z",
+        "description": "“你看起来不像处”小号\n发一些往日的精华内容和分享一些平日里的生活",
+        "id": "1593963565521698816",
+        "name": "处哥在干嘛",
+        "pinned_tweet_id": "2000563101201203614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991402721451335680/JIS89s1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33241,
+          "following_count": 126,
+          "like_count": 4811,
+          "listed_count": 55,
+          "media_count": 156,
+          "tweet_count": 3653
+        },
+        "username": "chuge857",
+        "verified": false
+      }
+    ]
+  }
+}

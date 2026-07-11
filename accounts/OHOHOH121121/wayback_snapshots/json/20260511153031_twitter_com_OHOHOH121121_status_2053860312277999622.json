@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2053831937220026557",
+    "created_at": "2026-05-11T15:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053860312277999622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656224072051863554",
+          "start": 0,
+          "username": "24105F4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053860312277999622",
+    "in_reply_to_user_id": "1656224072051863554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053831937220026557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@24105F4 ！！！！めちゃくちゃ可愛い！ずっと買いたいって思ってるけど、置く場所ないし、親に値段聞かれるのも怖い……。（親もブラインドボックス買ったことあるから、フィギュアの相場バレてるんだよね..🥲）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_2053831932715388929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICtQtna0AEqzxt.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2053831937220026557",
+        "created_at": "2026-05-11T15:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053860312277999622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656224072051863554",
+              "start": 0,
+              "username": "24105F4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053860312277999622",
+        "in_reply_to_user_id": "1656224072051863554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053831937220026557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@24105F4 ！！！！めちゃくちゃ可愛い！ずっと買いたいって思ってるけど、置く場所ないし、親に値段聞かれるのも怖い……。（親もブラインドボックス買ったことあるから、フィギュアの相場バレてるんだよね..🥲）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053831932715388929"
+          ]
+        },
+        "author_id": "1656224072051863554",
+        "conversation_id": "2053831937220026557",
+        "created_at": "2026-05-11T13:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053831937220026557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XDVymZsuV",
+              "end": 64,
+              "expanded_url": "https://x.com/24105F4/status/2053831937220026557/photo/1",
+              "media_key": "3_2053831932715388929",
+              "start": 41,
+              "url": "https://t.co/8XDVymZsuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053831937220026557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "これ欲しいなって一瞬思ったけど飾っていないフィギュアがすでに7個ある\n7個ある… https://t.co/8XDVymZsuV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 694,
+          "like_count": 4207,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 966
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T09:08:44.000Z",
+        "description": "友達を探しています♪\n※シラフの時はこのアカウントを開きません/日本人/出会い厨は求めて無いです！\n趣味:💊🎮🚬🏍️📷",
+        "id": "1656224072051863554",
+        "location": "❤︎ブロン❤︎メジコン❤︎ウット❤︎ハイプロン❤︎",
+        "name": "みーる",
+        "pinned_tweet_id": "2040782768494514452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040474779321516032/e4oPyPnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 125,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 91
+        },
+        "username": "24105F4",
+        "verified": false
+      }
+    ]
+  }
+}

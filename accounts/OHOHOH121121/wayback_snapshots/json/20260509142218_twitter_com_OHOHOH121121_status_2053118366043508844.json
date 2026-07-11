@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2052748079737221327",
+    "created_at": "2026-05-09T14:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053118366043508844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1644969415384113153",
+          "start": 0,
+          "username": "miehaosi"
+        },
+        {
+          "end": 24,
+          "id": "1857802986837172224",
+          "start": 10,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053118366043508844",
+    "in_reply_to_user_id": "1644969415384113153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052946501631128035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miehaosi @LingJiaXin233 精辟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2052748079737221327",
+        "created_at": "2026-05-09T14:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053118366043508844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1644969415384113153",
+              "start": 0,
+              "username": "miehaosi"
+            },
+            {
+              "end": 24,
+              "id": "1857802986837172224",
+              "start": 10,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053118366043508844",
+        "in_reply_to_user_id": "1644969415384113153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052946501631128035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miehaosi @LingJiaXin233 精辟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644969415384113153",
+        "conversation_id": "2052748079737221327",
+        "created_at": "2026-05-09T02:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052946501631128035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052946501631128035",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052748079737221327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 一开始觉得有点恶俗 再过了一段时间然后就射了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 699,
+          "like_count": 4179,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 950
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T07:44:17.000Z",
+        "description": "福瑞控 男同",
+        "id": "1644969415384113153",
+        "location": "Paris, France",
+        "name": "zhm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644971020930146305/CtHo-jsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 85,
+          "like_count": 6539,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 429
+        },
+        "username": "miehaosi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4160,
+          "following_count": 676,
+          "like_count": 16298,
+          "listed_count": 12,
+          "media_count": 1286,
+          "tweet_count": 4327
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

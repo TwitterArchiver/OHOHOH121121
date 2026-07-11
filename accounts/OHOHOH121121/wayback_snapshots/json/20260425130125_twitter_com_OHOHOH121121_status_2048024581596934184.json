@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2047963609268208042",
+    "created_at": "2026-04-25T13:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048024581596934184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "816199527652700161",
+          "start": 0,
+          "username": "plgh91"
+        },
+        {
+          "end": 24,
+          "id": "1863564782600908800",
+          "start": 8,
+          "username": "TOKYOBLACKWHOLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048024581596934184",
+    "in_reply_to_user_id": "816199527652700161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048024053446046192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plgh91 @TOKYOBLACKWHOLE ありますけど、全部抑えられてるから、そういうニュースはあまり見かけないですね。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T13:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048024581596934184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "816199527652700161",
+              "start": 0,
+              "username": "plgh91"
+            },
+            {
+              "end": 24,
+              "id": "1863564782600908800",
+              "start": 8,
+              "username": "TOKYOBLACKWHOLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048024581596934184",
+        "in_reply_to_user_id": "816199527652700161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048024053446046192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plgh91 @TOKYOBLACKWHOLE ありますけど、全部抑えられてるから、そういうニュースはあまり見かけないですね。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "816199527652700161",
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T12:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048024053446046192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1863564782600908800",
+              "start": 14,
+              "username": "TOKYOBLACKWHOLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048024053446046192",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048022075819114622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @TOKYOBLACKWHOLE とても難しい問題だよね。\nマレーシアは若い子の自殺ってありますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 547,
+          "like_count": 3142,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 588
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-03T08:28:26.000Z",
+        "description": "",
+        "id": "816199527652700161",
+        "location": "東京",
+        "name": "にーにゃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841731454587551744/fbzyqjwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 976,
+          "like_count": 6093,
+          "listed_count": 27,
+          "media_count": 536,
+          "tweet_count": 12574
+        },
+        "username": "plgh91",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T12:44:24.000Z",
+        "description": "🎀大森靖子ちゃん好きの3月新人メイド 18さい🎀\n♥︎ @jnmm11l \n♥︎@tensei_meido \n♥︎お給仕予定×チェキタグ 【 #ちむみんのBAN工場 】 ♥︎\n🎀遠隔🍥 https://t.co/pOANmVkLzw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 71,
+                "tag": "ちむみんのBAN工場"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "jnmm11l"
+              },
+              {
+                "end": 53,
+                "start": 40,
+                "username": "tensei_meido"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tenseimeido.base.shop",
+                "end": 116,
+                "expanded_url": "https://tenseimeido.base.shop/",
+                "start": 93,
+                "url": "https://t.co/pOANmVkLzw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kiqurc_?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@kiqurc_?_r=1&_t=ZS-94PXe2w0tou",
+                "start": 0,
+                "url": "https://t.co/SlIl0WPuHt"
+              }
+            ]
+          }
+        },
+        "id": "1863564782600908800",
+        "location": "⚠︎︎ かお、ちがいます。 身長デカいです。 チェキ掲載OK",
+        "name": "電撃萌王♥︎",
+        "pinned_tweet_id": "2041160917543739537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043511327331852288/IXVIGjWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3461,
+          "following_count": 68,
+          "like_count": 552,
+          "listed_count": 5,
+          "media_count": 174,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/SlIl0WPuHt",
+        "username": "TOKYOBLACKWHOLE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063569194562793718",
+    "created_at": "2026-06-07T10:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063569194562793718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1762503429602291712",
+          "start": 3,
+          "username": "BiQD2fu62n49438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063569194562793718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063436554580746241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BiQD2fu62n49438: 眼睛瞎在推特上😋手也粘在推特上🧐脑子用在推特上🤯颈椎疼在推特上🥹男人花心推特上😍女人变心推特上🥰孩子废在推特上🤓老人被骗推特上😏是谁发明了推特🫢无敌上头小蓝鸟🥴\n以前夫妻不分离🤫现在天天刷推特😱手机里🤔有推特😨回家马上就看推😜\n对方要是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063569194562793718",
+        "created_at": "2026-06-07T10:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063569194562793718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1762503429602291712",
+              "start": 3,
+              "username": "BiQD2fu62n49438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063569194562793718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063436554580746241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BiQD2fu62n49438: 眼睛瞎在推特上😋手也粘在推特上🧐脑子用在推特上🤯颈椎疼在推特上🥹男人花心推特上😍女人变心推特上🥰孩子废在推特上🤓老人被骗推特上😏是谁发明了推特🫢无敌上头小蓝鸟🥴\n以前夫妻不分离🤫现在天天刷推特😱手机里🤔有推特😨回家马上就看推😜\n对方要是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762503429602291712",
+        "conversation_id": "2063436554580746241",
+        "created_at": "2026-06-07T01:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063436554580746241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063436554580746241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5793,
+          "like_count": 210,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛瞎在推特上😋手也粘在推特上🧐脑子用在推特上🤯颈椎疼在推特上🥹男人花心推特上😍女人变心推特上🥰孩子废在推特上🤓老人被骗推特上😏是谁发明了推特🫢无敌上头小蓝鸟🥴\n以前夫妻不分离🤫现在天天刷推特😱手机里🤔有推特😨回家马上就看推😜\n对方要是抢推特🫣抢完肯定😡把婚离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 851,
+          "like_count": 5090,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 1278
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T15:42:54.000Z",
+        "description": "熊是男生🚹    熊生很丰富不知道该介绍什么",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/biqd2fu62n4943…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/biqd2fu62n494381",
+                "start": 0,
+                "url": "https://t.co/yncG6xZplI"
+              }
+            ]
+          }
+        },
+        "id": "1762503429602291712",
+        "name": "irrbear",
+        "pinned_tweet_id": "2060377598753223086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034287410671136768/HfHcxvQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 107,
+          "like_count": 2843,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/yncG6xZplI",
+        "username": "BiQD2fu62n49438",
+        "verified": false
+      }
+    ]
+  }
+}

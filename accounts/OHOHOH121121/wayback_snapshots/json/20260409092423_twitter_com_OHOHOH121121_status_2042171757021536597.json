@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042096618678448525",
+    "created_at": "2026-04-09T09:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042171757021536597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797323668714131456",
+          "start": 0,
+          "username": "LLLLEnding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042171757021536597",
+    "in_reply_to_user_id": "1797323668714131456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042096618678448525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LLLLEnding 搓搓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042096618678448525",
+        "created_at": "2026-04-09T09:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042171757021536597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797323668714131456",
+              "start": 0,
+              "username": "LLLLEnding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042171757021536597",
+        "in_reply_to_user_id": "1797323668714131456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042096618678448525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LLLLEnding 搓搓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797323668714131456",
+        "conversation_id": "2042096618678448525",
+        "created_at": "2026-04-09T04:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042096618678448525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042096618678448525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操推特上也能遇到一些无脑傻逼 我操你妈逼了这条谁敢跟我杠谁死妈妈好吧你几个妈啊还来给我发莫名其妙的帖子真的恶心又傻逼操你妈全都死全家了操你妈逼你们都不得好死知道吗傻逼们尤其是对我开黄腔的男的你的鸡巴直接被狗吃了然后拉出来喂你嘴里好吗我操你妈以为有个鸡巴很了不起吗我真操你妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T17:45:40.000Z",
+        "description": "10｜重抑｜od 割手｜intp｜喜欢我的妹子和我互fo｜男的好友位🚪52｜纯绿🚪188｜不接线下｜伤口定制",
+        "id": "1797323668714131456",
+        "name": "冰块",
+        "pinned_tweet_id": "2042050710196646229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039034603340771328/n5ggX8Uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 189,
+          "like_count": 2937,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 379
+        },
+        "username": "LLLLEnding",
+        "verified": false
+      }
+    ]
+  }
+}

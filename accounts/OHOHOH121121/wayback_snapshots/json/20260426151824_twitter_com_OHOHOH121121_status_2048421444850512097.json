@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2037874804733440148",
+    "created_at": "2026-04-26T15:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048421444850512097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1790469321208262656",
+          "start": 0,
+          "username": "chla_chlb"
+        },
+        {
+          "end": 23,
+          "id": "1783811548345171968",
+          "start": 11,
+          "username": "01aoakachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048421444850512097",
+    "in_reply_to_user_id": "1790469321208262656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037874804733440148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chla_chlb @01aoakachan 恭喜！！！永远幸福（迟来的祝福）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037874798462918656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEf8VQMaYAAP5xV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037874798412652544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEf8VQAbYAAKji0.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037874798425145344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEf8VQDaAAAd_rl.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2037874804733440148",
+        "created_at": "2026-04-26T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048421444850512097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1790469321208262656",
+              "start": 0,
+              "username": "chla_chlb"
+            },
+            {
+              "end": 23,
+              "id": "1783811548345171968",
+              "start": 11,
+              "username": "01aoakachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048421444850512097",
+        "in_reply_to_user_id": "1790469321208262656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037874804733440148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chla_chlb @01aoakachan 恭喜！！！永远幸福（迟来的祝福）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037874798462918656",
+            "3_2037874798412652544",
+            "3_2037874798425145344"
+          ]
+        },
+        "author_id": "1790469321208262656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          }
+        ],
+        "conversation_id": "2037874804733440148",
+        "created_at": "2026-03-28T12:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037874804733440148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QDO2ftSNe",
+              "end": 148,
+              "expanded_url": "https://x.com/chla_chlb/status/2037874804733440148/photo/1",
+              "media_key": "3_2037874798462918656",
+              "start": 125,
+              "url": "https://t.co/8QDO2ftSNe"
+            },
+            {
+              "display_url": "pic.x.com/8QDO2ftSNe",
+              "end": 148,
+              "expanded_url": "https://x.com/chla_chlb/status/2037874804733440148/photo/1",
+              "media_key": "3_2037874798412652544",
+              "start": 125,
+              "url": "https://t.co/8QDO2ftSNe"
+            },
+            {
+              "display_url": "pic.x.com/8QDO2ftSNe",
+              "end": 148,
+              "expanded_url": "https://x.com/chla_chlb/status/2037874804733440148/photo/1",
+              "media_key": "3_2037874798425145344",
+              "start": 125,
+              "url": "https://t.co/8QDO2ftSNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037874804733440148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10847,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "♡2026.03.28♡\nあおと正式に付き合う事になりました🥰\n今までもほぼ付き合ってるやんってくらい仲良かったけど。\nでも、こんな体型の私でも受け入れてくれて、私のダメなところも受け止めてくれて、本当に大好きです😊\nあおと釣り合うように痩せます。 https://t.co/8QDO2ftSNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 640,
+          "like_count": 3490,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 681
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T19:49:01.000Z",
+        "description": "01（24）｜躁鬱｜BPD｜摂食（拒↔︎過）｜251 @depasu__08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "depasu__08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/q34a89afyhnq7y…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/q34a89afyhnq7yj?t=iB4vnp&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ApkyuyBsGS"
+              }
+            ]
+          }
+        },
+        "id": "1790469321208262656",
+        "location": "💍@01aoakachan",
+        "name": "脳なし",
+        "pinned_tweet_id": "2037874804733440148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817188950110588928/XffbiOiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 70,
+          "like_count": 98993,
+          "listed_count": 15,
+          "media_count": 344,
+          "tweet_count": 4411
+        },
+        "url": "https://t.co/ApkyuyBsGS",
+        "username": "chla_chlb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:53:30.000Z",
+        "description": "01 ￤ P ￤ 精神科通院中 ￤ 社交不安障害 ￤ PTSD ￤ 双極性障害 ￤ 摂食障害(拒⇔過) ￤ 境界性パーソナリティ障害 ￤ 市販薬依存 ￤ 自傷OD ￤ 救急搬送 , 縫合 , 胃洗浄 , 入院歴有 ￤ 手帳２級",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rt8heccujtn1mx…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rt8heccujtn1mxn?t=dNwvBI&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/acxhqPYibb"
+              }
+            ]
+          }
+        },
+        "id": "1783811548345171968",
+        "location": "💍@chla_chlb",
+        "name": "あお",
+        "pinned_tweet_id": "2037845016572539347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795016471682404352/x1HaXD51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 167,
+          "like_count": 715,
+          "listed_count": 9,
+          "media_count": 109,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/acxhqPYibb",
+        "username": "01aoakachan",
+        "verified": false
+      }
+    ]
+  }
+}

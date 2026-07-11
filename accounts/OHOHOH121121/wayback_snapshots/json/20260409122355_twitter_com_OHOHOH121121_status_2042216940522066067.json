@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042210741621751948",
+    "created_at": "2026-04-09T12:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042216940522066067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1876496055329751040",
+          "start": 0,
+          "username": "dareyanen_OM4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042216940522066067",
+    "in_reply_to_user_id": "1876496055329751040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042210741621751948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dareyanen_OM4E 完全赞同...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 389,
+        "media_key": "3_2042210736299274240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdj2DWbcAAhrEA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042210741621751948",
+        "created_at": "2026-04-09T12:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042216940522066067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1876496055329751040",
+              "start": 0,
+              "username": "dareyanen_OM4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042216940522066067",
+        "in_reply_to_user_id": "1876496055329751040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042210741621751948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dareyanen_OM4E 完全赞同...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042210736299274240"
+          ]
+        },
+        "author_id": "1876496055329751040",
+        "conversation_id": "2042210741621751948",
+        "created_at": "2026-04-09T11:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042210741621751948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPuUXMjnn7",
+              "end": 122,
+              "expanded_url": "https://x.com/dareyanen_OM4E/status/2042210741621751948/photo/1",
+              "media_key": "3_2042210736299274240",
+              "start": 99,
+              "url": "https://t.co/rPuUXMjnn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042210741621751948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "もっと別の居場所があるでしょうに……病み垢にこだわる必要ないと思います\n逆になんでその居場所が病み垢である必要があるの？と思う\n趣味垢でも日常垢でもなんでもいいんです。もっと素敵な居場所があるはず https://t.co/rPuUXMjnn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T05:08:36.000Z",
+        "description": "07大学生 病んだり戻ったり微妙なのでタグ出すの自粛してます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/dareyanen_O…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/dareyanen_OM4E/",
+                "start": 0,
+                "url": "https://t.co/GQev8Jpfb9"
+              }
+            ]
+          }
+        },
+        "id": "1876496055329751040",
+        "location": "お別れ時DMかリプで一言お願いします",
+        "name": "鬱丸",
+        "pinned_tweet_id": "2018160048351154311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979209143551459329/Zgt1Rw3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 345,
+          "like_count": 13971,
+          "listed_count": 7,
+          "media_count": 222,
+          "tweet_count": 4010
+        },
+        "url": "https://t.co/GQev8Jpfb9",
+        "username": "dareyanen_OM4E",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2049392966687764799",
+    "created_at": "2026-04-29T07:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049392966687764799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090682679840960514",
+          "start": 3,
+          "username": "Miantuan_P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049392966687764799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049340406916395343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miantuan_P: 又或者你有一个不负责任的父亲，他从头至尾缺席了你的童年，你脑海里一直反复描绘一个完美且温柔的父亲的形象，这完全可以理解，你缺乏爱和关怀，自然会希望有类似的东西填补上。有时候创作就是这样，它确实可以映射一些现实生活里的想法，但是也仅止于此了，这些创…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2049392966687764799",
+        "created_at": "2026-04-29T07:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049392966687764799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090682679840960514",
+              "start": 3,
+              "username": "Miantuan_P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049392966687764799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049340406916395343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miantuan_P: 又或者你有一个不负责任的父亲，他从头至尾缺席了你的童年，你脑海里一直反复描绘一个完美且温柔的父亲的形象，这完全可以理解，你缺乏爱和关怀，自然会希望有类似的东西填补上。有时候创作就是这样，它确实可以映射一些现实生活里的想法，但是也仅止于此了，这些创…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090682679840960514",
+        "conversation_id": "2049339304934265204",
+        "created_at": "2026-04-29T04:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049340406916395343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049340406916395343",
+        "in_reply_to_user_id": "1090682679840960514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049339304934265204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又或者你有一个不负责任的父亲，他从头至尾缺席了你的童年，你脑海里一直反复描绘一个完美且温柔的父亲的形象，这完全可以理解，你缺乏爱和关怀，自然会希望有类似的东西填补上。有时候创作就是这样，它确实可以映射一些现实生活里的想法，但是也仅止于此了，这些创作者并没有因此伤害任何现实里的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 698,
+          "like_count": 3927,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 841
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-30T18:46:29.000Z",
+        "description": "Taiwanese | 23 🔞 ｜坑杂｜DeltaForce&R6S&SilentHill｜ Eng/繁/简OK ｜Sinophobia DNI🚫\nDM is off.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/miantu…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/miantuan-p.bsky.social",
+                "start": 0,
+                "url": "https://t.co/tpgcZchLn9"
+              }
+            ]
+          }
+        },
+        "id": "1090682679840960514",
+        "name": "Miantuan-P",
+        "pinned_tweet_id": "1938972845973086376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044118177475710976/hFSJfVBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5441,
+          "following_count": 2046,
+          "like_count": 62463,
+          "listed_count": 13,
+          "media_count": 2504,
+          "tweet_count": 10353
+        },
+        "url": "https://t.co/tpgcZchLn9",
+        "username": "Miantuan_P",
+        "verified": false
+      }
+    ]
+  }
+}

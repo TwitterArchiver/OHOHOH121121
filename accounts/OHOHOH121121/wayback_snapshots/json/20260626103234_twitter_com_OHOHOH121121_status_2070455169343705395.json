@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2070446979864531181",
+    "created_at": "2026-06-26T10:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070455169343705395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070455169343705395",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070446979864531181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "内心想要其他人拯救自己但是又怕其他人因为而惹上麻烦，然后也知道其他人能充当辅助来帮助你缓解病情但是又不让？\n怎么还是这种死样子？很不明白如果你不要让其他人插手你的生活的话你干脆不要发推算了这样其他人也不知道你自己很痛苦。\n----初澜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070446979864531181",
+        "created_at": "2026-06-26T10:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070455169343705395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070455169343705395",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070446979864531181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "内心想要其他人拯救自己但是又怕其他人因为而惹上麻烦，然后也知道其他人能充当辅助来帮助你缓解病情但是又不让？\n怎么还是这种死样子？很不明白如果你不要让其他人插手你的生活的话你干脆不要发推算了这样其他人也不知道你自己很痛苦。\n----初澜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070446979864531181",
+        "created_at": "2026-06-26T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070446979864531181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070446979864531181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到我现实朋友常说要拯救我，但是我却跟她说的是。\n“拯救我自己是医生和我的责任,不是你的责任。”\n我会倾诉痛苦，但是我也会和医生一起解决我自己身上的问题。因为这不是她的责任\n拯救我自己不是朋友的责任。是我自己的责任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 870,
+          "like_count": 5375,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 1399
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

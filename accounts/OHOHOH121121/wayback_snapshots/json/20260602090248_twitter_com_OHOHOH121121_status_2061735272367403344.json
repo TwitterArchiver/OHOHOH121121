@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061396580704374784"
+      ],
+      "media_source_tweet_id": [
+        "2061396604242776427"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2061735272367403344",
+    "created_at": "2026-06-02T09:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061735272367403344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054908136952352768",
+          "start": 3,
+          "username": "iuu_0_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KD84cxkTrF",
+          "end": 118,
+          "expanded_url": "https://x.com/iuu_0_0/status/2061396604242776427/photo/1",
+          "media_key": "3_2061396580704374784",
+          "start": 95,
+          "url": "https://t.co/KD84cxkTrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061735272367403344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061396604242776427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iuu_0_0: 我是uu 🚪88\n前世被奸人所害号炸了 现在努力寻找互关中 求互fo互转🥺\n目前离家出走一个人生活中…\n我很需要钱\n情绪价值很足的一个小女孩！欢迎过门和我交朋友喵 https://t.co/KD84cxkTrF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061396580704374784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuNRLYW0AASu_W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061396580704374784"
+          ],
+          "media_source_tweet_id": [
+            "2061396604242776427"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2061735272367403344",
+        "created_at": "2026-06-02T09:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061735272367403344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054908136952352768",
+              "start": 3,
+              "username": "iuu_0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KD84cxkTrF",
+              "end": 118,
+              "expanded_url": "https://x.com/iuu_0_0/status/2061396604242776427/photo/1",
+              "media_key": "3_2061396580704374784",
+              "start": 95,
+              "url": "https://t.co/KD84cxkTrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061735272367403344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061396604242776427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iuu_0_0: 我是uu 🚪88\n前世被奸人所害号炸了 现在努力寻找互关中 求互fo互转🥺\n目前离家出走一个人生活中…\n我很需要钱\n情绪价值很足的一个小女孩！欢迎过门和我交朋友喵 https://t.co/KD84cxkTrF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061396580704374784"
+          ]
+        },
+        "author_id": "2054908136952352768",
+        "conversation_id": "2061396604242776427",
+        "created_at": "2026-06-01T10:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061396604242776427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KD84cxkTrF",
+              "end": 105,
+              "expanded_url": "https://x.com/iuu_0_0/status/2061396604242776427/photo/1",
+              "media_key": "3_2061396580704374784",
+              "start": 82,
+              "url": "https://t.co/KD84cxkTrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061396604242776427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是uu 🚪88\n前世被奸人所害号炸了 现在努力寻找互关中 求互fo互转🥺\n目前离家出走一个人生活中…\n我很需要钱\n情绪价值很足的一个小女孩！欢迎过门和我交朋友喵 https://t.co/KD84cxkTrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 821,
+          "like_count": 4892,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 1231
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T12:57:32.000Z",
+        "description": "🚪88｜od｜自伤｜bpd｜接伤口定制｜分享一些日常｜我很需要钱。",
+        "id": "2054908136952352768",
+        "name": "李怜彩",
+        "pinned_tweet_id": "2061396604242776427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055152633976139776/0ldffr94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 4,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "iuu_0_0",
+        "verified": false
+      }
+    ]
+  }
+}

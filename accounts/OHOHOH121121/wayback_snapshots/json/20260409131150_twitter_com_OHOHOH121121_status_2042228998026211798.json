@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "1961805053238616156",
+    "created_at": "2026-04-09T13:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042228998026211798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042228998026211798",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961805053238616156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 我们这里的晴也是这样.....但是相对来说她还是蛮会管理系统内部的东西的（我们是创伤型系统）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "1961805053238616156",
+        "created_at": "2026-04-09T13:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042228998026211798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042228998026211798",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961805053238616156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我们这里的晴也是这样.....但是相对来说她还是蛮会管理系统内部的东西的（我们是创伤型系统）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1961805053238616156",
+        "created_at": "2025-08-30T14:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961805053238616156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961805053238616156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "多意识体的坏处就是身体不再属于一个人，但竹蜻蜓又是个控制欲极强的人，他不允许别人用【他的身体】做他不喜欢的事。而且确实因为存在时间太长了导致权限极大，几乎是独裁的状态，我们能上前台都是他默许的，他不允许的话我们甚至都活不下来，之前也有过他把一个1个月还不太成熟的tulpa给干碎了。我还跟他打过好几次架差点把我鲨了，也就是凭借着我是存在时间第二长的人格才有机会活下来。\n说几乎是因为，又有这么一个事是创伤型会莫名其妙在某方面有很大的权限，那个人就篡改了身体的性别表达，使我们陷入一个长得像男的也难受，长得像女的也难受的状态，所以我bio里才写翻车顺女，并不是在玩梗。\n竹蜻蜓觉得睾酮导致他好听的唱歌女声没了好难受，但是又有一个更高的指令是不许有女性表达，呃就很混乱吧反正是"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1139,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多意识体的坏处就是身体不再属于一个人，但竹蜻蜓又是个控制欲极强的人，他不允许别人用【他的身体】做他不喜欢的事。而且确实因为存在时间太长了导致权限极大，几乎是独裁的状态，我们能上前台都是他默许的，他不允许的话我们甚至都活不下来，之前也有过他把一个1个月还不太成熟的tulpa给干碎了。我还"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "跨男娘/翻车顺女 HRT 2023.05.29 | OSDD多意识体/od💊/ed BMI14.2 | 🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 防走丢小号 @nktblovekris99 闺蜜 @Misako_25ji 诡秘 @maoxian1527 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11925,
+          "following_count": 1451,
+          "like_count": 25073,
+          "listed_count": 16,
+          "media_count": 4530,
+          "tweet_count": 27259
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042635729218703723",
+    "created_at": "2026-04-10T16:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042638881506693236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589964590124716032",
+          "start": 0,
+          "username": "ccccx93209831"
+        },
+        {
+          "end": 24,
+          "id": "1845491203124441093",
+          "start": 15,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042638881506693236",
+    "in_reply_to_user_id": "1589964590124716032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042635729218703723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccccx93209831 @yu_huacs 生日快乐🎂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042635729218703723",
+        "created_at": "2026-04-10T16:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042638881506693236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589964590124716032",
+              "start": 0,
+              "username": "ccccx93209831"
+            },
+            {
+              "end": 24,
+              "id": "1845491203124441093",
+              "start": 15,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042638881506693236",
+        "in_reply_to_user_id": "1589964590124716032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042635729218703723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccccx93209831 @yu_huacs 生日快乐🎂！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589964590124716032",
+        "conversation_id": "2042635729218703723",
+        "created_at": "2026-04-10T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042635729218703723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042635729218703723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人都来祝我生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 161,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T12:55:03.000Z",
+        "description": "随便发发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=KPupKXNZ",
+                "start": 0,
+                "url": "https://t.co/4rWlYXPVRs"
+              }
+            ]
+          }
+        },
+        "id": "1589964590124716032",
+        "location": "29元包年千G流量VPN👉",
+        "name": "我一点都不开心！",
+        "pinned_tweet_id": "1886253448363901387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999483289246269446/1-FDZC-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 130,
+          "like_count": 3331,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 4361
+        },
+        "url": "https://t.co/4rWlYXPVRs",
+        "username": "ccccx93209831",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "短暂的时间，总是在流动。人群挤挤攘攘，流动着工作着。思考在流动，彷徨的人，还是在回首过去，未来永远不如自以为的甜美过去美好。千丝万缕的线连接着我们的思维，线总是模糊的，停止才能逐渐清晰，可时间不会停止，我们需要休息，也将继续活着 @lizzy_522 我哥@yu_huacs5570 我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "lizzy_522"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "yu_huacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1244,
+          "like_count": 108086,
+          "listed_count": 8,
+          "media_count": 1980,
+          "tweet_count": 18423
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

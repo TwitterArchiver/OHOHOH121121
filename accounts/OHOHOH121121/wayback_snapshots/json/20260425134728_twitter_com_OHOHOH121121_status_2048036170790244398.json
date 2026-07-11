@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047963609268208042",
+    "created_at": "2026-04-25T13:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048036170790244398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        },
+        {
+          "end": 24,
+          "id": "816199527652700161",
+          "start": 17,
+          "username": "plgh91"
+        },
+        {
+          "end": 41,
+          "id": "1863564782600908800",
+          "start": 25,
+          "username": "TOKYOBLACKWHOLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048036170790244398",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048036060102635604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup @plgh91 @TOKYOBLACKWHOLE 看到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T13:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048036170790244398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 24,
+              "id": "816199527652700161",
+              "start": 17,
+              "username": "plgh91"
+            },
+            {
+              "end": 41,
+              "id": "1863564782600908800",
+              "start": 25,
+              "username": "TOKYOBLACKWHOLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048036170790244398",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048036060102635604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @plgh91 @TOKYOBLACKWHOLE 看到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T13:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048036060102635604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 21,
+              "id": "816199527652700161",
+              "start": 14,
+              "username": "plgh91"
+            },
+            {
+              "end": 38,
+              "id": "1863564782600908800",
+              "start": 22,
+              "username": "TOKYOBLACKWHOLE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20480…",
+              "end": 71,
+              "expanded_url": "https://x.com/i/status/2048000583198785661",
+              "start": 48,
+              "url": "https://t.co/ploUvMsX8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048036060102635604",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048000583198785661",
+            "type": "quoted"
+          },
+          {
+            "id": "2048035465929064536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @plgh91 @TOKYOBLACKWHOLE 评论区里也有好人\nhttps://t.co/ploUvMsX8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 552,
+          "like_count": 3151,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 597
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047981379359776796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 3261,
+          "like_count": 28028,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 7401
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-03T08:28:26.000Z",
+        "description": "",
+        "id": "816199527652700161",
+        "location": "東京",
+        "name": "にーにゃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841731454587551744/fbzyqjwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 976,
+          "like_count": 6094,
+          "listed_count": 27,
+          "media_count": 536,
+          "tweet_count": 12575
+        },
+        "username": "plgh91",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T12:44:24.000Z",
+        "description": "🎀大森靖子ちゃん好きの3月新人メイド 18さい🎀\n♥︎ @jnmm11l \n♥︎@tensei_meido \n♥︎お給仕予定×チェキタグ 【 #ちむみんのBAN工場 】 ♥︎\n🎀遠隔🍥 https://t.co/pOANmVkLzw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 71,
+                "tag": "ちむみんのBAN工場"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "jnmm11l"
+              },
+              {
+                "end": 53,
+                "start": 40,
+                "username": "tensei_meido"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tenseimeido.base.shop",
+                "end": 116,
+                "expanded_url": "https://tenseimeido.base.shop/",
+                "start": 93,
+                "url": "https://t.co/pOANmVkLzw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kiqurc_?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@kiqurc_?_r=1&_t=ZS-94PXe2w0tou",
+                "start": 0,
+                "url": "https://t.co/SlIl0WPuHt"
+              }
+            ]
+          }
+        },
+        "id": "1863564782600908800",
+        "location": "⚠︎︎ かお、ちがいます。 身長デカいです。 チェキ掲載OK",
+        "name": "電撃萌王♥︎",
+        "pinned_tweet_id": "2041160917543739537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043511327331852288/IXVIGjWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3628,
+          "following_count": 68,
+          "like_count": 552,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/SlIl0WPuHt",
+        "username": "TOKYOBLACKWHOLE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074881918307549184",
+        "3_2074881929170825216"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2074881937521725918",
+    "created_at": "2026-07-08T15:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074881937521725918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VK4Fi5xjFE",
+          "end": 55,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2074881937521725918/photo/1",
+          "media_key": "3_2074881918307549184",
+          "start": 32,
+          "url": "https://t.co/VK4Fi5xjFE"
+        },
+        {
+          "display_url": "pic.x.com/VK4Fi5xjFE",
+          "end": 55,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2074881937521725918/photo/1",
+          "media_key": "3_2074881929170825216",
+          "start": 32,
+          "url": "https://t.co/VK4Fi5xjFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074881937521725918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友，玩红辣椒的时候下手挺重的啊。\n明天你完蛋了。（我不服。） https://t.co/VK4Fi5xjFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2074881918307549184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt2HIuaQAA9Zko.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2074881929170825216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt2HxMasAAU6vJ.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074881918307549184",
+            "3_2074881929170825216"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2074881937521725918",
+        "created_at": "2026-07-08T15:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074881937521725918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VK4Fi5xjFE",
+              "end": 55,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2074881937521725918/photo/1",
+              "media_key": "3_2074881918307549184",
+              "start": 32,
+              "url": "https://t.co/VK4Fi5xjFE"
+            },
+            {
+              "display_url": "pic.x.com/VK4Fi5xjFE",
+              "end": 55,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2074881937521725918/photo/1",
+              "media_key": "3_2074881929170825216",
+              "start": 32,
+              "url": "https://t.co/VK4Fi5xjFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074881937521725918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友，玩红辣椒的时候下手挺重的啊。\n明天你完蛋了。（我不服。） https://t.co/VK4Fi5xjFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 906,
+          "like_count": 5785,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

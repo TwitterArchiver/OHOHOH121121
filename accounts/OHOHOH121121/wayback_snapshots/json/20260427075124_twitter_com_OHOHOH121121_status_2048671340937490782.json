@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048339681901977769",
+    "created_at": "2026-04-27T07:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048671340937490782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1111042409725452288",
+          "start": 0,
+          "username": "shimo_shina"
+        },
+        {
+          "end": 29,
+          "id": "1948365390813310976",
+          "start": 13,
+          "username": "HsMmMThJ4V90618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048671340937490782",
+    "in_reply_to_user_id": "1111042409725452288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048670239169339542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimo_shina @HsMmMThJ4V90618 差別を『過剰なサービスへの要求』にすり替えるなんて、相当歪んでるね。人権を守るのが仕事の場所で差別が起きてるのが問題なの。マレーシアがどうこう言う前に、自分の腐った価値観をアップデートしたら？無知を晒して恥ずかしくないの？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-27T07:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048671340937490782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1111042409725452288",
+              "start": 0,
+              "username": "shimo_shina"
+            },
+            {
+              "end": 29,
+              "id": "1948365390813310976",
+              "start": 13,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048671340937490782",
+        "in_reply_to_user_id": "1111042409725452288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048670239169339542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimo_shina @HsMmMThJ4V90618 差別を『過剰なサービスへの要求』にすり替えるなんて、相当歪んでるね。人権を守るのが仕事の場所で差別が起きてるのが問題なの。マレーシアがどうこう言う前に、自分の腐った価値観をアップデートしたら？無知を晒して恥ずかしくないの？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111042409725452288",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-27T07:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048670239169339542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1948365390813310976",
+              "start": 14,
+              "username": "HsMmMThJ4V90618"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/OHOHOH121121/s…",
+              "end": 179,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048668655324688850",
+              "start": 156,
+              "url": "https://t.co/MJp5QeWkfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048670239169339542",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048668655324688850",
+            "type": "quoted"
+          },
+          {
+            "id": "2048668232568148159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @HsMmMThJ4V90618 引用とリプライが並行するとどう返信するのが適切か分かりにくいな\n\n保護対象に脱走までされたら\n医者も警官でもこの児相職員みたいに優しく言わないよ\nもっと強烈に怒鳴りつけられる\n被害者意識の化け物は過剰なサービスを求めすぎている\nマレーシアも大変だな　https://t.co/MJp5QeWkfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 656,
+          "like_count": 3592,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 715
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-27T23:08:47.000Z",
+        "description": "成年　例のアレ　個人Vを目指し挫折→FANZA同人 総合ランキング 24時間にしようとし続かず→コミケ垢にしようと試行→冬夏に春日部つくし折り本出す→冬コミ新刊用意中",
+        "id": "1111042409725452288",
+        "location": "埼玉県江東区有明３丁目１１−１ビッグサイト",
+        "name": "エズパコ@1日目火曜西ね49b",
+        "pinned_tweet_id": "1804844644960002174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693267793284853760/j6v9fIHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 7501,
+          "like_count": 223110,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 93683
+        },
+        "username": "shimo_shina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T12:51:45.000Z",
+        "description": "10/♀️/通信制休学中/トラウマ/ﾘｽｶ/0d/DM△その他自衛します",
+        "id": "1948365390813310976",
+        "name": "ちゃちゃまる",
+        "pinned_tweet_id": "1985689921236189522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950558527359213568/C0muAaV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 93,
+          "like_count": 22346,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 596
+        },
+        "username": "HsMmMThJ4V90618",
+        "verified": false
+      }
+    ]
+  }
+}

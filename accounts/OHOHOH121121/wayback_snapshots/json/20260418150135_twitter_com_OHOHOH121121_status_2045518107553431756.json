@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045518107553431756",
+    "created_at": "2026-04-18T15:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045518107553431756"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045518107553431756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男生画的我好绝望啊。\n太绝望了\n果然我只适合画女生吧\n但是一直呆在舒适区内我也很不舒服🥲\n男の子を描くと本当に絶望する…。\nもう無理すぎてつらい。\nやっぱり自分は女の子しか描けないのかな\nでもずっとコンフォートゾーンにいるのも、なんだか落ち着かなくて嫌なんだよね🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045518107553431756",
+        "created_at": "2026-04-18T15:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045518107553431756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045518107553431756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生画的我好绝望啊。\n太绝望了\n果然我只适合画女生吧\n但是一直呆在舒适区内我也很不舒服🥲\n男の子を描くと本当に絶望する…。\nもう無理すぎてつらい。\nやっぱり自分は女の子しか描けないのかな\nでもずっとコンフォートゾーンにいるのも、なんだか落ち着かなくて嫌なんだよね🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 492,
+          "like_count": 2866,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 457
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

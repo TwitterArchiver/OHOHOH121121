@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2042530754828341481",
+    "created_at": "2026-04-10T09:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042530754828341481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889200058383630336",
+          "start": 3,
+          "username": "UouoU_lv99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042530754828341481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042527917620838818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UouoU_lv99: いいねもリプもDMもうれしいって言ったけど、LINEも通話もうれしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2042530754828341481",
+        "created_at": "2026-04-10T09:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042530754828341481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889200058383630336",
+              "start": 3,
+              "username": "UouoU_lv99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042530754828341481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042527917620838818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UouoU_lv99: いいねもリプもDMもうれしいって言ったけど、LINEも通話もうれしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200058383630336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2042527917620838818",
+        "created_at": "2026-04-10T08:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042527917620838818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042527917620838818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "いいねもリプもDMもうれしいって言ったけど、LINEも通話もうれしい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:29:54.000Z",
+        "description": "🗝 ▸ @UxuxU_lv99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "UxuxU_lv99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chia_S2",
+                "end": 23,
+                "expanded_url": "https://lit.link/chia_S2",
+                "start": 0,
+                "url": "https://t.co/xBaHnQsRuz"
+              }
+            ]
+          }
+        },
+        "id": "1889200058383630336",
+        "name": "ちあ",
+        "pinned_tweet_id": "2042452595059642726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036339618354962433/GOTjt6n3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 486,
+          "like_count": 49330,
+          "listed_count": 21,
+          "media_count": 655,
+          "tweet_count": 11568
+        },
+        "url": "https://t.co/xBaHnQsRuz",
+        "username": "UouoU_lv99",
+        "verified": false
+      }
+    ]
+  }
+}

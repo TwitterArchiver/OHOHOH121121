@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2046139444282179788",
+    "created_at": "2026-04-20T09:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T10:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046162330652967380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961895033889804288",
+          "start": 0,
+          "username": "Xx_774chan_xX"
+        },
+        {
+          "end": 31,
+          "id": "1958519987574083584",
+          "start": 15,
+          "username": "zzzzz_nemunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046162330652967380",
+    "in_reply_to_user_id": "1961895033889804288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046161477166645469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xx_774chan_xX @zzzzz_nemunyan_ ooo，got it。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2046139444282179788",
+        "created_at": "2026-04-20T09:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046162330652967380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961895033889804288",
+              "start": 0,
+              "username": "Xx_774chan_xX"
+            },
+            {
+              "end": 31,
+              "id": "1958519987574083584",
+              "start": 15,
+              "username": "zzzzz_nemunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046162330652967380",
+        "in_reply_to_user_id": "1961895033889804288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046161477166645469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xx_774chan_xX @zzzzz_nemunyan_ ooo，got it。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961895033889804288",
+        "conversation_id": "2046139444282179788",
+        "created_at": "2026-04-20T09:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046161477166645469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1958519987574083584",
+              "start": 14,
+              "username": "zzzzz_nemunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046161477166645469",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046159318584803640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @zzzzz_nemunyan_ I say “thx” ,because I enjoyed talking with them.\nMoreover ,maybe they enjoyed talking ,too.\nSo we said so each other."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 503,
+          "like_count": 2927,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 487
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T20:53:54.000Z",
+        "description": "未成年男❌ \nI can speak English a little \n꒰ঌアクアリウムと日焼け止めと薬とホモに詳しい幼卒ネカマ定型発達な淫夢厨໒꒱\n꒰ঌジョジョ⌇サンリオ⌇ポケモン⌇ニディガ⌇みい山໒꒱\n꒰ঌ病み、批判、暴言、飯テロ、腐発言、夢発言、ネタバレ注意໒꒱\n꒰ঌ天使になりたい໒꒱\n\n💚⭐️🪽🧸🎠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "お別れブロックかリムでお願いします.com",
+                "end": 23,
+                "expanded_url": "https://xn--n8jlad6dm8g1iqeupjhlizeyfsb3054icosl.com",
+                "start": 0,
+                "url": "https://t.co/AhBDWl0tnE"
+              }
+            ]
+          }
+        },
+        "id": "1961895033889804288",
+        "location": "໒꒱身体は東海地方脳はTwitter心はいつもミクちゃんの隣",
+        "name": "【把握会中】໒꒱名無しちゃん/Nanashi/무명짱",
+        "pinned_tweet_id": "2045539961974476865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961895173878939648/E9EZsmDT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 944,
+          "like_count": 9043,
+          "listed_count": 5,
+          "media_count": 135,
+          "tweet_count": 9438
+        },
+        "url": "https://t.co/AhBDWl0tnE",
+        "username": "Xx_774chan_xX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T13:22:20.000Z",
+        "description": "病み垢/sjk/ばい/えろ垢🖕❌\nsub @nanase_77se_00\n🗝 @nemunyan_zzzzgg 💕 @renchandayo_000\n最強まぶ‼️ @0tsmw2cg7x53868 一生の推し🩵 @chiiiiixyo \n姉様💛 @usamimichan_15 fan 🍓🎒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "nanase_77se_00"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "nemunyan_zzzzgg"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "renchandayo_000"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "0tsmw2cg7x53868"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "chiiiiixyo"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "usamimichan_15"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/zzzzz_nemun…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/zzzzz_nemunyan_/",
+                "start": 0,
+                "url": "https://t.co/bCLN60LxeN"
+              }
+            ]
+          }
+        },
+        "id": "1958519987574083584",
+        "location": "指輪が首輪になっていたんだ　",
+        "name": "すい",
+        "pinned_tweet_id": "2042949934308299059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045073504681533440/xnmfPeHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 304,
+          "like_count": 4279,
+          "listed_count": 10,
+          "media_count": 34,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/bCLN60LxeN",
+        "username": "zzzzz_nemunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

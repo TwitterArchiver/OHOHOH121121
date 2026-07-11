@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2049074973311152464",
+    "created_at": "2026-04-28T10:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049077432549023840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049077432549023840",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049074973311152464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 美丽之"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1727,
+        "media_key": "3_2049074956022276096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_G0OfbYAAjWCj.jpg",
+        "width": 2018
+      },
+      {
+        "height": 1728,
+        "media_key": "3_2049074963546779648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_G0qhaMAA8Lo_.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2049074973311152464",
+        "created_at": "2026-04-28T10:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049077432549023840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049077432549023840",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049074973311152464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 美丽之"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049074956022276096",
+            "3_2049074963546779648"
+          ]
+        },
+        "author_id": "1426207565575192577",
+        "conversation_id": "2049074973311152464",
+        "created_at": "2026-04-28T10:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049074973311152464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ak0IeBcc6W",
+              "end": 38,
+              "expanded_url": "https://x.com/Lainyer051230/status/2049074973311152464/photo/1",
+              "media_key": "3_2049074956022276096",
+              "start": 15,
+              "url": "https://t.co/Ak0IeBcc6W"
+            },
+            {
+              "display_url": "pic.x.com/Ak0IeBcc6W",
+              "end": 38,
+              "expanded_url": "https://x.com/Lainyer051230/status/2049074973311152464/photo/1",
+              "media_key": "3_2049074963546779648",
+              "start": 15,
+              "url": "https://t.co/Ak0IeBcc6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049074973311152464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷霆青蓝色T恤+男的来了（） https://t.co/Ak0IeBcc6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 697,
+          "like_count": 3887,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 819
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\n生理男，无糖QwQ｜无不良嗜好｜\n偶尔分享下照片还有生活什么的～｜🈚🚪加好友看缘分噢～｜有友善的朋友想和我聊天的话，我都非常欢迎的～！｜叫我哥哥/姐姐/弟弟/妹妹都可以∽（）",
+        "id": "1426207565575192577",
+        "location": "Malaysia",
+        "name": "千缘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046988658927181824/6kb-V4xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 123,
+          "like_count": 14823,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 942
+        },
+        "username": "Lainyer051230",
+        "verified": true
+      }
+    ]
+  }
+}

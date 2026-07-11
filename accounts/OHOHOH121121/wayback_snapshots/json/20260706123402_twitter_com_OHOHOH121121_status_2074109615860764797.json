@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073846341051301888"
+      ],
+      "media_source_tweet_id": [
+        "2074042666493583462"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074109615860764797",
+    "created_at": "2026-07-06T12:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074109615860764797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wS3V5zby7x",
+          "end": 55,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2074042666493583462/video/1",
+          "media_key": "13_2073846341051301888",
+          "start": 32,
+          "url": "https://t.co/wS3V5zby7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074109615860764797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074042666493583462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 放暑假了给大伙来点降温的 https://t.co/wS3V5zby7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15464,
+        "height": 1280,
+        "media_key": "13_2073846341051301888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073846341051301888/img/yBMYmFakl_SvJ7yX.jpg",
+        "public_metrics": {
+          "view_count": 6984
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073846341051301888/vid/avc1/320x568/3Jmv_yiZO0NP5bUA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073846341051301888/vid/avc1/480x852/rq3ZE0sTrc7OH3y6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073846341051301888/vid/avc1/720x1280/mxoD5I0AxA9Pq5f4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073846341051301888/pl/hqeJ8LgU1c9vkACQ.m3u8?v=2c5"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073846341051301888"
+          ],
+          "media_source_tweet_id": [
+            "2074042666493583462"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074109615860764797",
+        "created_at": "2026-07-06T12:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074109615860764797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wS3V5zby7x",
+              "end": 55,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2074042666493583462/video/1",
+              "media_key": "13_2073846341051301888",
+              "start": 32,
+              "url": "https://t.co/wS3V5zby7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074109615860764797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074042666493583462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 放暑假了给大伙来点降温的 https://t.co/wS3V5zby7x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073846341051301888"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074042666493583462",
+        "created_at": "2026-07-06T08:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074042666493583462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wS3V5zby7x",
+              "end": 36,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2074042666493583462/video/1",
+              "media_key": "13_2073846341051301888",
+              "start": 13,
+              "url": "https://t.co/wS3V5zby7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074042666493583462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 15902,
+          "like_count": 186,
+          "quote_count": 4,
+          "reply_count": 44,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "放暑假了给大伙来点降温的 https://t.co/wS3V5zby7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 899,
+          "like_count": 5736,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13623,
+          "following_count": 1740,
+          "like_count": 26457,
+          "listed_count": 16,
+          "media_count": 5569,
+          "tweet_count": 29259
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

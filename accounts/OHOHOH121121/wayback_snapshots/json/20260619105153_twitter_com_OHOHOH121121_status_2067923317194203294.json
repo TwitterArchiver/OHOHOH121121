@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2067860177475506554",
+    "created_at": "2026-06-19T10:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067923317194203294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006896037412352000",
+          "start": 0,
+          "username": "plh1649513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067923317194203294",
+    "in_reply_to_user_id": "2006896037412352000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067923238169297361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plh1649513 原来如此！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2067860177475506554",
+        "created_at": "2026-06-19T10:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067923317194203294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067923317194203294",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067923238169297361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 原来如此！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006896037412352000",
+        "conversation_id": "2067860177475506554",
+        "created_at": "2026-06-19T10:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067923238169297361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067923238169297361",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067922971977732335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 因为我接触的人很少有马来西亚的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 859,
+          "like_count": 5163,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "乙一笔下的青/川端康成笔下的雪/\n不小心患上了文青病/会发点弱智推文/喜欢哲学/科幻/虚无主义/精神病患者在家休学中/负能/包容一切/情感小屋欢迎来坐/Oder/fo互关\n/#蓝V互关！！！世界上最好的姐姐：@osborn_11s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "蓝V互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "osborn_11s"
+              }
+            ]
+          }
+        },
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "睁眼也不一定能活",
+        "pinned_tweet_id": "2067156550310076460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063583607122477056/ztR7JATt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 557,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "plh1649513",
+        "verified": true
+      }
+    ]
+  }
+}

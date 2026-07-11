@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048686477534785731",
+    "created_at": "2026-04-27T08:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048686477534785731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035919289166041088",
+          "start": 3,
+          "username": "nabicochan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048686477534785731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048354546821554650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nabicochan: 優しすぎる人へ。\n\n・嫌な事は断れ\n・本音で話せ\n・怒る時にはちゃんと怒れ\n・自分を犠牲にするな\n・もっと自信を持て\n・利用してくる奴を許すな\n・困った時は人に頼れ\n・嫌われることを恐れるな\n・悪意には悪意で返せ\n・自分にもっと優しくしろ\n・もっ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048686477534785731",
+        "created_at": "2026-04-27T08:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048686477534785731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035919289166041088",
+              "start": 3,
+              "username": "nabicochan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048686477534785731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048354546821554650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nabicochan: 優しすぎる人へ。\n\n・嫌な事は断れ\n・本音で話せ\n・怒る時にはちゃんと怒れ\n・自分を犠牲にするな\n・もっと自信を持て\n・利用してくる奴を許すな\n・困った時は人に頼れ\n・嫌われることを恐れるな\n・悪意には悪意で返せ\n・自分にもっと優しくしろ\n・もっ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035919289166041088",
+        "conversation_id": "2048354546821554650",
+        "created_at": "2026-04-26T10:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048354546821554650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048354546821554650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 37692,
+          "like_count": 1198,
+          "quote_count": 23,
+          "reply_count": 14,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "優しすぎる人へ。\n\n・嫌な事は断れ\n・本音で話せ\n・怒る時にはちゃんと怒れ\n・自分を犠牲にするな\n・もっと自信を持て\n・利用してくる奴を許すな\n・困った時は人に頼れ\n・嫌われることを恐れるな\n・悪意には悪意で返せ\n・自分にもっと優しくしろ\n・もっとわがままになれ\n・過去の自分を責めるな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 664,
+          "like_count": 3647,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 735
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T03:19:44.000Z",
+        "description": "⬇君が知らないこと、私が全部教えてあげる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nabichan19",
+                "end": 23,
+                "expanded_url": "https://lit.link/nabichan19",
+                "start": 0,
+                "url": "https://t.co/DEAm1jRsUB"
+              }
+            ]
+          }
+        },
+        "id": "2035919289166041088",
+        "name": "なびちゃん",
+        "pinned_tweet_id": "2038594665021321424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035919661993459712/Lo-dhzEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11403,
+          "following_count": 1,
+          "like_count": 38,
+          "listed_count": 35,
+          "media_count": 10,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/DEAm1jRsUB",
+        "username": "nabicochan",
+        "verified": true
+      }
+    ]
+  }
+}

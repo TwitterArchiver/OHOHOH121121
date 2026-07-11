@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048402469731127701",
+    "created_at": "2026-04-26T14:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048410664168018212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671821091738886144",
+          "start": 0,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048410664168018212",
+    "in_reply_to_user_id": "1671821091738886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048402469731127701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_04x_d 揉揉。记得消毒啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048402461891911680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1jL6oaYAA5wO2.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048402469731127701",
+        "created_at": "2026-04-26T14:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048410664168018212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048410664168018212",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048402469731127701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 揉揉。记得消毒啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048402461891911680"
+          ]
+        },
+        "author_id": "1671821091738886144",
+        "conversation_id": "2048402469731127701",
+        "created_at": "2026-04-26T14:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048402469731127701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6ugoqWoXs",
+              "end": 36,
+              "expanded_url": "https://x.com/_04x_d/status/2048402469731127701/photo/1",
+              "media_key": "3_2048402461891911680",
+              "start": 13,
+              "url": "https://t.co/h6ugoqWoXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048402469731127701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道要怎樣接下去割了 https://t.co/h6ugoqWoXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 633,
+          "like_count": 3449,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 668
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251 @_j14q1\n                                                                                         shtwt || odtwt || teen || shxto's wife || EN/CN/JN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "SH1tt4l",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042943850080276481/yi1woPuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 442,
+          "like_count": 11114,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

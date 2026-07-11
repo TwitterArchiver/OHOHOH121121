@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043157720078196956",
+    "created_at": "2026-04-12T02:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043157720078196956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lizzy_522/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Lizzy_522/status/2043027327513432295",
+          "start": 17,
+          "url": "https://t.co/jCHGYj1AUy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043157720078196956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043027327513432295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想什么都不干穷游一年到处见见推友 https://t.co/jCHGYj1AUy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043157720078196956",
+        "created_at": "2026-04-12T02:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043157720078196956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lizzy_522/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Lizzy_522/status/2043027327513432295",
+              "start": 17,
+              "url": "https://t.co/jCHGYj1AUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043157720078196956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043027327513432295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想什么都不干穷游一年到处见见推友 https://t.co/jCHGYj1AUy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886289385177669632",
+        "conversation_id": "2043027327513432295",
+        "created_at": "2026-04-11T18:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043027327513432295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2042952959848546307",
+              "start": 17,
+              "url": "https://t.co/abVr9BiiyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043027327513432295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042952959848546307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想什么都不干穷游一年到处见见推友 https://t.co/abVr9BiiyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 312,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 250
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，滚圈涉猎广泛，硬摇滚、迷幻摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生朋友刷到我请自行绕道。骚逼@KKKaoru_异父异母的弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 115,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "pinned_tweet_id": "2027517222768521252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 371,
+          "like_count": 20133,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 3186
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

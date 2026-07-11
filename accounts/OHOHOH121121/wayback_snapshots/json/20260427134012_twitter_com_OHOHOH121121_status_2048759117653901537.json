@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048759113216344066",
+        "3_2048759114579496961"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048759117653901537",
+    "created_at": "2026-04-27T13:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048759117653901537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bPvI7hnQ9A",
+          "end": 41,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2048759117653901537/photo/1",
+          "media_key": "3_2048759113216344066",
+          "start": 18,
+          "url": "https://t.co/bPvI7hnQ9A"
+        },
+        {
+          "display_url": "pic.x.com/bPvI7hnQ9A",
+          "end": 41,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2048759117653901537/photo/1",
+          "media_key": "3_2048759114579496961",
+          "start": 18,
+          "url": "https://t.co/bPvI7hnQ9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048759117653901537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体外记忆5,初澜\n日语翻译在ALT https://t.co/bPvI7hnQ9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "【基本プロフィール】\n名前： 初瀾（ハツラン / Hatsuran）\n年齢： 18歳\n性別： 性自認は無性別（Xジェンダー）。でも「裏世界」での身体的な性別は女性。\n【ここに来た経緯】\n結局、一生親にコントロールされたまま死ぬんだなって絶望して、飛び降りたのがきっかけ。\n【家庭環境について】\n典型的な「教育ママ・パパ」の過干渉と、苦労を強いる「苦難教育」の家庭。環境自体は「初期」と似てるけど、「初期」の方がまだマシだった。あの子は少なくとも治療を受けられたけど、私は一度も救済（治療）なんてされたことがないから。\n【見た目について】\n成長した「晴（ハレ）」とそっくり。でも性格も瞳の色も身長も違う（あの子は165cmで私は168cm）。顔が同じだとしても、私たちはそれぞれ違う記憶を持って、違う責任を背負っている「別の人間」だと思ってる。\n【最初の記憶】\n意識がぼーっとしている中で目が覚めたら、ちょうど「初期」が人前で恥をかかされているところだった。それで、居ても立ってもいられなくて助けに入ったんだ。だから、私の始まりは「裏世界」じゃなくて、いきなり「現実」と向き合う形だった（その時の身体は12歳）。\n【ストレス耐性と人付き合い】\nストレス耐性はまあ普通。ただ、私にとっては「初対面」の現実の人たちを前にすると、どうしても黙り込んじゃう。それなのに相手は「私たち親しいじゃん」って感じで話しかけてくるから、こっちも「現実用の仮面」を被って知り合いのフリをしなきゃいけなくて。それが本当にしんどい。\n【出身地】\n中国の北京。あっちにいた頃は北京生まれの独りっ子だったし、家はかなり裕福な方だった。でも私自身は物欲があんまりないんだよね。前の場所が恋しいかって？ ……まあ、あの頃の「お金」が恋しいっていうのはアリかな。",
+        "height": 2048,
+        "media_key": "3_2048759113216344066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6njwWawAIIqXt.jpg",
+        "width": 922
+      },
+      {
+        "height": 1289,
+        "media_key": "3_2048759114579496961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6nj1ba0AEsnBB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048759113216344066",
+            "3_2048759114579496961"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048759117653901537",
+        "created_at": "2026-04-27T13:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048759117653901537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPvI7hnQ9A",
+              "end": 41,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048759117653901537/photo/1",
+              "media_key": "3_2048759113216344066",
+              "start": 18,
+              "url": "https://t.co/bPvI7hnQ9A"
+            },
+            {
+              "display_url": "pic.x.com/bPvI7hnQ9A",
+              "end": 41,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048759117653901537/photo/1",
+              "media_key": "3_2048759114579496961",
+              "start": 18,
+              "url": "https://t.co/bPvI7hnQ9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048759117653901537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体外记忆5,初澜\n日语翻译在ALT https://t.co/bPvI7hnQ9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 675,
+          "like_count": 3714,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 768
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

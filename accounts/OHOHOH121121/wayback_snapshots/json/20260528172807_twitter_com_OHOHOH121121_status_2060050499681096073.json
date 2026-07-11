@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2060050499681096073",
+    "created_at": "2026-05-28T17:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060050499681096073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060050499681096073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我讨厌父亲多过讨厌母亲。\n毕竟我对他没有什么感情，毕竟常年不在家当个隐形人嘛，把全部事情直接丢给母亲还只会因为一两件小事情爆发比母亲还要严重的情绪（在家的时候）。\n所以我宁愿我是单亲家庭呢,毕竟正常家庭就算工作也会和孩子视频吧。\n但是他完全没有，所以我只能说。\n我跟他不熟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2060050499681096073",
+        "created_at": "2026-05-28T17:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060050499681096073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060050499681096073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我讨厌父亲多过讨厌母亲。\n毕竟我对他没有什么感情，毕竟常年不在家当个隐形人嘛，把全部事情直接丢给母亲还只会因为一两件小事情爆发比母亲还要严重的情绪（在家的时候）。\n所以我宁愿我是单亲家庭呢,毕竟正常家庭就算工作也会和孩子视频吧。\n但是他完全没有，所以我只能说。\n我跟他不熟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 813,
+          "like_count": 4728,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1199
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

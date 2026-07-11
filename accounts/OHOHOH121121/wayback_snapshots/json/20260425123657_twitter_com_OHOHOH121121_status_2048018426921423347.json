@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047963609268208042",
+    "created_at": "2026-04-25T12:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048018426921423347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "816199527652700161",
+          "start": 0,
+          "username": "plgh91"
+        },
+        {
+          "end": 24,
+          "id": "1863564782600908800",
+          "start": 8,
+          "username": "TOKYOBLACKWHOLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048018426921423347",
+    "in_reply_to_user_id": "816199527652700161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048015879288557702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plgh91 @TOKYOBLACKWHOLE なるほどね、はぁ…。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T12:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048018426921423347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "816199527652700161",
+              "start": 0,
+              "username": "plgh91"
+            },
+            {
+              "end": 24,
+              "id": "1863564782600908800",
+              "start": 8,
+              "username": "TOKYOBLACKWHOLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048018426921423347",
+        "in_reply_to_user_id": "816199527652700161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048015879288557702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plgh91 @TOKYOBLACKWHOLE なるほどね、はぁ…。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "816199527652700161",
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T12:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048015879288557702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1863564782600908800",
+              "start": 14,
+              "username": "TOKYOBLACKWHOLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048015879288557702",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048015019863134279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @TOKYOBLACKWHOLE 飛び降りた先に人がいて巻き込まれる事件がここ最近日本ではかなりあります。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 546,
+          "like_count": 3133,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 582
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-03T08:28:26.000Z",
+        "description": "",
+        "id": "816199527652700161",
+        "location": "東京",
+        "name": "にーにゃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841731454587551744/fbzyqjwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 976,
+          "like_count": 6091,
+          "listed_count": 27,
+          "media_count": 536,
+          "tweet_count": 12572
+        },
+        "username": "plgh91",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T12:44:24.000Z",
+        "description": "🎀大森靖子ちゃん好きの3月新人メイド 18さい🎀\n♥︎ @jnmm11l \n♥︎@tensei_meido \n♥︎お給仕予定×チェキタグ 【 #ちむみんのBAN工場 】 ♥︎\n🎀遠隔🍥 https://t.co/pOANmVkLzw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 71,
+                "tag": "ちむみんのBAN工場"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "jnmm11l"
+              },
+              {
+                "end": 53,
+                "start": 40,
+                "username": "tensei_meido"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tenseimeido.base.shop",
+                "end": 116,
+                "expanded_url": "https://tenseimeido.base.shop/",
+                "start": 93,
+                "url": "https://t.co/pOANmVkLzw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kiqurc_?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@kiqurc_?_r=1&_t=ZS-94PXe2w0tou",
+                "start": 0,
+                "url": "https://t.co/SlIl0WPuHt"
+              }
+            ]
+          }
+        },
+        "id": "1863564782600908800",
+        "location": "⚠︎︎ かお、ちがいます。 身長デカいです。 チェキ掲載OK",
+        "name": "電撃萌王♥︎",
+        "pinned_tweet_id": "2041160917543739537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043511327331852288/IXVIGjWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 68,
+          "like_count": 552,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/SlIl0WPuHt",
+        "username": "TOKYOBLACKWHOLE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042824622287261706",
+    "created_at": "2026-04-11T04:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042824622287261706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042552907497902083",
+          "start": 3,
+          "username": "Smithollc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042824622287261706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042814467206209985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Smithollc4: 我想找回互关😿请帮我转帖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042824622287261706",
+        "created_at": "2026-04-11T04:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042824622287261706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042552907497902083",
+              "start": 3,
+              "username": "Smithollc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042824622287261706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042814467206209985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Smithollc4: 我想找回互关😿请帮我转帖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042552907497902083",
+        "conversation_id": "2042814467206209985",
+        "created_at": "2026-04-11T03:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042814467206209985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042814467206209985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我想找回互关😿请帮我转帖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 205,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 145
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T10:40:34.000Z",
+        "description": "圣诞帽三世前世@yunxvan1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yunxvan1"
+              }
+            ]
+          }
+        },
+        "id": "2042552907497902083",
+        "name": "圣诞帽",
+        "pinned_tweet_id": "2042814467206209985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042814742352531456/ZoRIh6wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Smithollc4",
+        "verified": false
+      }
+    ]
+  }
+}

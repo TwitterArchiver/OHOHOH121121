@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2059530363542847488"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2059531040893677926",
+    "created_at": "2026-05-27T07:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059531040893677926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUL7afrxi6",
+          "end": 29,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2059531040893677926/video/1",
+          "media_key": "7_2059530363542847488",
+          "start": 6,
+          "url": "https://t.co/lUL7afrxi6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059531040893677926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈救命。 https://t.co/lUL7afrxi6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4527,
+        "height": 1280,
+        "media_key": "7_2059530363542847488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059530363542847488/pu/img/p63ULsQ-6br_Oz5b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059530363542847488/pu/vid/avc1/320x568/ckaQxetUrjApNH0Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059530363542847488/pu/vid/avc1/480x852/GqUcq_shCPdTSs2K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059530363542847488/pu/vid/avc1/720x1280/OkPhoRNjngbsaGNu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059530363542847488/pu/pl/FgpJsJJDo2yAqlux.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059530363542847488"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2059531040893677926",
+        "created_at": "2026-05-27T07:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059531040893677926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUL7afrxi6",
+              "end": 29,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2059531040893677926/video/1",
+              "media_key": "7_2059530363542847488",
+              "start": 6,
+              "url": "https://t.co/lUL7afrxi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059531040893677926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈救命。 https://t.co/lUL7afrxi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 791,
+          "like_count": 4640,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 1187
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

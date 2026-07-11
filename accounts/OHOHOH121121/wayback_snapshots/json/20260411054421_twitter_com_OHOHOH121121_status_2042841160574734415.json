@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042649338132975625",
+    "created_at": "2026-04-11T05:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042841160574734415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1622291019977875462",
+          "start": 0,
+          "username": "Cyber111_B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042841160574734415",
+    "in_reply_to_user_id": "1622291019977875462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042649338132975625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyber111_B 是这样，这些突然想到之前我想健全人说我被霸凌的时候他们也学我的语气，已经没招。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042649338132975625",
+        "created_at": "2026-04-11T05:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042841160574734415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1622291019977875462",
+              "start": 0,
+              "username": "Cyber111_B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042841160574734415",
+        "in_reply_to_user_id": "1622291019977875462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042649338132975625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyber111_B 是这样，这些突然想到之前我想健全人说我被霸凌的时候他们也学我的语气，已经没招。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622291019977875462",
+        "conversation_id": "2042649338132975625",
+        "created_at": "2026-04-10T17:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042649338132975625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042649338132975625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一位did博主的自毁人格强行顶号之后想要毁掉主人格社交圈的帖子。评论区有人在说想要自毁为什么不干脆销号，这么做根本没有造成伤害。好傲慢的健全人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 228,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 163
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T17:48:22.000Z",
+        "description": "赛博尸体💀 小泥 | 精神病推⚠️本推有碎碎念、SH、OD等内容，自行避雷 |",
+        "id": "1622291019977875462",
+        "location": "若还想与我相见，就来我的梦里边。",
+        "name": "白鸟过河滩",
+        "pinned_tweet_id": "2026420336858931562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036127231744024578/rbjQ3L8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 223,
+          "like_count": 11310,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 3242
+        },
+        "username": "Cyber111_B",
+        "verified": false
+      }
+    ]
+  }
+}

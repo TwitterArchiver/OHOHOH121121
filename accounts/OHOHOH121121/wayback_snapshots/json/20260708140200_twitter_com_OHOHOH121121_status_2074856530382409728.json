@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2074824498600460641",
+    "created_at": "2026-07-08T14:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074856530382409728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961895033889804288",
+          "start": 0,
+          "username": "Xx_774chan_xX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074856530382409728",
+    "in_reply_to_user_id": "1961895033889804288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074856279630360717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xx_774chan_xX www╰⁠(⁠*⁠´⁠︶⁠`⁠*⁠)⁠╯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2074824498600460641",
+        "created_at": "2026-07-08T14:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074856530382409728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961895033889804288",
+              "start": 0,
+              "username": "Xx_774chan_xX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074856530382409728",
+        "in_reply_to_user_id": "1961895033889804288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074856279630360717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xx_774chan_xX www╰⁠(⁠*⁠´⁠︶⁠`⁠*⁠)⁠╯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961895033889804288",
+        "conversation_id": "2074824498600460641",
+        "created_at": "2026-07-08T14:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074856279630360717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074856279630360717",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074855884560498808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 Thank you(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)I like you😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 907,
+          "like_count": 5784,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1549
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T20:53:54.000Z",
+        "description": "I want to be a good English speaker",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "躁鬱じゃないから任せんな.com",
+                "end": 23,
+                "expanded_url": "https://xn--n8jo1bo6ed4o0b5es500bz90hv25a.com",
+                "start": 0,
+                "url": "https://t.co/cJiHPKcW22"
+              }
+            ]
+          }
+        },
+        "id": "1961895033889804288",
+        "location": "不味いラーメン屋の屋台来てそうなとこ",
+        "name": "໒꒱名無しちゃん",
+        "pinned_tweet_id": "2069695970548547698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961895173878939648/E9EZsmDT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1235,
+          "like_count": 13623,
+          "listed_count": 7,
+          "media_count": 292,
+          "tweet_count": 14170
+        },
+        "url": "https://t.co/cJiHPKcW22",
+        "username": "Xx_774chan_xX",
+        "verified": false
+      }
+    ]
+  }
+}

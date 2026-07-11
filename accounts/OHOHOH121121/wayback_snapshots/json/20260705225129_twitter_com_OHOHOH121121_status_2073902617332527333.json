@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2073902617332527333",
+    "created_at": "2026-07-05T22:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073902617332527333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910008101371273225",
+          "start": 3,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073902617332527333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073724231716839649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paopao152025: 豆包帮我生成一个除了家里那位没叫过任何女的妈妈，没有在社交平台私信别的女生，精通各类游戏，单纯天真专一纯爱的，没和女生聊过骚、没亲过嘴、不看擦边、没在社交平台发布过游戏集锦中掺杂着几张生活照的处男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2073902617332527333",
+        "created_at": "2026-07-05T22:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073902617332527333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910008101371273225",
+              "start": 3,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073902617332527333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073724231716839649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paopao152025: 豆包帮我生成一个除了家里那位没叫过任何女的妈妈，没有在社交平台私信别的女生，精通各类游戏，单纯天真专一纯爱的，没和女生聊过骚、没亲过嘴、不看擦边、没在社交平台发布过游戏集锦中掺杂着几张生活照的处男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2073724231716839649",
+        "created_at": "2026-07-05T11:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073724231716839649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073724231716839649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12535,
+          "like_count": 197,
+          "quote_count": 1,
+          "reply_count": 68,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "豆包帮我生成一个除了家里那位没叫过任何女的妈妈，没有在社交平台私信别的女生，精通各类游戏，单纯天真专一纯爱的，没和女生聊过骚、没亲过嘴、不看擦边、没在社交平台发布过游戏集锦中掺杂着几张生活照的处男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 896,
+          "like_count": 5706,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1519
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26\n小号@haoxiangsiaaaa 大号随时都会被封 会自言自语抛出一些疑问和思考 我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨瞎逼逼🙏 推广自辨 我骂的死全家骂我的死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "互关可加v",
+        "name": "泡泡",
+        "pinned_tweet_id": "2068906421023027522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6408,
+          "following_count": 201,
+          "like_count": 8394,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 4093
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2049493013643354388",
+    "created_at": "2026-04-29T14:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049500645447905788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042136415295750144",
+          "start": 0,
+          "username": "mi0myl0ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049500645447905788",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049493013643354388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi0myl0ve 好帅好美！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2049493010975793152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFDCOjboAA7OyA.jpg",
+        "width": 742
+      },
+      {
+        "height": 730,
+        "media_key": "3_2049493011067994112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFDCO5agAAzZWj.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2049493013643354388",
+        "created_at": "2026-04-29T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049500645447905788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049500645447905788",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049493013643354388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 好帅好美！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049493010975793152",
+            "3_2049493011067994112"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049493013643354388",
+        "created_at": "2026-04-29T14:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049493013643354388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE86qSTuoi",
+              "end": 29,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2049493013643354388/photo/1",
+              "media_key": "3_2049493010975793152",
+              "start": 6,
+              "url": "https://t.co/bE86qSTuoi"
+            },
+            {
+              "display_url": "pic.x.com/bE86qSTuoi",
+              "end": 29,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2049493013643354388/photo/1",
+              "media_key": "3_2049493011067994112",
+              "start": 6,
+              "url": "https://t.co/bE86qSTuoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493013643354388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她们是一对 https://t.co/bE86qSTuoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 704,
+          "like_count": 3987,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 859
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 266
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2069785636190687531",
+    "created_at": "2026-06-24T15:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069811152381682077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028475985696591872",
+          "start": 0,
+          "username": "loser_2525_hapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069811152381682077",
+    "in_reply_to_user_id": "2028475985696591872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069785636190687531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@loser_2525_hapi ！何をしてるんだクワ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2069785636190687531",
+        "created_at": "2026-06-24T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069811152381682077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028475985696591872",
+              "start": 0,
+              "username": "loser_2525_hapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069811152381682077",
+        "in_reply_to_user_id": "2028475985696591872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069785636190687531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@loser_2525_hapi ！何をしてるんだクワ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028475985696591872",
+        "conversation_id": "2069785636190687531",
+        "created_at": "2026-06-24T14:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069785636190687531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069785636190687531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "文字が書きたい。\nユザネでも、てきとーな言葉でも。\nいいねやリプで書きます。\n私の気分転換に付き合ってくれませんか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 858,
+          "like_count": 5250,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T14:23:39.000Z",
+        "description": "済 ♀︎ ペア@de_Blois21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "de_Blois21"
+              }
+            ]
+          }
+        },
+        "id": "2028475985696591872",
+        "location": "B or B解でお別れ",
+        "name": "みねらる ﾀﾋ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054269064403705856/6qhJxggt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 189,
+          "like_count": 13965,
+          "listed_count": 8,
+          "media_count": 10,
+          "tweet_count": 4380
+        },
+        "url": "",
+        "username": "loser_2525_hapi",
+        "verified": false
+      }
+    ]
+  }
+}

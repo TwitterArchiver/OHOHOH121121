@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045225700773249107",
+    "created_at": "2026-04-18T15:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045528482701283480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983518796309549056",
+          "start": 0,
+          "username": "qkeildzz_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045528482701283480",
+    "in_reply_to_user_id": "1983518796309549056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045225700773249107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qkeildzz_4 絵や音楽、性、それに二次元のキャラクターたちに頼らないと、生きていけない気がする……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045225700773249107",
+        "created_at": "2026-04-18T15:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045528482701283480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983518796309549056",
+              "start": 0,
+              "username": "qkeildzz_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045528482701283480",
+        "in_reply_to_user_id": "1983518796309549056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045225700773249107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qkeildzz_4 絵や音楽、性、それに二次元のキャラクターたちに頼らないと、生きていけない気がする……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983518796309549056",
+        "conversation_id": "2045225700773249107",
+        "created_at": "2026-04-17T19:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T20:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045225700773249107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045225700773249107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 38677,
+          "like_count": 1902,
+          "quote_count": 37,
+          "reply_count": 17,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "みんな何かに依存してないと生きていけないんだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 494,
+          "like_count": 2881,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 466
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T13:01:57.000Z",
+        "description": "sjc￤病み垢￤自傷￤希死念慮",
+        "id": "1983518796309549056",
+        "name": "かりん",
+        "pinned_tweet_id": "2008083163499675739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014438976682393601/W21R3SwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 236,
+          "like_count": 13530,
+          "listed_count": 10,
+          "media_count": 1,
+          "tweet_count": 527
+        },
+        "username": "qkeildzz_4",
+        "verified": false
+      }
+    ]
+  }
+}

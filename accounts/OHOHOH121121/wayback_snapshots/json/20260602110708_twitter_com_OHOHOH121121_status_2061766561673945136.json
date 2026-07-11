@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2061766561673945136",
+    "created_at": "2026-06-02T11:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061766561673945136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053595807794757632",
+          "start": 3,
+          "username": "nahiussita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061766561673945136",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11857
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061290109584933126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nahiussita: saben me hubiera encantado tener problemas de adolescente normal tipo d amor, novios, amistades cosas asi qsyo lamentableme…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2061766561673945136",
+        "created_at": "2026-06-02T11:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061766561673945136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053595807794757632",
+              "start": 3,
+              "username": "nahiussita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061766561673945136",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11857
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061290109584933126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nahiussita: saben me hubiera encantado tener problemas de adolescente normal tipo d amor, novios, amistades cosas asi qsyo lamentableme…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053595807794757632",
+        "conversation_id": "2061290109584933126",
+        "created_at": "2026-06-01T03:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061290109584933126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061290109584933126",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1632,
+          "impression_count": 355632,
+          "like_count": 54329,
+          "quote_count": 368,
+          "reply_count": 110,
+          "retweet_count": 11857
+        },
+        "reply_settings": "everyone",
+        "text": "saben me hubiera encantado tener problemas de adolescente normal tipo d amor, novios, amistades cosas asi qsyo lamentablemente me fui para los trastornos mentales"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 823,
+          "like_count": 4896,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 1233
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T22:00:29.000Z",
+        "description": "#edtwt\n19 | no soy aestetic tengo problemas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "2053595807794757632",
+        "name": "nahi ♱",
+        "pinned_tweet_id": "2056321017404895445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054279713045069825/lWenqt_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 453,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 787
+        },
+        "username": "nahiussita",
+        "verified": false
+      }
+    ]
+  }
+}

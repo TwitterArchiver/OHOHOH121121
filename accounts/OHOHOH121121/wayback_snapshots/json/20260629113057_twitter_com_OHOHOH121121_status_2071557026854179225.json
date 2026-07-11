@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2071557026854179225",
+    "created_at": "2026-06-29T11:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071557026854179225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1852217340857090049",
+          "start": 3,
+          "username": "enenbzdjsmhzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071557026854179225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071259540621082914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enenbzdjsmhzl: 我靠我真的是性缘脑吧…我咋这么容易对别人产生幻想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2071557026854179225",
+        "created_at": "2026-06-29T11:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071557026854179225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1852217340857090049",
+              "start": 3,
+              "username": "enenbzdjsmhzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071557026854179225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071259540621082914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enenbzdjsmhzl: 我靠我真的是性缘脑吧…我咋这么容易对别人产生幻想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852217340857090049",
+        "conversation_id": "2071259540621082914",
+        "created_at": "2026-06-28T15:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071259540621082914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071259540621082914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4091,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我真的是性缘脑吧…我咋这么容易对别人产生幻想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 884,
+          "like_count": 5518,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T05:13:44.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enen54277",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enen54277",
+                "start": 0,
+                "url": "https://t.co/2DjV6imnuw"
+              }
+            ]
+          }
+        },
+        "id": "1852217340857090049",
+        "location": "不线下别问了",
+        "name": "灯塔水母",
+        "pinned_tweet_id": "2021061093486100801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068020716474384384/VSA5Gw1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 195,
+          "like_count": 5458,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 6142
+        },
+        "url": "https://t.co/2DjV6imnuw",
+        "username": "enenbzdjsmhzl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048683268942512387",
+    "created_at": "2026-04-27T08:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048683268942512387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021921552347115520",
+          "start": 3,
+          "username": "cake_tan5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048683268942512387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048327224600973619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cake_tan5: 鬱は甘えだと言ってる人間は、想像力が乏しいっていうよりも一種の防衛機制が働いているからだと思う。鬱状態に近いあるいはなったけど、弱さを隠すために反発されないために黙って頑張った経験がトラウマとして蘇る。そして相手を過小評価したり、攻撃的な態度をとっ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048683268942512387",
+        "created_at": "2026-04-27T08:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048683268942512387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021921552347115520",
+              "start": 3,
+              "username": "cake_tan5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048683268942512387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048327224600973619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cake_tan5: 鬱は甘えだと言ってる人間は、想像力が乏しいっていうよりも一種の防衛機制が働いているからだと思う。鬱状態に近いあるいはなったけど、弱さを隠すために反発されないために黙って頑張った経験がトラウマとして蘇る。そして相手を過小評価したり、攻撃的な態度をとっ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021921552347115520",
+        "conversation_id": "2048327224600973619",
+        "created_at": "2026-04-26T09:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048327224600973619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048327224600973619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5646,
+          "like_count": 215,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "鬱は甘えだと言ってる人間は、想像力が乏しいっていうよりも一種の防衛機制が働いているからだと思う。鬱状態に近いあるいはなったけど、弱さを隠すために反発されないために黙って頑張った経験がトラウマとして蘇る。そして相手を過小評価したり、攻撃的な態度をとって自分を守ろうとする。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 660,
+          "like_count": 3631,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 733
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T12:17:27.000Z",
+        "description": "選ぶのも後悔するのも全部私のもの",
+        "id": "2021921552347115520",
+        "name": "形而",
+        "pinned_tweet_id": "2048355320729383224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041512627244052480/_5oU-3V8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1338,
+          "like_count": 2870,
+          "listed_count": 5,
+          "media_count": 48,
+          "tweet_count": 1157
+        },
+        "username": "cake_tan5",
+        "verified": true
+      }
+    ]
+  }
+}

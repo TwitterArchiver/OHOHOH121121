@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058502170996244480"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2058502174121021863",
+    "created_at": "2026-05-24T10:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058502174121021863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhkKUkIzWQ",
+          "end": 50,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2058502174121021863/photo/1",
+          "media_key": "3_2058502170996244480",
+          "start": 27,
+          "url": "https://t.co/dhkKUkIzWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058502174121021863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么反而是速画反而像我心目中的那个oc.....🥲 https://t.co/dhkKUkIzWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058502170996244480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFE0W-aAAAFc0X.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058502170996244480"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2058502174121021863",
+        "created_at": "2026-05-24T10:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058502174121021863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhkKUkIzWQ",
+              "end": 50,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2058502174121021863/photo/1",
+              "media_key": "3_2058502170996244480",
+              "start": 27,
+              "url": "https://t.co/dhkKUkIzWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058502174121021863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么反而是速画反而像我心目中的那个oc.....🥲 https://t.co/dhkKUkIzWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 740,
+          "like_count": 4421,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 1098
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

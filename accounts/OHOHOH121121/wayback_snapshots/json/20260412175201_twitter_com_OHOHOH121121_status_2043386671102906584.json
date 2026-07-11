@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043386671102906584",
+    "created_at": "2026-04-12T17:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043386671102906584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1253310478509457415",
+          "start": 3,
+          "username": "amehuruhinokot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043386671102906584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1489
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819927123563593756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amehuruhinokot: この界隈にいると、鬱も拒食も非嘔吐も過食嘔吐もod、リスカ、自殺未遂もニートもp活も水商売もソープもデリも全部普通のことのような気がしてくるけど、Twitterを閉じて現実を見た瞬間に全くもってそんなことは無いことに気づいて、死にたくなる…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043386671102906584",
+        "created_at": "2026-04-12T17:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043386671102906584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1253310478509457415",
+              "start": 3,
+              "username": "amehuruhinokot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043386671102906584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1489
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819927123563593756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amehuruhinokot: この界隈にいると、鬱も拒食も非嘔吐も過食嘔吐もod、リスカ、自殺未遂もニートもp活も水商売もソープもデリも全部普通のことのような気がしてくるけど、Twitterを閉じて現実を見た瞬間に全くもってそんなことは無いことに気づいて、死にたくなる…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253310478509457415",
+        "conversation_id": "1819927123563593756",
+        "created_at": "2024-08-04T02:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T03:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819927123563593756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819927123563593756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1099,
+          "impression_count": 998728,
+          "like_count": 17268,
+          "quote_count": 375,
+          "reply_count": 10,
+          "retweet_count": 1489
+        },
+        "reply_settings": "everyone",
+        "text": "この界隈にいると、鬱も拒食も非嘔吐も過食嘔吐もod、リスカ、自殺未遂もニートもp活も水商売もソープもデリも全部普通のことのような気がしてくるけど、Twitterを閉じて現実を見た瞬間に全くもってそんなことは無いことに気づいて、死にたくなるんだよな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 384,
+          "like_count": 2226,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 342
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T13:11:41.000Z",
+        "description": "戻らない日々なんて最低愛おしくないよ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC92j0…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC92j0ndeIWqVeN3WaocdcnQ?si=xs4g1EfiYHLAZzgB",
+                "start": 0,
+                "url": "https://t.co/isTt7Ht0Iz"
+              }
+            ]
+          }
+        },
+        "id": "1253310478509457415",
+        "location": "永遠の虚無ゲギャル",
+        "name": "あめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909741318768934913/LsXv5qZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31585,
+          "following_count": 236,
+          "like_count": 17286,
+          "listed_count": 55,
+          "media_count": 455,
+          "tweet_count": 3265
+        },
+        "url": "https://t.co/isTt7Ht0Iz",
+        "username": "amehuruhinokot",
+        "verified": false
+      }
+    ]
+  }
+}

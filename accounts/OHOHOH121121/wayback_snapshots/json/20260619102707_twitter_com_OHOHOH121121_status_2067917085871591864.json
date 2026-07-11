@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067917074505273344"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2067917085871591864",
+    "created_at": "2026-06-19T10:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067917085871591864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/teQfWL3zRC",
+          "end": 45,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2067917085871591864/photo/1",
+          "media_key": "3_2067917074505273344",
+          "start": 22,
+          "url": "https://t.co/teQfWL3zRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067917085871591864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我尽力画以前的样子了（无力）\n-----晴 https://t.co/teQfWL3zRC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2067917074505273344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK3n3raEAA73TT.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067917074505273344"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2067917085871591864",
+        "created_at": "2026-06-19T10:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067917085871591864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/teQfWL3zRC",
+              "end": 45,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2067917085871591864/photo/1",
+              "media_key": "3_2067917074505273344",
+              "start": 22,
+              "url": "https://t.co/teQfWL3zRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067917085871591864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我尽力画以前的样子了（无力）\n-----晴 https://t.co/teQfWL3zRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 856,
+          "like_count": 5133,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 1313
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

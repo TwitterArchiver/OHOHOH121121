@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042620747726885057",
+    "created_at": "2026-04-11T00:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T01:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042764988180500730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934139424385994752",
+          "start": 0,
+          "username": "tyukya_loxol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042764988180500730",
+    "in_reply_to_user_id": "1934139424385994752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042620747726885057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tyukya_loxol 誕生日おめでとうございます！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2042620741011804164",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjYvd7akAQIRhX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042620747726885057",
+        "created_at": "2026-04-11T00:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042764988180500730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934139424385994752",
+              "start": 0,
+              "username": "tyukya_loxol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042764988180500730",
+        "in_reply_to_user_id": "1934139424385994752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042620747726885057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tyukya_loxol 誕生日おめでとうございます！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042620741011804164"
+          ]
+        },
+        "author_id": "1934139424385994752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2042620747726885057",
+        "created_at": "2026-04-10T15:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042620747726885057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "誕生日"
+            },
+            {
+              "end": 106,
+              "start": 100,
+              "tag": "本日の主役"
+            },
+            {
+              "end": 133,
+              "start": 107,
+              "tag": "誕生日なのでたくさんいいねやリプもらえると喜びます"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZr97Sq8is",
+              "end": 162,
+              "expanded_url": "https://x.com/tyukya_loxol/status/2042620747726885057/photo/1",
+              "media_key": "3_2042620741011804164",
+              "start": 139,
+              "url": "https://t.co/QZr97Sq8is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042620747726885057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3640,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "本日誕生日です！！！\n18歳＆成人しましたー！！！！\n🥳㊗️🎉🎊💐👏💖\n\nFFちゃん！ふぉろわーさん！通りすがりの方！少しでも祝ってくださると嬉しいです！！！(なぜか風船とばなかった🥲)\n\n#誕生日 #本日の主役 #誕生日なのでたくさんいいねやリプもらえると喜びます #病み垢 https://t.co/QZr97Sq8is"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 177,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 116
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T06:42:41.000Z",
+        "description": "08",
+        "id": "1934139424385994752",
+        "location": "えろ垢・下ネタ❌",
+        "name": "ちゅきゃ",
+        "pinned_tweet_id": "2042620747726885057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934142889132802048/2J93y-43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 175,
+          "like_count": 87987,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 4568
+        },
+        "username": "tyukya_loxol",
+        "verified": false
+      }
+    ]
+  }
+}

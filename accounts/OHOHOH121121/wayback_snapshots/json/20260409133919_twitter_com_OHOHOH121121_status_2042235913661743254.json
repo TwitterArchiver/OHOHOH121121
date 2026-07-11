@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042234047171342423",
+    "created_at": "2026-04-09T13:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042235913661743254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014210890443509760",
+          "start": 0,
+          "username": "LGkUZSViC996358"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042235913661743254",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042235823412924802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGkUZSViC996358 日常生活では、状況によって前に出てくる意識が変わることがあり、記憶が共有されていない部分があるケースもあります。\nただし、感じ方や体験は人によって大きく異なり、すべての人が同じ状態というわけではありません。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042234047171342423",
+        "created_at": "2026-04-09T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042235913661743254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014210890443509760",
+              "start": 0,
+              "username": "LGkUZSViC996358"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042235913661743254",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042235823412924802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGkUZSViC996358 日常生活では、状況によって前に出てくる意識が変わることがあり、記憶が共有されていない部分があるケースもあります。\nただし、感じ方や体験は人によって大きく異なり、すべての人が同じ状態というわけではありません。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042234047171342423",
+        "created_at": "2026-04-09T13:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042235823412924802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014210890443509760",
+              "start": 0,
+              "username": "LGkUZSViC996358"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042235823412924802",
+        "in_reply_to_user_id": "2014210890443509760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042234047171342423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGkUZSViC996358 多意识体系统（DIDなどを含む概念）とは、1つの身体の中に複数の“意識や自己感覚”が存在している状態のことです。\nそれぞれの意識（いわゆる「人格」や「アルター」など）は、名前・性格・記憶・感じ方などが異なる場合があります。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 56,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T05:38:10.000Z",
+        "description": "最奥",
+        "id": "2014210890443509760",
+        "name": "さぬきうどん",
+        "pinned_tweet_id": "2041590580162261176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649150956826624/hINQF2ZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 10,
+          "like_count": 3635,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1861
+        },
+        "username": "LGkUZSViC996358",
+        "verified": false
+      }
+    ]
+  }
+}

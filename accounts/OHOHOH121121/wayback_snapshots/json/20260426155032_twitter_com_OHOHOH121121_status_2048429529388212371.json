@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048429529388212371",
+    "created_at": "2026-04-26T15:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048429529388212371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013443781270355968",
+          "start": 3,
+          "username": "lilisihong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048429529388212371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048295876624613645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilisihong: 没人觉得月经大人才是世界上最s的主人吗😰\n绝对施虐绝对控制，你的身体完全服从月经大人的控制，想让你痛就得痛，让你跪就得跪。\n敢不听话，不好好吃饭乱喝冰的，就罚得你死去活来。\n还会内射你经血，让你随地大小流，在外流出，社死，曝光，让所有人知道你来月…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048429529388212371",
+        "created_at": "2026-04-26T15:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048429529388212371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2013443781270355968",
+              "start": 3,
+              "username": "lilisihong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048429529388212371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048295876624613645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilisihong: 没人觉得月经大人才是世界上最s的主人吗😰\n绝对施虐绝对控制，你的身体完全服从月经大人的控制，想让你痛就得痛，让你跪就得跪。\n敢不听话，不好好吃饭乱喝冰的，就罚得你死去活来。\n还会内射你经血，让你随地大小流，在外流出，社死，曝光，让所有人知道你来月…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013443781270355968",
+        "conversation_id": "2048295876624613645",
+        "created_at": "2026-04-26T06:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048295876624613645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048295876624613645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11272,
+          "like_count": 254,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得月经大人才是世界上最s的主人吗😰\n绝对施虐绝对控制，你的身体完全服从月经大人的控制，想让你痛就得痛，让你跪就得跪。\n敢不听话，不好好吃饭乱喝冰的，就罚得你死去活来。\n还会内射你经血，让你随地大小流，在外流出，社死，曝光，让所有人知道你来月经了😄\n对月经大人又怕又崇拜又敬畏🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 641,
+          "like_count": 3502,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 685
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T02:50:00.000Z",
+        "description": "纯爱｜🐱brat/m｜泛性恋｜虐恋｜文学｜心理学｜辩论｜无性\n☝🏻️私信打钱就回",
+        "id": "2013443781270355968",
+        "name": "莉莉丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013444573985378304/GJc2O2-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3971,
+          "following_count": 150,
+          "like_count": 4385,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 2614
+        },
+        "username": "lilisihong",
+        "verified": false
+      }
+    ]
+  }
+}

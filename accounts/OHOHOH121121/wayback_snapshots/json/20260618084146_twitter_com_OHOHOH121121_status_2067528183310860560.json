@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067528155129393152",
+        "3_2067528167666106368"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2067528183310860560",
+    "created_at": "2026-06-18T08:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067528183310860560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IIm6fDSuz8",
+          "end": 32,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2067528183310860560/photo/1",
+          "media_key": "3_2067528155129393152",
+          "start": 9,
+          "url": "https://t.co/IIm6fDSuz8"
+        },
+        {
+          "display_url": "pic.x.com/IIm6fDSuz8",
+          "end": 32,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2067528183310860560/photo/1",
+          "media_key": "3_2067528167666106368",
+          "start": 9,
+          "url": "https://t.co/IIm6fDSuz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067528183310860560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "书籍和东西到了。 https://t.co/IIm6fDSuz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2067528155129393152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFV5yGbMAAW0gT.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2067528167666106368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFV6gzaQAAiPr9.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067528155129393152",
+            "3_2067528167666106368"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2067528183310860560",
+        "created_at": "2026-06-18T08:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067528183310860560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IIm6fDSuz8",
+              "end": 32,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2067528183310860560/photo/1",
+              "media_key": "3_2067528155129393152",
+              "start": 9,
+              "url": "https://t.co/IIm6fDSuz8"
+            },
+            {
+              "display_url": "pic.x.com/IIm6fDSuz8",
+              "end": 32,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2067528183310860560/photo/1",
+              "media_key": "3_2067528167666106368",
+              "start": 9,
+              "url": "https://t.co/IIm6fDSuz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067528183310860560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "书籍和东西到了。 https://t.co/IIm6fDSuz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 855,
+          "like_count": 5119,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

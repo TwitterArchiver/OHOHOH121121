@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042586208682078627",
+    "created_at": "2026-04-10T12:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042586208682078627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641825998479175680",
+          "start": 3,
+          "username": "kirari_ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042586208682078627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042535429677945308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirari_ra: 重度のうつ病でも希望を捨てない。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042586208682078627",
+        "created_at": "2026-04-10T12:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042586208682078627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641825998479175680",
+              "start": 3,
+              "username": "kirari_ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042586208682078627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042535429677945308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirari_ra: 重度のうつ病でも希望を捨てない。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641825998479175680",
+        "conversation_id": "2042535429677945308",
+        "created_at": "2026-04-10T09:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042535429677945308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042535429677945308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1351,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "重度のうつ病でも希望を捨てない。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 128,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T15:34:42.000Z",
+        "description": "虐待サバイバー。 父親はネグレクト。継母からの暴力 暴言 心理的虐待で育ちました。虐待後遺症の複雑性PTSD 重度のうつ病  パニック障害 睡眠障害等を治療中です。虐待後遺症は多様で困る。少しでも緩和したい。\n🐥🐥🐥",
+        "id": "1641825998479175680",
+        "name": "ななこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641828526310711297/3R5zkClP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 272,
+          "like_count": 43412,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1321
+        },
+        "username": "kirari_ra",
+        "verified": false
+      }
+    ]
+  }
+}

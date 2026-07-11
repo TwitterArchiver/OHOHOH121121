@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043582332058427393"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043582334923100571",
+    "created_at": "2026-04-13T06:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043582334923100571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQywR8afYg",
+          "end": 45,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2043582334923100571/photo/1",
+          "media_key": "3_2043582332058427393",
+          "start": 22,
+          "url": "https://t.co/LQywR8afYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043582334923100571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迟一点我将买音乐捆绑包😋😋，现在先买本体。 https://t.co/LQywR8afYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043582332058427393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxDTbubYAE7PrZ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043582332058427393"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043582334923100571",
+        "created_at": "2026-04-13T06:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043582334923100571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQywR8afYg",
+              "end": 45,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2043582334923100571/photo/1",
+              "media_key": "3_2043582332058427393",
+              "start": 22,
+              "url": "https://t.co/LQywR8afYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043582334923100571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迟一点我将买音乐捆绑包😋😋，现在先买本体。 https://t.co/LQywR8afYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 438,
+          "like_count": 2464,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 370
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

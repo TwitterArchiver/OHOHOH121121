@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042764563859542053",
+    "created_at": "2026-04-11T00:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T01:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042764563859542053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1650240119146946560",
+          "start": 3,
+          "username": "manautun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042764563859542053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042567815559885109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manautun: 精神障害で一人暮らししてる方いますか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042764563859542053",
+        "created_at": "2026-04-11T00:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042764563859542053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1650240119146946560",
+              "start": 3,
+              "username": "manautun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042764563859542053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042567815559885109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manautun: 精神障害で一人暮らししてる方いますか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650240119146946560",
+        "conversation_id": "2042567815559885109",
+        "created_at": "2026-04-10T11:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042567815559885109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042567815559885109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 118457,
+          "like_count": 1351,
+          "quote_count": 46,
+          "reply_count": 191,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "精神障害で一人暮らししてる方いますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 176,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 115
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T20:48:09.000Z",
+        "description": "メンタルのことを呟きます｜20代女｜うつ病｜HSP｜週4フリーター｜コスプレ｜DM×(個別メッセージは非公開質問まで)｜気軽にフォローしてくれると嬉しいです♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/manautun",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/manautun",
+                "start": 0,
+                "url": "https://t.co/iCtsIALQLY"
+              }
+            ]
+          }
+        },
+        "id": "1650240119146946560",
+        "location": "質問はこちら｜個別のやり取りは非公開質問へ↓",
+        "name": "まなつ｜うつ病🐰",
+        "pinned_tweet_id": "1950125106421961162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650240917432061957/EjzB4vMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12261,
+          "following_count": 3991,
+          "like_count": 39165,
+          "listed_count": 73,
+          "media_count": 2,
+          "tweet_count": 3940
+        },
+        "url": "https://t.co/iCtsIALQLY",
+        "username": "manautun",
+        "verified": false
+      }
+    ]
+  }
+}

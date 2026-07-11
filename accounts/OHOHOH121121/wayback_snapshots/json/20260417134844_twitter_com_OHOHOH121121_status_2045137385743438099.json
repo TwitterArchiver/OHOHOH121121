@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045134562603520341",
+    "created_at": "2026-04-17T13:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045137385743438099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1859523475670695941",
+          "start": 0,
+          "username": "yan93510742972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045137385743438099",
+    "in_reply_to_user_id": "1859523475670695941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045137083447349431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan93510742972 谢谢捏(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045134562603520341",
+        "created_at": "2026-04-17T13:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045137385743438099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1859523475670695941",
+              "start": 0,
+              "username": "yan93510742972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045137385743438099",
+        "in_reply_to_user_id": "1859523475670695941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045137083447349431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan93510742972 谢谢捏(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859523475670695941",
+        "conversation_id": "2045134562603520341",
+        "created_at": "2026-04-17T13:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045137083447349431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045137083447349431",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045134562603520341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 好看的😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 495,
+          "like_count": 2857,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 453
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T09:06:06.000Z",
+        "description": "欸。",
+        "id": "1859523475670695941",
+        "location": "提瓦特",
+        "name": "ayy",
+        "pinned_tweet_id": "2022915454562603092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024179549165277187/kJal29CB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 131,
+          "like_count": 11780,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 2781
+        },
+        "username": "yan93510742972",
+        "verified": false
+      }
+    ]
+  }
+}

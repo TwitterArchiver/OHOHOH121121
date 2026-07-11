@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047242961721942297",
+    "created_at": "2026-04-23T09:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047242961721942297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664601148098224128",
+          "start": 3,
+          "username": "kami__519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047242961721942297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047164498449240166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kami__519: 〜学校に行くメリット〜\n\n・友達に会える\n\n〜学校に行くデメリット〜\n\n・朝起きるのがしんどい\n・友達ができないと詰む\n・テストがある\n・苦手な人と会わないといけない\n・空気を読むのが疲れる\n・周りが優秀すぎて劣等感を感じる\n・理由は分からないけど…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047242961721942297",
+        "created_at": "2026-04-23T09:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047242961721942297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664601148098224128",
+              "start": 3,
+              "username": "kami__519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047242961721942297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047164498449240166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kami__519: 〜学校に行くメリット〜\n\n・友達に会える\n\n〜学校に行くデメリット〜\n\n・朝起きるのがしんどい\n・友達ができないと詰む\n・テストがある\n・苦手な人と会わないといけない\n・空気を読むのが疲れる\n・周りが優秀すぎて劣等感を感じる\n・理由は分からないけど…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664601148098224128",
+        "conversation_id": "2047164498449240166",
+        "created_at": "2026-04-23T04:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047164498449240166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047164498449240166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 42652,
+          "like_count": 2262,
+          "quote_count": 45,
+          "reply_count": 15,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "〜学校に行くメリット〜\n\n・友達に会える\n\n〜学校に行くデメリット〜\n\n・朝起きるのがしんどい\n・友達ができないと詰む\n・テストがある\n・苦手な人と会わないといけない\n・空気を読むのが疲れる\n・周りが優秀すぎて劣等感を感じる\n・理由は分からないけどなんか行きたくない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 514,
+          "like_count": 3004,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 525
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T11:53:57.000Z",
+        "description": "15歳｜サブ@rz4tqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "rz4tqr"
+              }
+            ]
+          }
+        },
+        "id": "1664601148098224128",
+        "name": "紙",
+        "pinned_tweet_id": "2039260162188611666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010266033010159621/32nTuqcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17016,
+          "following_count": 994,
+          "like_count": 115012,
+          "listed_count": 40,
+          "media_count": 1118,
+          "tweet_count": 33427
+        },
+        "username": "kami__519",
+        "verified": false
+      }
+    ]
+  }
+}

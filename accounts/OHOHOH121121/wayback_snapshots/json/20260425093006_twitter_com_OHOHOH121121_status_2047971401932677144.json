@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047760374645080064"
+      ],
+      "media_source_tweet_id": [
+        "2047760378788982859"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047971401932677144",
+    "created_at": "2026-04-25T09:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047971401932677144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wRNDKVeag1",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2047760378788982859/photo/1",
+          "media_key": "3_2047760374645080064",
+          "start": 14,
+          "url": "https://t.co/wRNDKVeag1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047971401932677144",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047760378788982859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: https://t.co/wRNDKVeag1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_2047760374645080064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsbNhPXQAAQsPf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047760374645080064"
+          ],
+          "media_source_tweet_id": [
+            "2047760378788982859"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047971401932677144",
+        "created_at": "2026-04-25T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047971401932677144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRNDKVeag1",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2047760378788982859/photo/1",
+              "media_key": "3_2047760374645080064",
+              "start": 14,
+              "url": "https://t.co/wRNDKVeag1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047971401932677144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047760378788982859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: https://t.co/wRNDKVeag1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047760374645080064"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2047760378788982859",
+        "created_at": "2026-04-24T19:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047760378788982859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRNDKVeag1",
+              "end": 23,
+              "expanded_url": "https://x.com/youy1qwq/status/2047760378788982859/photo/1",
+              "media_key": "3_2047760374645080064",
+              "start": 0,
+              "url": "https://t.co/wRNDKVeag1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047760378788982859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6303,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wRNDKVeag1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 542,
+          "like_count": 3124,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 575
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11201,
+          "following_count": 1633,
+          "like_count": 3865,
+          "listed_count": 16,
+          "media_count": 1505,
+          "tweet_count": 1993
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047448182586753468",
+    "created_at": "2026-04-23T22:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T23:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047448182586753468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1961835260037287936",
+          "start": 3,
+          "username": "chan19890604to5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/fWDwTsYj",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/fWDwTsYj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047448182586753468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047100693706854531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604to5: 訃告\n號主已於2026年3月31日23時08分因買了便宜跳蛋逼被炸而不幸逝世，感謝大家能在她的生命中出現過，並給予了她光和溫暖，也謝謝大家曾給過她幫助和愛。斯人已逝，惟願她早登極樂，往生淨土。 https://t.co/fWDwTsYj…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1691,
+        "media_key": "3_2047100688778629120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjDOv4bkAAfFZj.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047448182586753468",
+        "created_at": "2026-04-23T22:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047448182586753468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1961835260037287936",
+              "start": 3,
+              "username": "chan19890604to5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/fWDwTsYj",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/fWDwTsYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047448182586753468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047100693706854531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604to5: 訃告\n號主已於2026年3月31日23時08分因買了便宜跳蛋逼被炸而不幸逝世，感謝大家能在她的生命中出現過，並給予了她光和溫暖，也謝謝大家曾給過她幫助和愛。斯人已逝，惟願她早登極樂，往生淨土。 https://t.co/fWDwTsYj…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047100688778629120"
+          ]
+        },
+        "author_id": "1961835260037287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047100693706854531",
+        "created_at": "2026-04-22T23:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047100693706854531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWDwTsYjkv",
+              "end": 120,
+              "expanded_url": "https://x.com/chan19890604to5/status/2047100693706854531/photo/1",
+              "media_key": "3_2047100688778629120",
+              "start": 97,
+              "url": "https://t.co/fWDwTsYjkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047100693706854531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 43037,
+          "like_count": 375,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "訃告\n號主已於2026年3月31日23時08分因買了便宜跳蛋逼被炸而不幸逝世，感謝大家能在她的生命中出現過，並給予了她光和溫暖，也謝謝大家曾給過她幫助和愛。斯人已逝，惟願她早登極樂，往生淨土。 https://t.co/fWDwTsYjkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 517,
+          "like_count": 3019,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 539
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T16:56:30.000Z",
+        "description": "@chan19890604t04的備用號 🕷️🐷🐰滾 不跟🕷️🐷🐰對話 畜牲是聽不懂人話的 備用號@chan19890604to6 圖和影片都是轉的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "chan19890604t04"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "chan19890604to6"
+              }
+            ]
+          }
+        },
+        "id": "1961835260037287936",
+        "name": "陳少5.0",
+        "pinned_tweet_id": "2043861402184757747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961836450586275840/_P22MB1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 417,
+          "like_count": 7499,
+          "listed_count": 4,
+          "media_count": 2279,
+          "tweet_count": 4452
+        },
+        "username": "chan19890604to5",
+        "verified": false
+      }
+    ]
+  }
+}

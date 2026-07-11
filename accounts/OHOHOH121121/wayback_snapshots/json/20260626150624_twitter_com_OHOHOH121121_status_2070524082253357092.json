@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2070522466376790352",
+    "created_at": "2026-06-26T15:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070524082253357092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961895033889804288",
+          "start": 0,
+          "username": "Xx_774chan_xX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070524082253357092",
+    "in_reply_to_user_id": "1961895033889804288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070524001857024098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xx_774chan_xX wwwTQ！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070522466376790352",
+        "created_at": "2026-06-26T15:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070524082253357092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961895033889804288",
+              "start": 0,
+              "username": "Xx_774chan_xX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070524082253357092",
+        "in_reply_to_user_id": "1961895033889804288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070524001857024098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xx_774chan_xX wwwTQ！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961895033889804288",
+        "conversation_id": "2070522466376790352",
+        "created_at": "2026-06-26T15:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070524001857024098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070524001857024098",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070522466376790352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 What a cute accessory😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 870,
+          "like_count": 5388,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T20:53:54.000Z",
+        "description": "I can speak English a little\n\nジョジョ⌇サンリオ⌇ポケモン⌇ニディガ⌇みい山⌇淫夢⌇アンパンマン\n↑大好き　↓ちょっと齧ってる\nドラクエ⌇ジブリ⌇東方⌇ホロライブ⌇ボカロ\n\n日焼け止めとホモと市販薬乱用とアクアリウムとゴキブリに詳しい男です\nヘダ画@nanaj00_様\n💚⭐️🪽🧸🎠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 139,
+                "username": "nanaj00_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/daxz01tykzosda…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/daxz01tykzosdac?t=igWQ83&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/PgtIXrb0J3"
+              }
+            ]
+          }
+        },
+        "id": "1961895033889804288",
+        "location": "໒꒱東海地方",
+        "name": "໒꒱おそらく天使な名無しちゃん/Nanashi‐chan Maybe Angel",
+        "pinned_tweet_id": "2069695970548547698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961895173878939648/E9EZsmDT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1147,
+          "like_count": 12527,
+          "listed_count": 7,
+          "media_count": 276,
+          "tweet_count": 13139
+        },
+        "url": "https://t.co/PgtIXrb0J3",
+        "username": "Xx_774chan_xX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048221170496045081",
+    "created_at": "2026-04-26T02:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048221170496045081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1629683165853016064",
+          "start": 3,
+          "username": "nqmcjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048221170496045081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048048685632958863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nqmcjj: 中学生で処女だとか言ってる女の子\nそれが当たり前ですよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048221170496045081",
+        "created_at": "2026-04-26T02:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048221170496045081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1629683165853016064",
+              "start": 3,
+              "username": "nqmcjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048221170496045081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048048685632958863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nqmcjj: 中学生で処女だとか言ってる女の子\nそれが当たり前ですよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629683165853016064",
+        "conversation_id": "2048048685632958863",
+        "created_at": "2026-04-25T14:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048048685632958863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048048685632958863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 105770,
+          "like_count": 3887,
+          "quote_count": 17,
+          "reply_count": 11,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "中学生で処女だとか言ってる女の子\nそれが当たり前ですよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 595,
+          "like_count": 3304,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 616
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:22:06.000Z",
+        "description": "顔面コンプで青春コンプで他責思考のカス/👊🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/tttgl1txanwrwf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/tttgl1txanwrwfx?t=QJ5LNP&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/amKYFZMP9z"
+              }
+            ]
+          }
+        },
+        "id": "1629683165853016064",
+        "name": "ガキは黙ってろ",
+        "pinned_tweet_id": "2047906510848811051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629686530745966599/AIqaqPj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 69,
+          "like_count": 15605,
+          "listed_count": 7,
+          "media_count": 478,
+          "tweet_count": 3558
+        },
+        "url": "https://t.co/amKYFZMP9z",
+        "username": "nqmcjj",
+        "verified": false
+      }
+    ]
+  }
+}

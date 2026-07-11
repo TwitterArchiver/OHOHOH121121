@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2069779945606492307",
+    "created_at": "2026-06-25T07:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070050856200990835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829548387936681984",
+          "start": 0,
+          "username": "Othercypl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070050856200990835",
+    "in_reply_to_user_id": "1829548387936681984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070046942114288086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Othercypl 咕！咕.....你，是，鸽子.....猫！？！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2069779945606492307",
+        "created_at": "2026-06-25T07:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070050856200990835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829548387936681984",
+              "start": 0,
+              "username": "Othercypl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070050856200990835",
+        "in_reply_to_user_id": "1829548387936681984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070046942114288086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Othercypl 咕！咕.....你，是，鸽子.....猫！？！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829548387936681984",
+        "conversation_id": "2069779945606492307",
+        "created_at": "2026-06-25T07:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070046942114288086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070046942114288086",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069779945606492307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 窝..也是。（猫！嘛.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 857,
+          "like_count": 5270,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1365
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T15:55:13.000Z",
+        "description": "08 17河北苦命高中生/重抑中焦/od/不键政/互fo\n可以称呼为我鸽子，鸽子神万岁！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/otherb1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/otherb1",
+                "start": 0,
+                "url": "https://t.co/02ZX2AOpC1"
+              }
+            ]
+          }
+        },
+        "id": "1829548387936681984",
+        "location": "石家庄",
+        "name": "OtherB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063101517180317696/v-47W4Nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 146,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/02ZX2AOpC1",
+        "username": "Othercypl",
+        "verified": false
+      }
+    ]
+  }
+}

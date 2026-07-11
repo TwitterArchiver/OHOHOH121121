@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2070446979864531181",
+    "created_at": "2026-06-26T10:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070446979864531181"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070446979864531181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想到我现实朋友常说要拯救我，但是我却跟她说的是。\n“拯救我自己是医生和我的责任,不是你的责任。”\n我会倾诉痛苦，但是我也会和医生一起解决我自己身上的问题。因为这不是她的责任\n拯救我自己不是朋友的责任。是我自己的责任。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070446979864531181",
+        "created_at": "2026-06-26T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070446979864531181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070446979864531181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到我现实朋友常说要拯救我，但是我却跟她说的是。\n“拯救我自己是医生和我的责任,不是你的责任。”\n我会倾诉痛苦，但是我也会和医生一起解决我自己身上的问题。因为这不是她的责任\n拯救我自己不是朋友的责任。是我自己的责任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 870,
+          "like_count": 5367,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 1395
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052228911933861888"
+      ],
+      "media_source_tweet_id": [
+        "2052228921865929073"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2052381102954979337",
+    "created_at": "2026-05-07T13:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052381102954979337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016832594521034752",
+          "start": 3,
+          "username": "Yoyowdul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n584Q8sV2p",
+          "end": 50,
+          "expanded_url": "https://x.com/Yoyowdul/status/2052228921865929073/photo/1",
+          "media_key": "3_2052228911933861888",
+          "start": 27,
+          "url": "https://t.co/n584Q8sV2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052381102954979337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052228921865929073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yoyowdul: 霸凌者一般事后都会这么说 https://t.co/n584Q8sV2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2052228911933861888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHr7Un2asAAB58o.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052228911933861888"
+          ],
+          "media_source_tweet_id": [
+            "2052228921865929073"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2052381102954979337",
+        "created_at": "2026-05-07T13:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052381102954979337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016832594521034752",
+              "start": 3,
+              "username": "Yoyowdul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n584Q8sV2p",
+              "end": 50,
+              "expanded_url": "https://x.com/Yoyowdul/status/2052228921865929073/photo/1",
+              "media_key": "3_2052228911933861888",
+              "start": 27,
+              "url": "https://t.co/n584Q8sV2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052381102954979337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052228921865929073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yoyowdul: 霸凌者一般事后都会这么说 https://t.co/n584Q8sV2p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052228911933861888"
+          ]
+        },
+        "author_id": "2016832594521034752",
+        "conversation_id": "2052228921865929073",
+        "created_at": "2026-05-07T03:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052228921865929073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n584Q8sV2p",
+              "end": 36,
+              "expanded_url": "https://x.com/Yoyowdul/status/2052228921865929073/photo/1",
+              "media_key": "3_2052228911933861888",
+              "start": 13,
+              "url": "https://t.co/n584Q8sV2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052228921865929073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18928,
+          "like_count": 414,
+          "quote_count": 25,
+          "reply_count": 64,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "霸凌者一般事后都会这么说 https://t.co/n584Q8sV2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 699,
+          "like_count": 4161,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 935
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T11:16:26.000Z",
+        "description": "这是我仅剩可以公开吐黑泥的地方了。你就当可怜可怜我吧",
+        "id": "2016832594521034752",
+        "name": "Yoyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016833259938992130/wlg-oX7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 67,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 243
+        },
+        "username": "Yoyowdul",
+        "verified": false
+      }
+    ]
+  }
+}

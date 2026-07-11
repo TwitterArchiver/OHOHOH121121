@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042252550175621334",
+    "created_at": "2026-04-09T14:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042253098161492067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946850497585086464",
+          "start": 0,
+          "username": "GAFAM0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042253098161492067",
+    "in_reply_to_user_id": "1946850497585086464",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042252550175621334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GAFAM0615 (⁠☉⁠｡⁠☉⁠)⁠!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042252550175621334",
+        "created_at": "2026-04-09T14:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042253098161492067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946850497585086464",
+              "start": 0,
+              "username": "GAFAM0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042253098161492067",
+        "in_reply_to_user_id": "1946850497585086464",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042252550175621334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GAFAM0615 (⁠☉⁠｡⁠☉⁠)⁠!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946850497585086464",
+        "conversation_id": "2042252550175621334",
+        "created_at": "2026-04-09T14:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042252550175621334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042252550175621334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ほーら、明るくなっただろう？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 77,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T08:31:51.000Z",
+        "description": "03 20↑\n         孤独から逃げてインターネットしてる\n         普通に独り言を吐く場所です。\n　　 なんだこいつってなったら遠慮なく消してくださいいい\n\n発言が多くてうるさいのでご理解していただけると嬉しいです…。\n\n自分が嫌いです。",
+        "id": "1946850497585086464",
+        "name": "!!!＆???",
+        "pinned_tweet_id": "2041926745650294880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041645962565967872/hRjfRID9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 366
+        },
+        "username": "GAFAM0615",
+        "verified": false
+      }
+    ]
+  }
+}

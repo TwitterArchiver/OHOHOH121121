@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2069753980159471779",
+    "created_at": "2026-06-24T12:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069753980159471779"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069753980159471779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我父母说我只会怨恨但不会去努力。\n但是我已经尝试了那么多次但就是记不住，我甚至连这几年甚至去年学过的东西要是让我回想我却没有任何记忆。\n甚至抢掉了那些人伤害我的记忆，我很迷茫他们是否真的欺负过我。也抢掉了我和家人快乐的记忆，甚至我是谁我有时候甚至都不知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2069753980159471779",
+        "created_at": "2026-06-24T12:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069753980159471779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069753980159471779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我父母说我只会怨恨但不会去努力。\n但是我已经尝试了那么多次但就是记不住，我甚至连这几年甚至去年学过的东西要是让我回想我却没有任何记忆。\n甚至抢掉了那些人伤害我的记忆，我很迷茫他们是否真的欺负过我。也抢掉了我和家人快乐的记忆，甚至我是谁我有时候甚至都不知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 857,
+          "like_count": 5231,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

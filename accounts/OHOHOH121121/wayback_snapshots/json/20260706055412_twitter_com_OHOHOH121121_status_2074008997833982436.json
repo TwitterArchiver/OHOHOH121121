@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2074008997833982436",
+    "created_at": "2026-07-06T05:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074008997833982436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1958048434021437440",
+          "start": 3,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074008997833982436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073429742091706784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baizhimengyao: 我说实话，其实我们需要躲在柜子里这件事情其实就隐含了：我们如果出柜可能会遭遇到不公正的待遇，别人要歧视我们这一条。\n不要羞于承认自己是trans，但也要保护自己，我们应该团结起来，抱团争取权利，就算以前社群的救助也会教会一些本领，能让我们更…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2074008997833982436",
+        "created_at": "2026-07-06T05:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074008997833982436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1958048434021437440",
+              "start": 3,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074008997833982436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073429742091706784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baizhimengyao: 我说实话，其实我们需要躲在柜子里这件事情其实就隐含了：我们如果出柜可能会遭遇到不公正的待遇，别人要歧视我们这一条。\n不要羞于承认自己是trans，但也要保护自己，我们应该团结起来，抱团争取权利，就算以前社群的救助也会教会一些本领，能让我们更…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2073429742091706784",
+        "created_at": "2026-07-04T15:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073429742091706784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073429742091706784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2041,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我说实话，其实我们需要躲在柜子里这件事情其实就隐含了：我们如果出柜可能会遭遇到不公正的待遇，别人要歧视我们这一条。\n不要羞于承认自己是trans，但也要保护自己，我们应该团结起来，抱团争取权利，就算以前社群的救助也会教会一些本领，能让我们更好的走入社会，以满足所谓“正常生活”的需求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 896,
+          "like_count": 5720,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1524
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/@k66cheng 伪物空城我大姐头",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "k66cheng"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "白芷梦瑶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 31,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

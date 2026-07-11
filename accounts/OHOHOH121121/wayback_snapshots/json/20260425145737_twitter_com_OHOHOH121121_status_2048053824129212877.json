@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048053824129212877",
+    "created_at": "2026-04-25T14:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048053824129212877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002688318396653568",
+          "start": 3,
+          "username": "xoxo3048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048053824129212877",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048003081686892662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xoxo3048: なんでODってお酒とたばこと違って「ダメなこと」ってカテゴライズされるの？\nただの現実逃避の一環なのに\n体に害があるとか言うけど、お酒もたばこも体に悪いじゃん"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048053824129212877",
+        "created_at": "2026-04-25T14:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048053824129212877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002688318396653568",
+              "start": 3,
+              "username": "xoxo3048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048053824129212877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048003081686892662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @xoxo3048: なんでODってお酒とたばこと違って「ダメなこと」ってカテゴライズされるの？\nただの現実逃避の一環なのに\n体に害があるとか言うけど、お酒もたばこも体に悪いじゃん"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002688318396653568",
+        "conversation_id": "2048003081686892662",
+        "created_at": "2026-04-25T11:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048003081686892662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048003081686892662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 23343,
+          "like_count": 403,
+          "quote_count": 24,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "なんでODってお酒とたばこと違って「ダメなこと」ってカテゴライズされるの？\nただの現実逃避の一環なのに\n体に害があるとか言うけど、お酒もたばこも体に悪いじゃん"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 563,
+          "like_count": 3216,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 610
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T10:31:34.000Z",
+        "description": "♀️︙09︙病み垢︙情緒不安定︙独り言︙口悪い︙お別れブロ解︙OD︙🐿🦟︙エロ垢、出会い垢、通話、エンカ✘︙スぺ、DM△︙虐待\n\n251＆ペア画▸︎▹︎ @YZzkvEwrZw52834",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "YZzkvEwrZw52834"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/xoxo3048/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/xoxo3048/",
+                "start": 0,
+                "url": "https://t.co/aAnp7AxXaA"
+              }
+            ]
+          }
+        },
+        "id": "2002688318396653568",
+        "location": "見て手首からイチゴが出てきた！",
+        "name": "まい(ᐡ. ̫ .ᐡ )♡",
+        "pinned_tweet_id": "2028036029857591636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672818551517184/jd_Lwycj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 1193,
+          "like_count": 60223,
+          "listed_count": 34,
+          "media_count": 42,
+          "tweet_count": 1607
+        },
+        "url": "https://t.co/aAnp7AxXaA",
+        "username": "xoxo3048",
+        "verified": false
+      }
+    ]
+  }
+}

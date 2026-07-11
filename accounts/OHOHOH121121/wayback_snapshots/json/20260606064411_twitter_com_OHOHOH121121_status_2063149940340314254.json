@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063121983647445349",
+    "created_at": "2026-06-06T06:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063149940340314254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060679899925626882",
+          "start": 0,
+          "username": "xvque2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063149940340314254",
+    "in_reply_to_user_id": "2060679899925626882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063121983647445349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvque2026 给我摸摸你的腿！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11902,
+        "height": 1280,
+        "media_key": "7_2063121951858810880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063121951858810880/pu/img/lgYsjQQQxXZ1wTvB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063121951858810880/pu/vid/avc1/320x568/47AO6uKdN6G3rnMX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063121951858810880/pu/vid/avc1/480x852/_MBQUjuV5b5cdi7I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063121951858810880/pu/vid/avc1/720x1280/dAkcihsOtMzBx7nz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063121951858810880/pu/pl/1pJwF1kjmek6cxpw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063121983647445349",
+        "created_at": "2026-06-06T06:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063149940340314254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060679899925626882",
+              "start": 0,
+              "username": "xvque2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063149940340314254",
+        "in_reply_to_user_id": "2060679899925626882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063121983647445349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvque2026 给我摸摸你的腿！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063121951858810880"
+          ]
+        },
+        "author_id": "2060679899925626882",
+        "conversation_id": "2063121983647445349",
+        "created_at": "2026-06-06T04:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063121983647445349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "伪娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "雌堕"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WhFLhNHcsr",
+              "end": 44,
+              "expanded_url": "https://x.com/xvque2026/status/2063121983647445349/video/1",
+              "media_key": "7_2063121951858810880",
+              "start": 21,
+              "url": "https://t.co/WhFLhNHcsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063121983647445349",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wow！\n#男娘 #伪娘 #雌堕 #白丝 https://t.co/WhFLhNHcsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 844,
+          "like_count": 5010,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1265
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:10:11.000Z",
+        "description": "无任何精神病史，很抽象，可能是个正常人/\n08年，是个男娘，switch偏s/\n有较为显著的暴力倾向，非营业请不要把本小姐当做m/\n平时还算温柔，擅长倾听，解析，是母系角色/\n接江浙沪线下，300一次，600包夜/\n有钱的捧个钱场，没钱的捧个人场/\n可以当树洞，可能比AI强点？/\nqq：2410547150",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xvquekksk",
+                "end": 23,
+                "expanded_url": "https://t.me/xvquekksk",
+                "start": 0,
+                "url": "https://t.co/nvjcJvWGjN"
+              }
+            ]
+          }
+        },
+        "id": "2060679899925626882",
+        "location": "附近1公里",
+        "name": "徐缺（从泥沼中爬出）",
+        "pinned_tweet_id": "2060767447955960310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060680321486786561/7zfGsuJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/nvjcJvWGjN",
+        "username": "xvque2026",
+        "verified": false
+      }
+    ]
+  }
+}

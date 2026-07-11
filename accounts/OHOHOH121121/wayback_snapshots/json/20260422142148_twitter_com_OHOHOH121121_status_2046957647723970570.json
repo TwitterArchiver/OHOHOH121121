@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2046923542600782305",
+    "created_at": "2026-04-22T14:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046957647723970570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "284611879",
+          "start": 0,
+          "username": "angnono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046957647723970570",
+    "in_reply_to_user_id": "284611879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046923542600782305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angnono bro这个名字咋那么阴。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2046923542600782305",
+        "created_at": "2026-04-22T14:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046957647723970570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "284611879",
+              "start": 0,
+              "username": "angnono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046957647723970570",
+        "in_reply_to_user_id": "284611879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046923542600782305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angnono bro这个名字咋那么阴。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "284611879",
+        "conversation_id": "2046923542600782305",
+        "created_at": "2026-04-22T12:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046923542600782305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "nonoang’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1rxmq…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1rxmqobaBwwxy",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2046923543959744512/1ithbwMW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046923543959744512/1ithbwMW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 吃餅乾看透維尼",
+              "unwound_url": "https://twitter.com/i/spaces/1rxmqobaBwwxy/peek",
+              "url": "https://t.co/Up4Y4OrQLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046923542600782305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Up4Y4OrQLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 513,
+          "like_count": 2992,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 519
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-19T16:22:45.000Z",
+        "description": "笨蛋問題不是在那",
+        "id": "284611879",
+        "location": "Taiwan",
+        "name": "nonoang",
+        "pinned_tweet_id": "1887827584333038061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658470188755587076/CY0kjsL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 288,
+          "like_count": 843,
+          "listed_count": 7,
+          "media_count": 648,
+          "tweet_count": 3887
+        },
+        "username": "angnono",
+        "verified": false
+      }
+    ]
+  }
+}

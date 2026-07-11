@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043977711341932730",
+    "created_at": "2026-04-14T09:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043977711341932730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2043683721992425472",
+          "start": 3,
+          "username": "OverdoseScholar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043977711341932730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043693183008465382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverdoseScholar: 中文OD圈的大家好～\n\n这里是OverdoseScholar Wiki （简称OS Wiki）！\n\n我们的目标是提供符合循证医学的、科学与可证伪的精神药物——尤其是易消遣性使用药物——的信息。本wiki所有信息都将标注参考文献并按照基于…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "The logo of OverdoseScholar Wiki",
+        "height": 1024,
+        "media_key": "3_2043693159826538496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyoGdVbQAAR9Rx.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043977711341932730",
+        "created_at": "2026-04-14T09:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043977711341932730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2043683721992425472",
+              "start": 3,
+              "username": "OverdoseScholar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043977711341932730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043693183008465382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverdoseScholar: 中文OD圈的大家好～\n\n这里是OverdoseScholar Wiki （简称OS Wiki）！\n\n我们的目标是提供符合循证医学的、科学与可证伪的精神药物——尤其是易消遣性使用药物——的信息。本wiki所有信息都将标注参考文献并按照基于…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043693159826538496"
+          ]
+        },
+        "author_id": "2043683721992425472",
+        "conversation_id": "2043693183008465382",
+        "created_at": "2026-04-13T14:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043693183008465382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TgIWkFu7S",
+              "end": 187,
+              "expanded_url": "https://x.com/OverdoseScholar/status/2043693183008465382/photo/1",
+              "media_key": "3_2043693159826538496",
+              "start": 164,
+              "url": "https://t.co/0TgIWkFu7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043693183008465382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中文OD圈的大家好～\n\n这里是OverdoseScholar Wiki （简称OS Wiki）！\n\n我们的目标是提供符合循证医学的、科学与可证伪的精神药物——尤其是易消遣性使用药物——的信息。本wiki所有信息都将标注参考文献并按照基于OCEBM进行简化与拓展的证据评级体系进行分级，力求传递既不污名化又不神化药物的科学信息！ https://t.co/0TgIWkFu7S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 456,
+          "like_count": 2576,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 390
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T13:33:50.000Z",
+        "description": "Encyclopedia of Evidence-Based Psychopharmacology\n(基于循证医学的精神药物百科) \ne-Mail: OverdoseScholar@outlook.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/OverdoseSchola…",
+                "end": 23,
+                "expanded_url": "https://t.me/OverdoseScholarWiki",
+                "start": 0,
+                "url": "https://t.co/UEc7ovR0E9"
+              }
+            ]
+          }
+        },
+        "id": "2043683721992425472",
+        "location": "Your Default Mode Network(DMN)",
+        "name": "OverdoseScholar Wiki",
+        "pinned_tweet_id": "2043693183008465382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043684309215891456/VGOEIg4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/UEc7ovR0E9",
+        "username": "OverdoseScholar",
+        "verified": false
+      }
+    ]
+  }
+}

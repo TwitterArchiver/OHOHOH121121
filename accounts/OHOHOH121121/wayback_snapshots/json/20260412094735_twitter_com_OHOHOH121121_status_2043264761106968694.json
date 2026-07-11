@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043264761106968694",
+    "created_at": "2026-04-12T09:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043264761106968694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinii165892/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/rinii165892/status/2043263890738606262",
+          "start": 29,
+          "url": "https://t.co/J62zSEq8mN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043264761106968694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043263890738606262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "健全逼死妈，自己被保护的这么好，你有脸说我对社会怨气大？ https://t.co/J62zSEq8mN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043264761106968694",
+        "created_at": "2026-04-12T09:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043264761106968694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/rinii165892/status/2043263890738606262",
+              "start": 29,
+              "url": "https://t.co/J62zSEq8mN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043264761106968694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043263890738606262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "健全逼死妈，自己被保护的这么好，你有脸说我对社会怨气大？ https://t.co/J62zSEq8mN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2043263890738606262",
+        "created_at": "2026-04-12T09:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043263890738606262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/neko0202002/status/2043263505701449780",
+              "start": 29,
+              "url": "https://t.co/paisIONPw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043263890738606262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043263505701449780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "健全逼死妈，自己被保护的这么好，你有脸说我对社会怨气大？ https://t.co/paisIONPw3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 344,
+          "like_count": 1922,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 291
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "被当成人机了随缘回fo【寻回推u】🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 605,
+          "like_count": 3660,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 2199
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

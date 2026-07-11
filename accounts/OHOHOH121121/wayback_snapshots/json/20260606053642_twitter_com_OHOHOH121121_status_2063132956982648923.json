@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063132956982648923",
+    "created_at": "2026-06-06T05:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063132956982648923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1964954602538774528",
+          "start": 3,
+          "username": "JuStK1LLM3PLZ"
+        },
+        {
+          "end": 29,
+          "id": "1509465577420693506",
+          "start": 19,
+          "username": "xiebrorou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063132956982648923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062510795053826328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuStK1LLM3PLZ: @xiebrorou 你在鸡巴上写高考加油看有人理你不？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063132956982648923",
+        "created_at": "2026-06-06T05:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063132956982648923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1964954602538774528",
+              "start": 3,
+              "username": "JuStK1LLM3PLZ"
+            },
+            {
+              "end": 29,
+              "id": "1509465577420693506",
+              "start": 19,
+              "username": "xiebrorou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063132956982648923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062510795053826328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuStK1LLM3PLZ: @xiebrorou 你在鸡巴上写高考加油看有人理你不？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964954602538774528",
+        "conversation_id": "2062314098428440613",
+        "created_at": "2026-06-04T12:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062510795053826328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509465577420693506",
+              "start": 0,
+              "username": "xiebrorou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062510795053826328",
+        "in_reply_to_user_id": "1509465577420693506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10605,
+          "like_count": 321,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062314098428440613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiebrorou 你在鸡巴上写高考加油看有人理你不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 844,
+          "like_count": 5008,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 1262
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T07:31:09.000Z",
+        "description": "之前的号被封了 我想你了TT",
+        "id": "1964954602538774528",
+        "name": "小猫不知道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058110150729248768/V0y4lFrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 24,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 384
+        },
+        "username": "JuStK1LLM3PLZ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T09:40:25.000Z",
+        "description": "性别男，爱好女\n存图号罢了",
+        "id": "1509465577420693506",
+        "location": "sz",
+        "name": "蟹bro肉",
+        "pinned_tweet_id": "1518836142841294848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509467704939491331/s7xzqNMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9923,
+          "following_count": 139,
+          "like_count": 2300,
+          "listed_count": 38,
+          "media_count": 280,
+          "tweet_count": 799
+        },
+        "username": "xiebrorou",
+        "verified": false
+      }
+    ]
+  }
+}

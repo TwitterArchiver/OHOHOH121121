@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047963609268208042",
+    "created_at": "2026-04-25T12:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048015019863134279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863564782600908800",
+          "start": 0,
+          "username": "TOKYOBLACKWHOLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048015019863134279",
+    "in_reply_to_user_id": "1863564782600908800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047963609268208042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOKYOBLACKWHOLE 其实我不太明白为什么评论区全部都在骂，因为绝望才会自杀为什么还要被说成给其他人惹麻烦呢。就是因为什么都不在乎才自杀的啊，为什么要在乎那么多事情，第一时间不是要先安慰吗。\n这个评论区让我见识到了社会的多样性呢，连人性都没有了呢🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T12:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048015019863134279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863564782600908800",
+              "start": 0,
+              "username": "TOKYOBLACKWHOLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048015019863134279",
+        "in_reply_to_user_id": "1863564782600908800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963609268208042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYOBLACKWHOLE 其实我不太明白为什么评论区全部都在骂，因为绝望才会自杀为什么还要被说成给其他人惹麻烦呢。就是因为什么都不在乎才自杀的啊，为什么要在乎那么多事情，第一时间不是要先安慰吗。\n这个评论区让我见识到了社会的多样性呢，连人性都没有了呢🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863564782600908800",
+        "conversation_id": "2047963609268208042",
+        "created_at": "2026-04-25T08:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047963609268208042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "電撃萌王♥︎ is live",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/broadcasts/1OxwblRrMBNJB",
+              "images": [
+                {
+                  "height": 1280,
+                  "url": "https://pbs.twimg.com/news_img/2047963651680968705/RH-U-eSD?format=jpg&name=orig",
+                  "width": 720
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047963651680968705/RH-U-eSD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "電撃萌王♥︎",
+              "unwound_url": "https://twitter.com/i/broadcasts/1OxwblRrMBNJB",
+              "url": "https://t.co/4ZSQpBE2I7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047963609268208042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 634,
+          "impression_count": 89332,
+          "like_count": 1935,
+          "quote_count": 214,
+          "reply_count": 32,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4ZSQpBE2I7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 546,
+          "like_count": 3131,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 581
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T12:44:24.000Z",
+        "description": "🎀大森靖子ちゃん好きの3月新人メイド 18さい🎀\n♥︎ @jnmm11l \n♥︎@tensei_meido \n♥︎お給仕予定×チェキタグ 【 #ちむみんのBAN工場 】 ♥︎\n🎀遠隔🍥 https://t.co/pOANmVkLzw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 71,
+                "tag": "ちむみんのBAN工場"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "jnmm11l"
+              },
+              {
+                "end": 53,
+                "start": 40,
+                "username": "tensei_meido"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tenseimeido.base.shop",
+                "end": 116,
+                "expanded_url": "https://tenseimeido.base.shop/",
+                "start": 93,
+                "url": "https://t.co/pOANmVkLzw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kiqurc_?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@kiqurc_?_r=1&_t=ZS-94PXe2w0tou",
+                "start": 0,
+                "url": "https://t.co/SlIl0WPuHt"
+              }
+            ]
+          }
+        },
+        "id": "1863564782600908800",
+        "location": "⚠︎︎ かお、ちがいます。 身長デカいです。 チェキ掲載OK",
+        "name": "電撃萌王♥︎",
+        "pinned_tweet_id": "2041160917543739537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043511327331852288/IXVIGjWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3358,
+          "following_count": 68,
+          "like_count": 552,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/SlIl0WPuHt",
+        "username": "TOKYOBLACKWHOLE",
+        "verified": false
+      }
+    ]
+  }
+}

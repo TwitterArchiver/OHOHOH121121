@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043155007181307904"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043155010184499592",
+    "created_at": "2026-04-12T02:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043155010184499592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1946850497585086464",
+          "start": 22,
+          "username": "GAFAM0615"
+        },
+        {
+          "end": 42,
+          "id": "2039052178791514112",
+          "start": 33,
+          "username": "Dodoeqiu"
+        },
+        {
+          "end": 65,
+          "id": "2028475985696591872",
+          "start": 49,
+          "username": "loser_2525_hapi"
+        },
+        {
+          "end": 82,
+          "id": "1886289385177669632",
+          "start": 72,
+          "username": "Lizzy_522"
+        },
+        {
+          "end": 99,
+          "id": "1505767450385690625",
+          "start": 83,
+          "username": "Alistai33955292"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 127,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/oWFOCq5d1I"
+        },
+        {
+          "display_url": "pic.x.com/JJlCLZ4U7L",
+          "end": 151,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2043155010184499592/photo/1",
+          "media_key": "3_2043155007181307904",
+          "start": 128,
+          "url": "https://t.co/JJlCLZ4U7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043155010184499592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @GAFAM0615 @Dodoeqiu\n👰 配偶: @loser_2525_hapi\n👶 孩子: @Lizzy_522 @Alistai33955292\n\n➡️ https://t.co/oWFOCq5d1I https://t.co/JJlCLZ4U7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2043155007181307904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFq-p2gaQAAvKra.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043155007181307904"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043155010184499592",
+        "created_at": "2026-04-12T02:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043155010184499592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1946850497585086464",
+              "start": 22,
+              "username": "GAFAM0615"
+            },
+            {
+              "end": 42,
+              "id": "2039052178791514112",
+              "start": 33,
+              "username": "Dodoeqiu"
+            },
+            {
+              "end": 65,
+              "id": "2028475985696591872",
+              "start": 49,
+              "username": "loser_2525_hapi"
+            },
+            {
+              "end": 82,
+              "id": "1886289385177669632",
+              "start": 72,
+              "username": "Lizzy_522"
+            },
+            {
+              "end": 99,
+              "id": "1505767450385690625",
+              "start": 83,
+              "username": "Alistai33955292"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/oWFOCq5d1I"
+            },
+            {
+              "display_url": "pic.x.com/JJlCLZ4U7L",
+              "end": 151,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2043155010184499592/photo/1",
+              "media_key": "3_2043155007181307904",
+              "start": 128,
+              "url": "https://t.co/JJlCLZ4U7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043155010184499592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @GAFAM0615 @Dodoeqiu\n👰 配偶: @loser_2525_hapi\n👶 孩子: @Lizzy_522 @Alistai33955292\n\n➡️ https://t.co/oWFOCq5d1I https://t.co/JJlCLZ4U7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 311,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 248
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T08:31:51.000Z",
+        "description": "03 20↑\n         孤独から逃げてインターネットしてる\n         普通に独り言を吐く場所です。\n　　 なんだこいつってなったら遠慮なく消してくださいいい\n\n発言が多くてうるさいのでご理解していただけると嬉しいです…。\n\n自分が嫌いです。",
+        "id": "1946850497585086464",
+        "name": "!!!＆???",
+        "pinned_tweet_id": "2041926745650294880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041645962565967872/hRjfRID9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 478
+        },
+        "username": "GAFAM0615",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "欢迎fo！许愿同类 \n小酸｜自伤烟o｜不互纯三男 、健全\n无所事事网蛆 上网娱乐不擦边 🫣 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 46,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 242,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 469
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T14:23:39.000Z",
+        "description": "済 ♀︎ ペア@de_Blois21\n🗝@loser_happy_25 誰でも通す\n出戻り",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "de_Blois21"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "loser_happy_25"
+              }
+            ]
+          }
+        },
+        "id": "2028475985696591872",
+        "location": "この世",
+        "name": "みねらる ﾀﾋ",
+        "pinned_tweet_id": "2042920008599404656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040748488284332032/7EXaFPyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 168,
+          "like_count": 6173,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 2232
+        },
+        "username": "loser_2525_hapi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，滚圈涉猎广泛，硬摇滚、迷幻摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生朋友刷到我请自行绕道。骚逼@KKKaoru_异父异母的弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 115,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "pinned_tweet_id": "2027517222768521252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 371,
+          "like_count": 20133,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 3186
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券(暂时戒割中)丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！丨🚪52",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "0.1km",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042779674183692288/j5CnX52L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 454,
+          "like_count": 1351,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      }
+    ]
+  }
+}

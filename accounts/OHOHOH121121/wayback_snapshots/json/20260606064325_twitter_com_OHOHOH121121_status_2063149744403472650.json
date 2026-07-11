@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063149694491283456"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063149744403472650",
+    "created_at": "2026-06-06T06:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063149744403472650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FwiFgRiFbf",
+          "end": 56,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2063149744403472650/video/1",
+          "media_key": "7_2063149694491283456",
+          "start": 33,
+          "url": "https://t.co/FwiFgRiFbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063149744403472650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wtf跳到很僵硬但不管了那么多只有这个最好（四肢不发达我讨厌你） https://t.co/FwiFgRiFbf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14883,
+        "height": 1280,
+        "media_key": "7_2063149694491283456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063149694491283456/pu/img/Nt_BwFjpG4byiLmF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063149694491283456/pu/vid/avc1/320x568/mNa-rHqvnQaUNjZd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063149694491283456/pu/vid/avc1/480x852/YDB-i8b3vZzOtvPB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063149694491283456/pu/vid/avc1/720x1280/nzmbTxFdpyejoIEo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063149694491283456/pu/pl/IqyBgpLtVhRTXusq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063149694491283456"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063149744403472650",
+        "created_at": "2026-06-06T06:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063149744403472650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwiFgRiFbf",
+              "end": 56,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2063149744403472650/video/1",
+              "media_key": "7_2063149694491283456",
+              "start": 33,
+              "url": "https://t.co/FwiFgRiFbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063149744403472650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wtf跳到很僵硬但不管了那么多只有这个最好（四肢不发达我讨厌你） https://t.co/FwiFgRiFbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 844,
+          "like_count": 5010,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1264
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

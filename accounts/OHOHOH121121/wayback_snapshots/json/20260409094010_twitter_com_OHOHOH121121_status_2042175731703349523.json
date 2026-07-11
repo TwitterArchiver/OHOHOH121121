@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042175728389967873"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chicken",
+          "id": "825049331975589888",
+          "name": "Chicken recipes"
+        }
+      }
+    ],
+    "conversation_id": "2042175731703349523",
+    "created_at": "2026-04-09T09:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042175731703349523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aN5B1p3EzA",
+          "end": 72,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2042175731703349523/photo/1",
+          "media_key": "3_2042175728389967873",
+          "start": 49,
+          "url": "https://t.co/aN5B1p3EzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042175731703349523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正在吃海南鸡饭(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡\n海南鶏飯を食べている(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ https://t.co/aN5B1p3EzA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042175728389967873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdEAUub0AEEbSv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042175728389967873"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chicken",
+              "id": "825049331975589888",
+              "name": "Chicken recipes"
+            }
+          }
+        ],
+        "conversation_id": "2042175731703349523",
+        "created_at": "2026-04-09T09:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042175731703349523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aN5B1p3EzA",
+              "end": 72,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042175731703349523/photo/1",
+              "media_key": "3_2042175728389967873",
+              "start": 49,
+              "url": "https://t.co/aN5B1p3EzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042175731703349523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在吃海南鸡饭(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡\n海南鶏飯を食べている(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ https://t.co/aN5B1p3EzA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

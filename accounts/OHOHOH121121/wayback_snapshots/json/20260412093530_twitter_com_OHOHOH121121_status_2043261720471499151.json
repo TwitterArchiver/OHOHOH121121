@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043257729129787812",
+    "created_at": "2026-04-12T09:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043261720471499151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028475985696591872",
+          "start": 0,
+          "username": "loser_2525_hapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043261720471499151",
+    "in_reply_to_user_id": "2028475985696591872",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043261611880976397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loser_2525_hapi (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043257729129787812",
+        "created_at": "2026-04-12T09:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043261720471499151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028475985696591872",
+              "start": 0,
+              "username": "loser_2525_hapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043261720471499151",
+        "in_reply_to_user_id": "2028475985696591872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043261611880976397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loser_2525_hapi (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028475985696591872",
+        "conversation_id": "2043257729129787812",
+        "created_at": "2026-04-12T09:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043261611880976397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043261611880976397",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043257729129787812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 Oh!! Me!?!? I'm soooo happy.🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 343,
+          "like_count": 1910,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 288
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T14:23:39.000Z",
+        "description": "済 ♀︎ ペア@de_Blois21\n🗝@loser_happy_25 誰でも通す\n出戻り",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "de_Blois21"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "loser_happy_25"
+              }
+            ]
+          }
+        },
+        "id": "2028475985696591872",
+        "location": "この世",
+        "name": "みねらる ﾀﾋ",
+        "pinned_tweet_id": "2043192423799812167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040748488284332032/7EXaFPyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 175,
+          "like_count": 6450,
+          "listed_count": 8,
+          "media_count": 10,
+          "tweet_count": 2360
+        },
+        "username": "loser_2525_hapi",
+        "verified": false
+      }
+    ]
+  }
+}

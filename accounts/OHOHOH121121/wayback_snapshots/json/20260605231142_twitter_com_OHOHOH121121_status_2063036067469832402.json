@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2062899839952924962",
+    "created_at": "2026-06-05T23:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063036067469832402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1999929683807461376",
+          "start": 0,
+          "username": "piaoling520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063036067469832402",
+    "in_reply_to_user_id": "1999929683807461376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062899839952924962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piaoling520 算鸟的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2062899839952924962",
+        "created_at": "2026-06-05T23:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063036067469832402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1999929683807461376",
+              "start": 0,
+              "username": "piaoling520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063036067469832402",
+        "in_reply_to_user_id": "1999929683807461376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062899839952924962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piaoling520 算鸟的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999929683807461376",
+        "conversation_id": "2062899839952924962",
+        "created_at": "2026-06-05T14:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062899839952924962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062899839952924962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 75025,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 236,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都会自慰一次这种算不算有性瘾？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 830,
+          "like_count": 4952,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 1248
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T19:49:40.000Z",
+        "description": "厌下头男",
+        "id": "1999929683807461376",
+        "location": "🚪20",
+        "name": "飘零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028158405052071936/jAM9bS4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 5,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "piaoling520",
+        "verified": false
+      }
+    ]
+  }
+}

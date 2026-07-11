@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074492895772733440"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2074492906795323590",
+    "created_at": "2026-07-07T13:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074492906795323590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6DhhmYtkA9",
+          "end": 103,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2074492906795323590/photo/1",
+          "media_key": "3_2074492895772733440",
+          "start": 80,
+          "url": "https://t.co/6DhhmYtkA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074492906795323590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画了efsj。\n（因为朋友的mbti是这个人格，然后画了）\n我朋友是非典型的esfj，压根不像老好人,我感觉她语言的艺术是真的很厉害,而且敢当面骂人。（严肃） https://t.co/6DhhmYtkA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2074492895772733440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoUTC2a8AANZZs.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074492895772733440"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2074492906795323590",
+        "created_at": "2026-07-07T13:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074492906795323590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DhhmYtkA9",
+              "end": 103,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2074492906795323590/photo/1",
+              "media_key": "3_2074492895772733440",
+              "start": 80,
+              "url": "https://t.co/6DhhmYtkA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074492906795323590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画了efsj。\n（因为朋友的mbti是这个人格，然后画了）\n我朋友是非典型的esfj，压根不像老好人,我感觉她语言的艺术是真的很厉害,而且敢当面骂人。（严肃） https://t.co/6DhhmYtkA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 906,
+          "like_count": 5760,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048335771871199463",
+    "created_at": "2026-04-26T10:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048355598321009113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656224072051863554",
+          "start": 0,
+          "username": "24105F4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048355598321009113",
+    "in_reply_to_user_id": "1656224072051863554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048355249707229327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@24105F4 ふぅ……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048335771871199463",
+        "created_at": "2026-04-26T10:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048355598321009113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656224072051863554",
+              "start": 0,
+              "username": "24105F4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048355598321009113",
+        "in_reply_to_user_id": "1656224072051863554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048355249707229327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@24105F4 ふぅ……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656224072051863554",
+        "conversation_id": "2048335771871199463",
+        "created_at": "2026-04-26T10:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048355249707229327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048355249707229327",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048335771871199463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 自分は1秒でも早くこの地球上から消えたいと思っている。\n\nだけど人が辛そうなのを見ると、どうしても何をかしてあげたくなる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 628,
+          "like_count": 3426,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 653
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T09:08:44.000Z",
+        "description": "友達を探しています♪\n※シラフの時はこのアカウントを開きません/日本人/出会い厨は求めて無いです！\n趣味:💊🎮🚬🏍️📷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/Caq4D2aB8",
+                "end": 23,
+                "expanded_url": "https://discord.gg/Caq4D2aB8",
+                "start": 0,
+                "url": "https://t.co/O3ULJkTgAt"
+              }
+            ]
+          }
+        },
+        "id": "1656224072051863554",
+        "location": "❤︎ブロン❤︎メジコン❤︎ウット❤︎ハイプロン❤︎",
+        "name": "みーる",
+        "pinned_tweet_id": "2040782768494514452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040474779321516032/e4oPyPnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 110,
+          "like_count": 2132,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/O3ULJkTgAt",
+        "username": "24105F4",
+        "verified": false
+      }
+    ]
+  }
+}

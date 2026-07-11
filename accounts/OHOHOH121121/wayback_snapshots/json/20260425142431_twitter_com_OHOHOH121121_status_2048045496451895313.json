@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048045496451895313",
+    "created_at": "2026-04-25T14:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048045496451895313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1796864027140001792",
+          "start": 3,
+          "username": "Y1fZ3SvwRJ94329"
+        },
+        {
+          "end": 37,
+          "id": "1573619588318736384",
+          "start": 21,
+          "username": "coffee_nakayama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048045496451895313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047995431024820627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y1fZ3SvwRJ94329: @coffee_nakayama もう既に\n自分をダメと思わせる程\n世の中の厳しさを経験しているのではないですか？\n\nダメな人間はいません。\nご自分を責めず\nもっと優しくしてあげて下さい\n\n自分をもっと\n大切になさって下さい。\n\n通りす…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048045496451895313",
+        "created_at": "2026-04-25T14:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048045496451895313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1796864027140001792",
+              "start": 3,
+              "username": "Y1fZ3SvwRJ94329"
+            },
+            {
+              "end": 37,
+              "id": "1573619588318736384",
+              "start": 21,
+              "username": "coffee_nakayama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048045496451895313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047995431024820627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y1fZ3SvwRJ94329: @coffee_nakayama もう既に\n自分をダメと思わせる程\n世の中の厳しさを経験しているのではないですか？\n\nダメな人間はいません。\nご自分を責めず\nもっと優しくしてあげて下さい\n\n自分をもっと\n大切になさって下さい。\n\n通りす…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796864027140001792",
+        "conversation_id": "2047983010461729206",
+        "created_at": "2026-04-25T11:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047995431024820627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573619588318736384",
+              "start": 0,
+              "username": "coffee_nakayama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047995431024820627",
+        "in_reply_to_user_id": "1573619588318736384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047983010461729206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coffee_nakayama もう既に\n自分をダメと思わせる程\n世の中の厳しさを経験しているのではないですか？\n\nダメな人間はいません。\nご自分を責めず\nもっと優しくしてあげて下さい\n\n自分をもっと\n大切になさって下さい。\n\n通りすがりのおばちゃんより"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 555,
+          "like_count": 3182,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 605
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T11:19:25.000Z",
+        "description": "自民党解体 五十路のしおしおだよ\n三姉妹の母 孫×3",
+        "id": "1796864027140001792",
+        "name": "しおしお姉さん",
+        "pinned_tweet_id": "1995426992842547453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027272231118831617/GGpSAACc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 202,
+          "like_count": 8972,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 4260
+        },
+        "username": "Y1fZ3SvwRJ94329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T10:25:43.000Z",
+        "description": "40歳の負け組フリーターのおっさんです、、、",
+        "id": "1573619588318736384",
+        "name": "K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047889229930516480/3PpOB0hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10044,
+          "following_count": 96,
+          "like_count": 4934,
+          "listed_count": 60,
+          "media_count": 171,
+          "tweet_count": 2584
+        },
+        "username": "coffee_nakayama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047698450536620032"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2047698453707604360",
+    "created_at": "2026-04-24T15:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047698453707604360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wvpex05YOq",
+          "end": 69,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2047698453707604360/photo/1",
+          "media_key": "3_2047698450536620032",
+          "start": 46,
+          "url": "https://t.co/Wvpex05YOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047698453707604360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么每次下雨家里会飞来蛾子。🥲🥲🥲\nどうして雨が降るたびに、家に蛾が飛んでくるの？🥲🥲🥲 https://t.co/Wvpex05YOq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047698450536620032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGri5D9aYAACiW5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047698450536620032"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2047698453707604360",
+        "created_at": "2026-04-24T15:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047698453707604360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wvpex05YOq",
+              "end": 69,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2047698453707604360/photo/1",
+              "media_key": "3_2047698450536620032",
+              "start": 46,
+              "url": "https://t.co/Wvpex05YOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047698453707604360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么每次下雨家里会飞来蛾子。🥲🥲🥲\nどうして雨が降るたびに、家に蛾が飛んでくるの？🥲🥲🥲 https://t.co/Wvpex05YOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 532,
+          "like_count": 3077,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 559
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

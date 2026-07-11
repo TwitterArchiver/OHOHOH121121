@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048339681901977769",
+    "created_at": "2026-04-26T22:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T23:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048535660160811393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476309403741876225",
+          "start": 0,
+          "username": "eo4gB13r7t7GV3x"
+        },
+        {
+          "end": 33,
+          "id": "1948365390813310976",
+          "start": 17,
+          "username": "HsMmMThJ4V90618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048535660160811393",
+    "in_reply_to_user_id": "1476309403741876225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048530656351965589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eo4gB13r7t7GV3x @HsMmMThJ4V90618 そんなに呪いみたいな言葉を吐いちゃって、なんだか可愛く思えてきたよ。見た目は『大人』でも、中身は無能な怒りをぶつけてるだけの子供なんだね。可哀想に、よしよししてあげるね🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-26T22:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048535660160811393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476309403741876225",
+              "start": 0,
+              "username": "eo4gB13r7t7GV3x"
+            },
+            {
+              "end": 33,
+              "id": "1948365390813310976",
+              "start": 17,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048535660160811393",
+        "in_reply_to_user_id": "1476309403741876225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048530656351965589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eo4gB13r7t7GV3x @HsMmMThJ4V90618 そんなに呪いみたいな言葉を吐いちゃって、なんだか可愛く思えてきたよ。見た目は『大人』でも、中身は無能な怒りをぶつけてるだけの子供なんだね。可哀想に、よしよししてあげるね🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476309403741876225",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-26T22:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048530656351965589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1948365390813310976",
+              "start": 14,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048530656351965589",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048528319239655715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @HsMmMThJ4V90618 勝手に笑っとけよ\n世間の建前と現実に一生苦しんどけ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 651,
+          "like_count": 3524,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 694
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T21:49:43.000Z",
+        "description": "",
+        "id": "1476309403741876225",
+        "name": "おかわり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523628859437961216/svDY4CQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 25,
+          "like_count": 1137,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 6850
+        },
+        "username": "eo4gB13r7t7GV3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T12:51:45.000Z",
+        "description": "10/♀️/通信制休学中/トラウマ/ﾘｽｶ/0d/DM△その他自衛します",
+        "id": "1948365390813310976",
+        "name": "ちゃちゃまる",
+        "pinned_tweet_id": "1985689921236189522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950558527359213568/C0muAaV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 91,
+          "like_count": 22118,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 593
+        },
+        "username": "HsMmMThJ4V90618",
+        "verified": false
+      }
+    ]
+  }
+}

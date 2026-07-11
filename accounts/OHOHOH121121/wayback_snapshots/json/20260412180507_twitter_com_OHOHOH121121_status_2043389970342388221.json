@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2043265937156268105",
+    "created_at": "2026-04-12T18:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043389970342388221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1975841368540147712",
+          "start": 0,
+          "username": "hayo_shinoune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043389970342388221",
+    "in_reply_to_user_id": "1975841368540147712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043265985306833212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hayo_shinoune なでなで"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2043265937156268105",
+        "created_at": "2026-04-12T18:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043389970342388221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1975841368540147712",
+              "start": 0,
+              "username": "hayo_shinoune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043389970342388221",
+        "in_reply_to_user_id": "1975841368540147712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043265985306833212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hayo_shinoune なでなで"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975841368540147712",
+        "conversation_id": "2043265937156268105",
+        "created_at": "2026-04-12T09:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043265985306833212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043265985306833212",
+        "in_reply_to_user_id": "1975841368540147712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043265937156268105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ちなみに今は前者です"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 391,
+          "like_count": 2269,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 344
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T08:31:16.000Z",
+        "description": "04┊︎雑多┊︎精神科通院┊︎希死念慮┊︎縮小▶️@die_s2_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "die_s2_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6boaagnwi2x5cl…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/6boaagnwi2x5cl5?t=Z35wx9&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/JNgX2UosOU"
+              }
+            ]
+          }
+        },
+        "id": "1975841368540147712",
+        "name": "終焉",
+        "pinned_tweet_id": "2036453148634784159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009195859850989568/HWVNwL83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 64,
+          "like_count": 18027,
+          "listed_count": 8,
+          "media_count": 39,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/JNgX2UosOU",
+        "username": "hayo_shinoune",
+        "verified": false
+      }
+    ]
+  }
+}

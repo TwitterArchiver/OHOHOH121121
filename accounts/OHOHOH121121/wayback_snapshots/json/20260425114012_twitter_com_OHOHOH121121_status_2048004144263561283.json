@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048004139108773888",
+        "3_2048004141717598208"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2048004144263561283",
+    "created_at": "2026-04-25T11:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048004144263561283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8tg47Nao6",
+          "end": 68,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2048004144263561283/photo/1",
+          "media_key": "3_2048004139108773888",
+          "start": 45,
+          "url": "https://t.co/d8tg47Nao6"
+        },
+        {
+          "display_url": "pic.x.com/d8tg47Nao6",
+          "end": 68,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2048004144263561283/photo/1",
+          "media_key": "3_2048004141717598208",
+          "start": 45,
+          "url": "https://t.co/d8tg47Nao6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048004144263561283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体外记忆4,希雅\n日语翻译在ALT\n体外記憶4、シア\n日本語訳はALTに書いてあります。 https://t.co/d8tg47Nao6"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "私の名はシア。今年で六十八歳になる。この地に辿り着く前、私の正体はずっと変わることはなかった。一人の母親であり、そして一羽の「人面鳥（じんめんちょう）」であった。\n記憶の奥底にある部族は、かつての私の世界のすべてだった。族人たちは優しく、幼く弱い雛たちを大切に慈しんでくれた。生き残るために生死を懸けた過酷な訓練が毎日続いたが、生き延びて族人たちから称賛と敬意を勝ち取ることができれば、どんな痛みも報われると信じていた。やがて、私は一羽の雄と結ばれ、我が子を授かった。腕の中で日に日に育っていく小さな命を見つめながら、この平穏こそが人生の終着点なのだと思っていた。\nしかし、母性の目覚めこそが、私の「罪」の始まりとなったのだ。\n子を持ってからというもの、殺戮に慣れきっていた私の両手は、迷いを見せるようになった。無意味な血を流すことを拒むようになり、狩りや戦いのたびに、相手の息の根を止めずに密かに逃がしてやるようになった。それが部族における大罪であることは重々承知していたが、もう後戻りはできなかった。\nだが、ついにその秘密も、風に乗って漏れ聞こえてしまった。\n私は冷え切った牢獄に閉じ込められた。体は傷だらけで、食べ物さえ与えられなかった。そんな日々の中、夫と子供たちは何度も牢に忍び込み、焦燥に駆られながら私を救い出そうと手を尽くしてくれた。彼らの怯えた顔を見るたび、私は何よりも恐ろしかった。私の罪が、疫病のように彼らまで巻き込んでしまうことを。だから私は、あえて酷い言葉を投げつけ、彼らを罵り、追い払った。自らの手で、彼らの私への未練を断ち切ったのだ。\n審判の日、かつての軍功に免じてか、族人たちは私に死罪ではなく「放逐」を言い渡した。全族の冷ややかな視線を浴びながら、私はボロボロになった羽を畳み、生まれ育った森をよろめきながら後にした。\n放浪の月日は長く、孤独なものだった。数年前、この新しい森に辿り着き、アン・フォン（安楓）たちに出会うまでは。今の暮らしは穏やかで安らぎに満ちている。けれど、夜が静まり返るたび、私は今でも故郷の方角を見つめてしまう。\n子供たちを愛している。心から愛している。理智では二度と会えないと分かっていても、その想いは骨の髄まで刻み込まれ、消えることはない。私は部族に見捨てられた罪人だ。けれど、あの瞬間、慈悲を選んだことに後悔は微塵もない。",
+        "height": 2048,
+        "media_key": "3_2048004139108773888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGv46eobsAAlavH.jpg",
+        "width": 922
+      },
+      {
+        "height": 1457,
+        "media_key": "3_2048004141717598208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGv46oWbMAA1u9Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048004139108773888",
+            "3_2048004141717598208"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2048004144263561283",
+        "created_at": "2026-04-25T11:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048004144263561283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8tg47Nao6",
+              "end": 68,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048004144263561283/photo/1",
+              "media_key": "3_2048004139108773888",
+              "start": 45,
+              "url": "https://t.co/d8tg47Nao6"
+            },
+            {
+              "display_url": "pic.x.com/d8tg47Nao6",
+              "end": 68,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2048004144263561283/photo/1",
+              "media_key": "3_2048004141717598208",
+              "start": 45,
+              "url": "https://t.co/d8tg47Nao6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048004144263561283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体外记忆4,希雅\n日语翻译在ALT\n体外記憶4、シア\n日本語訳はALTに書いてあります。 https://t.co/d8tg47Nao6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 544,
+          "like_count": 3130,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 580
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

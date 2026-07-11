@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2063138560803479997",
+    "created_at": "2026-06-06T07:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063166737756164587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053902534998384640",
+          "start": 0,
+          "username": "Yequan96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063166737756164587",
+    "in_reply_to_user_id": "2053902534998384640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063138560803479997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yequan96 我要红色的那个。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063138552817549312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG9lTMagAAZOdK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2063138560803479997",
+        "created_at": "2026-06-06T07:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063166737756164587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053902534998384640",
+              "start": 0,
+              "username": "Yequan96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166737756164587",
+        "in_reply_to_user_id": "2053902534998384640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063138560803479997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yequan96 我要红色的那个。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063138552817549312"
+          ]
+        },
+        "author_id": "2053902534998384640",
+        "conversation_id": "2063138560803479997",
+        "created_at": "2026-06-06T05:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063138560803479997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSsAVmgxyk",
+              "end": 33,
+              "expanded_url": "https://x.com/Yequan96/status/2063138560803479997/photo/1",
+              "media_key": "3_2063138552817549312",
+              "start": 10,
+              "url": "https://t.co/zSsAVmgxyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063138560803479997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有抑郁症别惹我😡 https://t.co/zSsAVmgxyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 844,
+          "like_count": 5018,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1268
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T18:18:53.000Z",
+        "description": "神话中的金羊毛",
+        "id": "2053902534998384640",
+        "location": "深蓝之地",
+        "name": "其中之一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058647030151643136/6FrLBygN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 64,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 165
+        },
+        "username": "Yequan96",
+        "verified": false
+      }
+    ]
+  }
+}

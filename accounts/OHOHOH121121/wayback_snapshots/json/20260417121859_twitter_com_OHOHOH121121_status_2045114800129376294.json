@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045105359371780528",
+    "created_at": "2026-04-17T12:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045114800129376294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045114800129376294",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045114645208596912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 有的，脱了腿根后面的皮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045105359371780528",
+        "created_at": "2026-04-17T12:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045114800129376294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045114800129376294",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045114645208596912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 有的，脱了腿根后面的皮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660586167807664129",
+        "conversation_id": "2045105359371780528",
+        "created_at": "2026-04-17T12:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045114645208596912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045114645208596912",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045105359371780528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 唉唉唉！Σ( ° △ °|||)︴有受伤吗\n感觉跌下来好危险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 495,
+          "like_count": 2852,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 448
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / ADHD. 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 88,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 65,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 270,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 441
+        },
+        "username": "ttttk567",
+        "verified": false
+      }
+    ]
+  }
+}

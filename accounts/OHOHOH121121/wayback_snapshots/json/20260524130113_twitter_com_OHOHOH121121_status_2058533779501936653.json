@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2058514112473358656",
+    "created_at": "2026-05-24T13:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058533779501936653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714008587012612097",
+          "start": 0,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058533779501936653",
+    "in_reply_to_user_id": "1714008587012612097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058530597115756722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2P 是这样www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2058514112473358656",
+        "created_at": "2026-05-24T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058533779501936653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714008587012612097",
+              "start": 0,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058533779501936653",
+        "in_reply_to_user_id": "1714008587012612097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058530597115756722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2P 是这样www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714008587012612097",
+        "conversation_id": "2058514112473358656",
+        "created_at": "2026-05-24T12:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058530597115756722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058530597115756722",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058514112473358656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 看著覺得很幸福 是文具控……！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 751,
+          "like_count": 4479,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 1120
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "🚪99r｜病み垢 鬱症 od リスカ",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "ナミダ",
+        "pinned_tweet_id": "2054543352356540666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056151171166031872/opT0XhaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 336,
+          "like_count": 1836,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1857
+        },
+        "username": "angelkawaii2P",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2070090443510186373",
+    "created_at": "2026-06-25T10:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070090443510186373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1673277454830686210",
+          "start": 3,
+          "username": "LaczScotty77515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070090443510186373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069807944359903519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaczScotty77515: 有钱人无套内射的时候能不能告诉我一声，我去投胎做你们小孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070090443510186373",
+        "created_at": "2026-06-25T10:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070090443510186373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1673277454830686210",
+              "start": 3,
+              "username": "LaczScotty77515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070090443510186373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069807944359903519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaczScotty77515: 有钱人无套内射的时候能不能告诉我一声，我去投胎做你们小孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673277454830686210",
+        "conversation_id": "2069807944359903519",
+        "created_at": "2026-06-24T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069807944359903519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069807944359903519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12610,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "有钱人无套内射的时候能不能告诉我一声，我去投胎做你们小孩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 858,
+          "like_count": 5278,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T10:30:15.000Z",
+        "description": "已婚二孩妈 克死两任丈夫",
+        "id": "1673277454830686210",
+        "name": "Lifeissoeasy",
+        "pinned_tweet_id": "1884185532940575206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905633432518197248/KEvXjgAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 39,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 3963
+        },
+        "url": "",
+        "username": "LaczScotty77515",
+        "verified": false
+      }
+    ]
+  }
+}

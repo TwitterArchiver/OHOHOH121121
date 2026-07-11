@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2045387944865972399",
+    "created_at": "2026-04-19T01:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T02:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045675630717759693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015379140250095616",
+          "start": 0,
+          "username": "kirmizimaviie"
+        },
+        {
+          "end": 25,
+          "id": "1886071240789807104",
+          "start": 15,
+          "username": "fumin__10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045675630717759693",
+    "in_reply_to_user_id": "2015379140250095616",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045555634624503967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirmizimaviie @fumin__10 Evet, desvenlafaksin kullanıyorum."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2045387944865972399",
+        "created_at": "2026-04-19T01:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T02:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045675630717759693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015379140250095616",
+              "start": 0,
+              "username": "kirmizimaviie"
+            },
+            {
+              "end": 25,
+              "id": "1886071240789807104",
+              "start": 15,
+              "username": "fumin__10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045675630717759693",
+        "in_reply_to_user_id": "2015379140250095616",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045555634624503967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirmizimaviie @fumin__10 Evet, desvenlafaksin kullanıyorum."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015379140250095616",
+        "conversation_id": "2045387944865972399",
+        "created_at": "2026-04-18T17:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045555634624503967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 24,
+              "id": "1886071240789807104",
+              "start": 14,
+              "username": "fumin__10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045555634624503967",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045527946501521760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @fumin__10 ilac olarak bir sey kullaniyor musun"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.跌摩托批发市场（AAA.転倒バイク卸売所）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 494,
+          "like_count": 2895,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 470
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T11:00:21.000Z",
+        "description": "",
+        "id": "2015379140250095616",
+        "name": "concertabulamiyorum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035345150881497088/3DRsF1lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 554
+        },
+        "username": "kirmizimaviie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T15:16:55.000Z",
+        "description": "鍵@fumin_ee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 1,
+                "username": "fumin_ee"
+              }
+            ]
+          }
+        },
+        "id": "1886071240789807104",
+        "name": "ふみん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026315145895636992/oa7HvqKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 148,
+          "like_count": 31709,
+          "listed_count": 12,
+          "media_count": 90,
+          "tweet_count": 2307
+        },
+        "username": "fumin__10",
+        "verified": false
+      }
+    ]
+  }
+}

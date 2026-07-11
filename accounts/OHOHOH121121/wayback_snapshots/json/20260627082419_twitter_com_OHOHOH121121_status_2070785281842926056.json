@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070785225651814400"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2070785281842926056",
+    "created_at": "2026-06-27T08:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070785281842926056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HfDBsXxnVh",
+          "end": 34,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2070785281842926056/video/1",
+          "media_key": "13_2070785225651814400",
+          "start": 11,
+          "url": "https://t.co/HfDBsXxnVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070785281842926056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "努力保持低皮质醇中。 https://t.co/HfDBsXxnVh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15580,
+        "height": 1024,
+        "media_key": "13_2070785225651814400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070785225651814400/img/-IGp786eN5li5_8G.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070785225651814400/vid/avc1/320x568/K1HHBAHbwe0pHV8-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070785225651814400/vid/avc1/480x852/mK9yYKEVgEwKgvGr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070785225651814400/vid/avc1/576x1024/mQ1yWDE-teyJhwQQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070785225651814400/pl/OG3Ktdq7ukyVh44V.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070785225651814400"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2070785281842926056",
+        "created_at": "2026-06-27T08:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070785281842926056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfDBsXxnVh",
+              "end": 34,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2070785281842926056/video/1",
+              "media_key": "13_2070785225651814400",
+              "start": 11,
+              "url": "https://t.co/HfDBsXxnVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070785281842926056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "努力保持低皮质醇中。 https://t.co/HfDBsXxnVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 878,
+          "like_count": 5456,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 1422
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

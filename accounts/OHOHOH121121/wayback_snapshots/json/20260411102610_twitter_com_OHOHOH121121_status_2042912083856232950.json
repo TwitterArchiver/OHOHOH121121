@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042893692898545836",
+    "created_at": "2026-04-11T10:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042912083856232950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1861074016787988480",
+          "start": 0,
+          "username": "Ww998_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042912083856232950",
+    "in_reply_to_user_id": "1861074016787988480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042893692898545836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ww998_ 要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042893692898545836",
+        "created_at": "2026-04-11T10:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042912083856232950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1861074016787988480",
+              "start": 0,
+              "username": "Ww998_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912083856232950",
+        "in_reply_to_user_id": "1861074016787988480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042893692898545836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ww998_ 要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861074016787988480",
+        "conversation_id": "2042893692898545836",
+        "created_at": "2026-04-11T09:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042893692898545836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042893692898545836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 993,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想跟我一起用xchat的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 276,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 184
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T15:46:49.000Z",
+        "description": "@BelikeOOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "BelikeOOO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/f15126",
+                "end": 23,
+                "expanded_url": "https://ngl.link/f15126",
+                "start": 0,
+                "url": "https://t.co/lKCfMmHsgy"
+              }
+            ]
+          }
+        },
+        "id": "1861074016787988480",
+        "name": "f for fulfilment",
+        "pinned_tweet_id": "2002411575106486443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910370328389574657/35y-rzDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 2,
+          "like_count": 2450,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 4051
+        },
+        "url": "https://t.co/lKCfMmHsgy",
+        "username": "Ww998_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2051948891969667576",
+    "created_at": "2026-05-06T15:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052041873947230473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2029031867601829888",
+          "start": 0,
+          "username": "Wu5fwc"
+        },
+        {
+          "end": 21,
+          "id": "1687876238474629120",
+          "start": 8,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052041873947230473",
+    "in_reply_to_user_id": "2029031867601829888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051948891969667576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wu5fwc @AgNo3_xq0719 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-06T15:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052041873947230473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2029031867601829888",
+              "start": 0,
+              "username": "Wu5fwc"
+            },
+            {
+              "end": 21,
+              "id": "1687876238474629120",
+              "start": 8,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052041873947230473",
+        "in_reply_to_user_id": "2029031867601829888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051948891969667576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wu5fwc @AgNo3_xq0719 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029031867601829888",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-06T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051948891969667576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051948891969667576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2178,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "40粉fo：\n1:白兔一盒（折现80）\n2:自选一盒药（折现60）\n3:巧克力（折现50）\n4:转盘两次（最大40）\n5:小礼物（折现30）\n\n安慰奖2（折现各20）\n时限5.6——5.10\n\n私信扣1参加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "AAA.飞蛾批发商（AAA.蛾の卸売業者だわ）",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 702,
+          "like_count": 4141,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 919
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T03:12:47.000Z",
+        "description": "| 中文中國🇨🇳 | 19+｜Transformers | Negative Emotions | My Girlfriend |#shtwt｜我很有钱！嗯！来找我互fofo吧喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2029031867601829888",
+        "name": "我需要更多pr（互fo",
+        "pinned_tweet_id": "2044685713304912265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051953924408807424/Hw8z5VyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 187,
+          "like_count": 1991,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 160
+        },
+        "username": "Wu5fwc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "pinned_tweet_id": "2051206545862791329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 243,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 78
+        },
+        "username": "AgNo3_xq0719",
+        "verified": false
+      }
+    ]
+  }
+}

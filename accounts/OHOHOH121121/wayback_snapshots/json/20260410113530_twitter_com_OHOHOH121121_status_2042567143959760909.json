@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042567140780515328"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042567143959760909",
+    "created_at": "2026-04-10T11:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042567143959760909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vO8eqMNS8R",
+          "end": 153,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2042567143959760909/photo/1",
+          "media_key": "3_2042567140780515328",
+          "start": 130,
+          "url": "https://t.co/vO8eqMNS8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042567143959760909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不od和自残（出血那种）一种是因为我极度怕疼（从小到大被打到怕了）再加上父母看的很严和超级容易成瘾🫠🫠\n之前我和弟弟玩牌的时候（赌博,但是不赌钱）才那么一个星期就已经控制不下来了，直到他不陪我玩我才戒掉的.....（绝望）\n我已经有性瘾和心理依赖（风油）了 https://t.co/vO8eqMNS8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042567140780515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFin_hgboAAk8hc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042567140780515328"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042567143959760909",
+        "created_at": "2026-04-10T11:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042567143959760909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vO8eqMNS8R",
+              "end": 153,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042567143959760909/photo/1",
+              "media_key": "3_2042567140780515328",
+              "start": 130,
+              "url": "https://t.co/vO8eqMNS8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042567143959760909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不od和自残（出血那种）一种是因为我极度怕疼（从小到大被打到怕了）再加上父母看的很严和超级容易成瘾🫠🫠\n之前我和弟弟玩牌的时候（赌博,但是不赌钱）才那么一个星期就已经控制不下来了，直到他不陪我玩我才戒掉的.....（绝望）\n我已经有性瘾和心理依赖（风油）了 https://t.co/vO8eqMNS8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 112,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 69
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}
