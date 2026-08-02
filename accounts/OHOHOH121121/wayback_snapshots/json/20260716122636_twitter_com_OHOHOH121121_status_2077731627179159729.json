@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2077716360545869893",
+    "created_at": "2026-07-16T12:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077731627179159729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043490158616727552",
+          "start": 0,
+          "username": "shiawaserui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077731627179159729",
+    "in_reply_to_user_id": "2043490158616727552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077731244889329895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiawaserui 能不能把黏糊糊恶心到透顶的通道换掉。还有就是能不能也给我一个小世界！😋😋（安枫）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2077716360545869893",
+        "created_at": "2026-07-16T12:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077731627179159729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043490158616727552",
+              "start": 0,
+              "username": "shiawaserui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077731627179159729",
+        "in_reply_to_user_id": "2043490158616727552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077731244889329895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaserui 能不能把黏糊糊恶心到透顶的通道换掉。还有就是能不能也给我一个小世界！😋😋（安枫）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043490158616727552",
+        "conversation_id": "2077716360545869893",
+        "created_at": "2026-07-16T12:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077731244889329895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077731244889329895",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077716360545869893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 如果可以想知道33 (´o̴̶̷̤ ⩊ o̴̶̷̤`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 952,
+          "like_count": 6484,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 1717
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T00:44:01.000Z",
+        "description": "",
+        "id": "2043490158616727552",
+        "name": "骸",
+        "pinned_tweet_id": "2077677420505948325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077376181301661696/ufQRjw-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "shiawaserui",
+        "verified": false
+      }
+    ]
+  }
+}

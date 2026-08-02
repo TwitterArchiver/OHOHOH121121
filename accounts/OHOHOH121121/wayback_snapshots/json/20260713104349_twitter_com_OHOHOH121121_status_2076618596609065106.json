@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2076618596609065106",
+    "created_at": "2026-07-13T10:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076618596609065106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727727485704675328",
+          "start": 3,
+          "username": "doki00614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076618596609065106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075863944720482450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doki00614: 泥嚎，这是一个新自介简洁版\n可以叫我晓晓，05，无性恋，简繁英ok，目前在休学，生活困难，身体状态不详，ed od，本人有精神病，会发很多负能，喜欢漂染 穿孔 纹身 割 抽烟 gloomy，穿衣风格较多样，目前不会常发雪兔和疤痕我害怕，已经被冻好几…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2075863942052929536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7zQcQbYAAxzAk.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2076618596609065106",
+        "created_at": "2026-07-13T10:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076618596609065106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727727485704675328",
+              "start": 3,
+              "username": "doki00614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076618596609065106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075863944720482450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doki00614: 泥嚎，这是一个新自介简洁版\n可以叫我晓晓，05，无性恋，简繁英ok，目前在休学，生活困难，身体状态不详，ed od，本人有精神病，会发很多负能，喜欢漂染 穿孔 纹身 割 抽烟 gloomy，穿衣风格较多样，目前不会常发雪兔和疤痕我害怕，已经被冻好几…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075863942052929536"
+          ]
+        },
+        "author_id": "1727727485704675328",
+        "conversation_id": "2075863944720482450",
+        "created_at": "2026-07-11T08:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075863944720482450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eb4bJ8gRmS",
+              "end": 173,
+              "expanded_url": "https://x.com/doki00614/status/2075863944720482450/photo/1",
+              "media_key": "3_2075863942052929536",
+              "start": 150,
+              "url": "https://t.co/Eb4bJ8gRmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075863944720482450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎，这是一个新自介简洁版\n可以叫我晓晓，05，无性恋，简繁英ok，目前在休学，生活困难，身体状态不详，ed od，本人有精神病，会发很多负能，喜欢漂染 穿孔 纹身 割 抽烟 gloomy，穿衣风格较多样，目前不会常发雪兔和疤痕我害怕，已经被冻好几次了\n可互fo互转（不嫌我负能太多的话🥺）微查成分 https://t.co/Eb4bJ8gRmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 923,
+          "like_count": 5981,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 1612
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T16:35:16.000Z",
+        "description": "重生第二世…\n可以叫我晓晓，目前休学中，已成年，比较社恐但还是很期待友好的沟通…(ᐢᴖ ·̫ ᴖᐢ)\n举报全家变仁彘肠子拖出来勒似",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiao9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiao9",
+                "start": 0,
+                "url": "https://t.co/SfwjU1SFHV"
+              }
+            ]
+          }
+        },
+        "id": "1727727485704675328",
+        "location": "none",
+        "name": "紫月晓",
+        "pinned_tweet_id": "2075863944720482450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054413101773246464/uUt_MEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 99,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/SfwjU1SFHV",
+        "username": "doki00614",
+        "verified": false
+      }
+    ]
+  }
+}

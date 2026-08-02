@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082773994273698162",
+    "created_at": "2026-07-30T14:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082841178635108571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1409071214954389504",
+          "start": 0,
+          "username": "TKongtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082841178635108571",
+    "in_reply_to_user_id": "1409071214954389504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082839882209370265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKongtou 啊啊啊是这样....我之前吃哌甲酯的时候就是神经过度活跃兴奋这些等等了，然后就停药了。\n我的神经可能对于ssri的药物不敏感吧....所以医生直接给我换成snri药物，害。之前吃了反而情绪一个都没有了。现在的药物反而有情绪并且有能力面对生活（大概？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082773994273698162",
+        "created_at": "2026-07-30T14:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082841178635108571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1409071214954389504",
+              "start": 0,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082841178635108571",
+        "in_reply_to_user_id": "1409071214954389504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082839882209370265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKongtou 啊啊啊是这样....我之前吃哌甲酯的时候就是神经过度活跃兴奋这些等等了，然后就停药了。\n我的神经可能对于ssri的药物不敏感吧....所以医生直接给我换成snri药物，害。之前吃了反而情绪一个都没有了。现在的药物反而有情绪并且有能力面对生活（大概？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409071214954389504",
+        "conversation_id": "2082773994273698162",
+        "created_at": "2026-07-30T14:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082839882209370265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082839882209370265",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082838485724184969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 ！ 我没吃那么多 我也不是没法高潮但是我现在感觉我专注达和ssri同吃会 呃又快又不爽。。。我是男性 嗯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 1002,
+          "like_count": 7805,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1990
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T08:48:58.000Z",
+        "description": "INTP ‖ MC builder ‖ 我是某种互联网底栖生物 ‖ 人工智能 ‖ 计算机视觉\nwe live in a twilight world,and there are no friends at dusk.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tkongtou1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tkongtou1",
+                "start": 0,
+                "url": "https://t.co/JoVJ47SdAY"
+              }
+            ]
+          }
+        },
+        "id": "1409071214954389504",
+        "location": "底特律 我正在努力变人",
+        "name": "kongtou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039951996195942400/LlQ9yjEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 901,
+          "like_count": 83833,
+          "listed_count": 4,
+          "media_count": 1042,
+          "tweet_count": 21709
+        },
+        "url": "https://t.co/JoVJ47SdAY",
+        "username": "TKongtou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2079452864917979280",
+    "created_at": "2026-07-21T08:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079486580314825022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Texiuszhichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079486580314825022",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079452864917979280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Texiuszhichuan mimimi我是Ng Sychyn。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2079452864917979280",
+        "created_at": "2026-07-21T08:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079486580314825022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiuszhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079486580314825022",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079452864917979280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiuszhichuan mimimi我是Ng Sychyn。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2079452864917979280",
+        "created_at": "2026-07-21T06:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079452864917979280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @Texiusizhichuan right away.",
+              "display_url": "t.me/Texiusizhichuan",
+              "end": 81,
+              "expanded_url": "https://t.me/Texiusizhichuan",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2079452866268532736/VlmZz5_M?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079452866268532736/VlmZz5_M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "忒修斯之船",
+              "unwound_url": "https://t.me/Texiusizhichuan",
+              "url": "https://t.co/y123rvoFdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079452864917979280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 651,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，建了个telegram的群，和我互关的来吧，我会审核的，最好把你的昵称搞成和推特一样，搜不到我都不通过了\n\nhttps://t.co/y123rvoFdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 973,
+          "like_count": 6906,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1818
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 365,
+          "like_count": 22636,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

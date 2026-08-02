@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082808946952372589",
+    "created_at": "2026-07-31T05:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083059519471693878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491630454730293248",
+          "start": 0,
+          "username": "yalishandayiwa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083059519471693878",
+    "in_reply_to_user_id": "1491630454730293248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083059323404718408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yalishandayiwa1 支持。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2083059315477467136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiDaTEaUAAxWB8.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082808946952372589",
+        "created_at": "2026-07-31T05:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083059519471693878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491630454730293248",
+              "start": 0,
+              "username": "yalishandayiwa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083059519471693878",
+        "in_reply_to_user_id": "1491630454730293248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083059323404718408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yalishandayiwa1 支持。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083059315477467136"
+          ]
+        },
+        "author_id": "1491630454730293248",
+        "conversation_id": "2082808946952372589",
+        "created_at": "2026-07-31T05:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083059323404718408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPX38DqN75",
+              "end": 49,
+              "expanded_url": "https://x.com/yalishandayiwa1/status/2083059323404718408/photo/1",
+              "media_key": "3_2083059315477467136",
+              "start": 26,
+              "url": "https://t.co/qPX38DqN75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083059323404718408",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082808946952372589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 那些脑残同学是需要这个 https://t.co/qPX38DqN75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 1004,
+          "like_count": 7873,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:02.000Z",
+        "description": "单亲父亲家有女儿\n超级杂食来这里只是看喜欢看的东西和回复有意思的。请互相尊重 生理男心理男异性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yalishandayiwa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yalishandayiwa1",
+                "start": 0,
+                "url": "https://t.co/OEApHneRdu"
+              }
+            ]
+          }
+        },
+        "id": "1491630454730293248",
+        "location": "苏丹后宫",
+        "name": "树莓鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025655970349871104/v2373Lp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 300,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/OEApHneRdu",
+        "username": "yalishandayiwa1",
+        "verified": false
+      }
+    ]
+  }
+}

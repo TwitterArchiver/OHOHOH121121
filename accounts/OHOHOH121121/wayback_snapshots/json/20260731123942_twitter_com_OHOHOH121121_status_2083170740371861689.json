@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2083169585403170931",
+    "created_at": "2026-07-31T12:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083170740371861689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083170740371861689",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083169585403170931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果非要去比较痛苦的话，这样的话感觉就很悲哀。\n因为什么都要卷，学习，天赋，成就等等都在卷着，如果还要去比较痛苦并且去比较我是否是痛苦的，我不配痛苦的话。\n痛苦存在有什么意义，因为连这东西也要去卷。（东亚人通病）（暴言）\n-----初澜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2083169566025453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjnruXaEAAiWKQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2083169575253032960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjnsQvbwAA7ADA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2083169585403170931",
+        "created_at": "2026-07-31T12:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083170740371861689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083170740371861689",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083169585403170931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果非要去比较痛苦的话，这样的话感觉就很悲哀。\n因为什么都要卷，学习，天赋，成就等等都在卷着，如果还要去比较痛苦并且去比较我是否是痛苦的，我不配痛苦的话。\n痛苦存在有什么意义，因为连这东西也要去卷。（东亚人通病）（暴言）\n-----初澜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083169566025453568",
+            "3_2083169575253032960"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2083169585403170931",
+        "created_at": "2026-07-31T12:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083169585403170931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vunxLcNpRG",
+              "end": 161,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2083169585403170931/photo/1",
+              "media_key": "3_2083169566025453568",
+              "start": 138,
+              "url": "https://t.co/vunxLcNpRG"
+            },
+            {
+              "display_url": "pic.x.com/vunxLcNpRG",
+              "end": 161,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2083169585403170931/photo/1",
+              "media_key": "3_2083169575253032960",
+              "start": 138,
+              "url": "https://t.co/vunxLcNpRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083169585403170931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个评论很赞同他所说的。\n就比如现在的人一直去比较自己惨不惨，割的深不深来评价那人是否是真的痛苦。\n但是，痛苦是量身定制的砝码，人人都有自己的秤\n所以与其去纠结自己是否是惨的还是痛苦的，不如坦然的接受自己吧！\n虽然我也是在这里面挣扎就是了。（当然初澜也是）\n----安枫 https://t.co/vunxLcNpRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 999,
+          "like_count": 7920,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2022
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

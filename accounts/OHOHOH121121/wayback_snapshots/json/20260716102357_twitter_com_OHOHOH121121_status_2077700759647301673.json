@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077700754018881536"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2077700759647301673",
+    "created_at": "2026-07-16T10:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077700759647301673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g6QcsHhHBc",
+          "end": 44,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2077700759647301673/photo/1",
+          "media_key": "3_2077700754018881536",
+          "start": 21,
+          "url": "https://t.co/g6QcsHhHBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077700759647301673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "希望我们都是这个结局。\n-----安枫。 https://t.co/g6QcsHhHBc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2077700754018881536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV50-DbUAAr4aZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077700754018881536"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2077700759647301673",
+        "created_at": "2026-07-16T10:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077700759647301673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6QcsHhHBc",
+              "end": 44,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2077700759647301673/photo/1",
+              "media_key": "3_2077700754018881536",
+              "start": 21,
+              "url": "https://t.co/g6QcsHhHBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077700759647301673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望我们都是这个结局。\n-----安枫。 https://t.co/g6QcsHhHBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 946,
+          "like_count": 6434,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

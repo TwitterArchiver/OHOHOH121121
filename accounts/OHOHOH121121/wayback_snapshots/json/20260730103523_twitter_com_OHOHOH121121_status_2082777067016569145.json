@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082777067016569145",
+    "created_at": "2026-07-30T10:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082777067016569145"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082777067016569145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我需要和医生说能不能给我开安非他铜吗。\n我在严肃思考，这个药物联合我吃的药物能有效逆转性高潮障碍。（听ai说）\n算了我感觉跟医生说特别尴尬啊再加上我看的是青少年精神科更加尴尬了。（绝望）\n为什么不减量是因为情绪和躯体化在加量后大幅度降低啊（严肃）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082777067016569145",
+        "created_at": "2026-07-30T10:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082777067016569145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082777067016569145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要和医生说能不能给我开安非他铜吗。\n我在严肃思考，这个药物联合我吃的药物能有效逆转性高潮障碍。（听ai说）\n算了我感觉跟医生说特别尴尬啊再加上我看的是青少年精神科更加尴尬了。（绝望）\n为什么不减量是因为情绪和躯体化在加量后大幅度降低啊（严肃）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1001,
+          "like_count": 7736,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1969
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

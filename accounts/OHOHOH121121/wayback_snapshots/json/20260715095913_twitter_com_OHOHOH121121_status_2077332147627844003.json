@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2077332147627844003",
+    "created_at": "2026-07-15T09:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077332147627844003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2076519797408559104",
+          "start": 3,
+          "username": "magicnekoQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077332147627844003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077319623138271560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magicnekoQwQ: 好想变成80岁老头老太太啊我就到处做没素质的事情骂街占小便宜在地上打滚谁敢靠近我我就讹死他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2077332147627844003",
+        "created_at": "2026-07-15T09:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077332147627844003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2076519797408559104",
+              "start": 3,
+              "username": "magicnekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077332147627844003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077319623138271560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magicnekoQwQ: 好想变成80岁老头老太太啊我就到处做没素质的事情骂街占小便宜在地上打滚谁敢靠近我我就讹死他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076519797408559104",
+        "conversation_id": "2077319623138271560",
+        "created_at": "2026-07-15T09:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077319623138271560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077319623138271560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想变成80岁老头老太太啊我就到处做没素质的事情骂街占小便宜在地上打滚谁敢靠近我我就讹死他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 946,
+          "like_count": 6356,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 1678
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T04:11:59.000Z",
+        "description": "リアルのお姫様｜少女主義と大森靖子\n🚪144",
+        "id": "2076519797408559104",
+        "location": "揺れる心を支えてくれた",
+        "name": "ひめにゃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076520305171001344/jLg0YVqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 36,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "magicnekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

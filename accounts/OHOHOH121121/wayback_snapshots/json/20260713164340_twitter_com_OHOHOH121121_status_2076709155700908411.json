@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076709141587075072",
+        "3_2076709150638370816"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2076709155700908411",
+    "created_at": "2026-07-13T16:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076709155700908411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/diNMXPYwiW",
+          "end": 47,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2076709155700908411/photo/1",
+          "media_key": "3_2076709141587075072",
+          "start": 24,
+          "url": "https://t.co/diNMXPYwiW"
+        },
+        {
+          "display_url": "pic.x.com/diNMXPYwiW",
+          "end": 47,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2076709155700908411/photo/1",
+          "media_key": "3_2076709150638370816",
+          "start": 24,
+          "url": "https://t.co/diNMXPYwiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076709155700908411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体外记忆6,温灵的记忆。\n日语翻译请看alt。 https://t.co/diNMXPYwiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "私は温霊（ウェンリン）。アジェンダー（無性別主義者）だけど、身体の性は男性。他のメンバーたちのように死んでから突然ここに来たわけじゃなくて、長女（シア）と同じように、放浪の末にここに辿り着いたんだ。私の記憶の中では、家族との関係は冷え切っていて、現実の言葉を借りるなら、「ネグレクト（軽視・無視）」という言葉が私たち家族の関係を表すのに一番しっくりくる。なんて言えばいいのかな、私はエルフ族なんだけど、私たちの部族はネットで言われているような「性別の境界が曖昧な種族」なんかじゃなくて、むしろ性別への意識がものすごく強いんだ。端的に言うと、「男らしさの教育」や「女の子らしさの教育」といった観念がしっかりと存在するような場所だった。うーん……🤔🤔 実は、自分の記憶を完璧に書き起こすのはちょっと難しいんだよね。なぜなら、私の記憶のほとんどは断片化（碎片化）しているから。きっと晴（ハル）が言う通り、私は現実世界に本当に存在していた人間ではないからこそ、完全な人生の経験や記憶を持つことができないのかもしれない。今でも比較的はっきりと覚えているのは、彼らが勝手に決めた伴侶とのペアリングに私が猛反対して、怒りのあまり「自分の性自認は無性別（アジェンダー）だ」と言い放って家を飛び出した（家出と言えるかは分からないけれど）こと。そうして私は放浪の旅に出て、その後、生命力に満ちあふれた大草原（今のリラックススペース）に辿り着いた。そこで晴と向日葵（ヒマワリ）に見つけられて、メンバーの一員になったんだ。（今になって振り返ると、メンバーになった過程がめちゃくちゃあっさりしてるな、って気づいちゃった。）🤔私の記憶についての記述は、ひとまずここまで。",
+        "height": 2048,
+        "media_key": "3_2076709141587075072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHz9h4aoAAnPEY.jpg",
+        "width": 921
+      },
+      {
+        "height": 495,
+        "media_key": "3_2076709150638370816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHz-DmacAACyo8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076709141587075072",
+            "3_2076709150638370816"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2076709155700908411",
+        "created_at": "2026-07-13T16:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076709155700908411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diNMXPYwiW",
+              "end": 47,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2076709155700908411/photo/1",
+              "media_key": "3_2076709141587075072",
+              "start": 24,
+              "url": "https://t.co/diNMXPYwiW"
+            },
+            {
+              "display_url": "pic.x.com/diNMXPYwiW",
+              "end": 47,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2076709155700908411/photo/1",
+              "media_key": "3_2076709150638370816",
+              "start": 24,
+              "url": "https://t.co/diNMXPYwiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076709155700908411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体外记忆6,温灵的记忆。\n日语翻译请看alt。 https://t.co/diNMXPYwiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 936,
+          "like_count": 6118,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

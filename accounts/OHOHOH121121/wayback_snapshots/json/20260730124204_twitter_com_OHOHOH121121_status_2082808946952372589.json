@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082808946952372589",
+    "created_at": "2026-07-30T12:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082808946952372589"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082808946952372589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校的男生有点恶心。今天有两节没有上课我跑去别班找朋友没有找到就和他们聊天。\n然后说到择偶需求，他们是傻白甜还要孝顺公婆等等封建东西。\n然后他们问道我的择偶标准的时候我就说我对恋爱不太感兴趣并且觉得有点恶心。在此之前他们说我们女生择偶标准是高富帅😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082808946952372589",
+        "created_at": "2026-07-30T12:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082808946952372589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082808946952372589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校的男生有点恶心。今天有两节没有上课我跑去别班找朋友没有找到就和他们聊天。\n然后说到择偶需求，他们是傻白甜还要孝顺公婆等等封建东西。\n然后他们问道我的择偶标准的时候我就说我对恋爱不太感兴趣并且觉得有点恶心。在此之前他们说我们女生择偶标准是高富帅😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1000,
+          "like_count": 7772,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

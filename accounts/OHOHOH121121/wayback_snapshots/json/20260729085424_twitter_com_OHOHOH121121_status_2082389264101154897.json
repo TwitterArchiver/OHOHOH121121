@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082005737665118469",
+    "created_at": "2026-07-29T08:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082389264101154897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082389264101154897",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082005737665118469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 我靠啊我想约但是没有中国的支付软件和钱！可恶😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082005718757244929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTFK5bbgAEmArb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082005718740402176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTFK5XagAAxrCX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082005718740430848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTFK5Xa8AAjjyQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082005718744670208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTFK5YboAAFWuA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082005737665118469",
+        "created_at": "2026-07-29T08:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082389264101154897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082389264101154897",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082005737665118469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 我靠啊我想约但是没有中国的支付软件和钱！可恶😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082005718757244929",
+            "3_2082005718740402176",
+            "3_2082005718740430848",
+            "3_2082005718744670208"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2082005737665118469",
+        "created_at": "2026-07-28T07:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082005737665118469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkbPvUoTIx",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2082005737665118469/photo/1",
+              "media_key": "3_2082005718757244929",
+              "start": 9,
+              "url": "https://t.co/pkbPvUoTIx"
+            },
+            {
+              "display_url": "pic.x.com/pkbPvUoTIx",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2082005737665118469/photo/1",
+              "media_key": "3_2082005718740402176",
+              "start": 9,
+              "url": "https://t.co/pkbPvUoTIx"
+            },
+            {
+              "display_url": "pic.x.com/pkbPvUoTIx",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2082005737665118469/photo/1",
+              "media_key": "3_2082005718740430848",
+              "start": 9,
+              "url": "https://t.co/pkbPvUoTIx"
+            },
+            {
+              "display_url": "pic.x.com/pkbPvUoTIx",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2082005737665118469/photo/1",
+              "media_key": "3_2082005718744670208",
+              "start": 9,
+              "url": "https://t.co/pkbPvUoTIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082005737665118469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "9.9一个谁想约 https://t.co/pkbPvUoTIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1000,
+          "like_count": 7729,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 1951
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://t.co/Dhfap4dheT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 68,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 45,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 1146,
+          "like_count": 7162,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 7482
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

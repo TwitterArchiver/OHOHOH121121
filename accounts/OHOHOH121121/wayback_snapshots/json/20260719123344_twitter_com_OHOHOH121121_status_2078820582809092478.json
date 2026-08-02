@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2078174352324100607",
+    "created_at": "2026-07-19T12:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078820582809092478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999093294547271680",
+          "start": 0,
+          "username": "g_gfu31770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078820582809092478",
+    "in_reply_to_user_id": "1999093294547271680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078792721674944827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g_gfu31770 都是姓黄hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2078174352324100607",
+        "created_at": "2026-07-19T12:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078820582809092478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999093294547271680",
+              "start": 0,
+              "username": "g_gfu31770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078820582809092478",
+        "in_reply_to_user_id": "1999093294547271680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078792721674944827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g_gfu31770 都是姓黄hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999093294547271680",
+        "conversation_id": "2078174352324100607",
+        "created_at": "2026-07-19T10:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078792721674944827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078792721674944827",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078174352324100607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 这和我朋友英文姓一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 965,
+          "like_count": 6808,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1778
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T12:26:09.000Z",
+        "description": "男，性取向女🇲🇾(微S倾向)自学/ 绳艺，重点在安全、信任与束缚感体验（折磨）。想找同样有兴趣、女生朋友一起练习基本绑\n\n 绑绳/ 绳缚 / 束缚 / 绑法 / 练习绳/ 来实践",
+        "id": "1999093294547271680",
+        "name": "无奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037225848613605376/cKZ0JUeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 194,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "g_gfu31770",
+        "verified": false
+      }
+    ]
+  }
+}

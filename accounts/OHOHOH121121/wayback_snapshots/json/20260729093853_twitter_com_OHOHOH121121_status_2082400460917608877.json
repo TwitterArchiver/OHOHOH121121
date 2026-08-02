@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082400454449995776"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082400460917608877",
+    "created_at": "2026-07-29T09:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082400460917608877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RDHz5kVQV3",
+          "end": 42,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2082400460917608877/photo/1",
+          "media_key": "3_2082400454449995776",
+          "start": 19,
+          "url": "https://t.co/RDHz5kVQV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082400460917608877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看完「我杀了他」我表情belike： https://t.co/RDHz5kVQV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082400454449995776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYsLieaoAATqp-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082400454449995776"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082400460917608877",
+        "created_at": "2026-07-29T09:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082400460917608877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDHz5kVQV3",
+              "end": 42,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2082400460917608877/photo/1",
+              "media_key": "3_2082400454449995776",
+              "start": 19,
+              "url": "https://t.co/RDHz5kVQV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082400460917608877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完「我杀了他」我表情belike： https://t.co/RDHz5kVQV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1000,
+          "like_count": 7743,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

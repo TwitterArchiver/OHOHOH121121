@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2078154723593744688",
+    "created_at": "2026-07-17T16:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078154723593744688"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078154723593744688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在思考，还有什么书籍是心理自助类的，并且有哪些心理治疗师擅长解离和创伤这方面的，目前在马来西亚好像都蛮难找到针对这种类型的治疗师。\n可以的话我希望能够申请到残疾证（oku证），因为目前的精神状况感觉很难去工作，头疼。\n--初澜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2078154723593744688",
+        "created_at": "2026-07-17T16:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078154723593744688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078154723593744688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在思考，还有什么书籍是心理自助类的，并且有哪些心理治疗师擅长解离和创伤这方面的，目前在马来西亚好像都蛮难找到针对这种类型的治疗师。\n可以的话我希望能够申请到残疾证（oku证），因为目前的精神状况感觉很难去工作，头疼。\n--初澜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 959,
+          "like_count": 6591,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1745
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

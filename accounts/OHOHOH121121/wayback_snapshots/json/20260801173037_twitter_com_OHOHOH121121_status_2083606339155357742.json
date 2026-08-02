@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2083142704410530188",
+    "created_at": "2026-08-01T17:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083606339155357742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034495697530347521",
+          "start": 0,
+          "username": "ggnn1233926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083606339155357742",
+    "in_reply_to_user_id": "2034495697530347521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083605571983532540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggnn1233926 对....🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2083142704410530188",
+        "created_at": "2026-08-01T17:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083606339155357742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034495697530347521",
+              "start": 0,
+              "username": "ggnn1233926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083606339155357742",
+        "in_reply_to_user_id": "2034495697530347521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083605571983532540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggnn1233926 对....🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034495697530347521",
+        "conversation_id": "2083142704410530188",
+        "created_at": "2026-08-01T17:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083605571983532540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083605571983532540",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083142704410530188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 这个好吃炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 1005,
+          "like_count": 8120,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T05:04:34.000Z",
+        "description": "雪村林檎/Наталья，可以称呼我糖苹果｜個人號｜Plurality｜发泄用。本人有严重的解离障碍和精神障碍情绪很容易不稳定｜支持互fo｜健全b和骚扰b勿扰\nQpr：@creamsconeee 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "creamsconeee"
+              }
+            ]
+          }
+        },
+        "id": "2034495697530347521",
+        "name": "雪村りんご🍎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083602513497042944/KLUzgB05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "ggnn1233926",
+        "verified": false
+      }
+    ]
+  }
+}

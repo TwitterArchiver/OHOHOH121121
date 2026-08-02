@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2076618458599764079",
+    "created_at": "2026-07-13T10:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076618458599764079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1658373974647259137",
+          "start": 3,
+          "username": "MaoWuYaoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076618458599764079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076562861653135848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaoWuYaoQWQ: 🩶🐾赛博小巫驾到ᗜ𖥦ᗜ🐾\n🖤 我是貓巫咬.是恶魔三世.可以叫我電子貓/小巫\n🐾打游戏|绘画|拍照|重度网瘾|oc|自设.\n🖤线下查无此魔.\n🐾od｜自伤｜颜控｜泛性恋｜欢迎入🚪\n🖤全职家里蹲.画稿/收门槛赚生活费_(√ ζ ε:)\n🐾۩愿恶魔三…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076562852761210880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFu6ZiakAAQrcW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076562852744409088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFu6ZeaMAARQ0V.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076562852790571008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFu6ZpakAAGcLM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2076618458599764079",
+        "created_at": "2026-07-13T10:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076618458599764079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658373974647259137",
+              "start": 3,
+              "username": "MaoWuYaoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076618458599764079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076562861653135848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaoWuYaoQWQ: 🩶🐾赛博小巫驾到ᗜ𖥦ᗜ🐾\n🖤 我是貓巫咬.是恶魔三世.可以叫我電子貓/小巫\n🐾打游戏|绘画|拍照|重度网瘾|oc|自设.\n🖤线下查无此魔.\n🐾od｜自伤｜颜控｜泛性恋｜欢迎入🚪\n🖤全职家里蹲.画稿/收门槛赚生活费_(√ ζ ε:)\n🐾۩愿恶魔三…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076562852761210880",
+            "3_2076562852744409088",
+            "3_2076562852790571008"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2076562861653135848",
+        "created_at": "2026-07-13T07:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076562861653135848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "地雷系"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "互fo"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "纯绿"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "陪玩"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "互转"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "一日女友"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "互转"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufh3NB9CuS",
+              "end": 189,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2076562861653135848/photo/1",
+              "media_key": "3_2076562852761210880",
+              "start": 166,
+              "url": "https://t.co/ufh3NB9CuS"
+            },
+            {
+              "display_url": "pic.x.com/ufh3NB9CuS",
+              "end": 189,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2076562861653135848/photo/1",
+              "media_key": "3_2076562852744409088",
+              "start": 166,
+              "url": "https://t.co/ufh3NB9CuS"
+            },
+            {
+              "display_url": "pic.x.com/ufh3NB9CuS",
+              "end": 189,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2076562861653135848/photo/1",
+              "media_key": "3_2076562852790571008",
+              "start": 166,
+              "url": "https://t.co/ufh3NB9CuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076562861653135848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🩶🐾赛博小巫驾到ᗜ𖥦ᗜ🐾\n🖤 我是貓巫咬.是恶魔三世.可以叫我電子貓/小巫\n🐾打游戏|绘画|拍照|重度网瘾|oc|自设.\n🖤线下查无此魔.\n🐾od｜自伤｜颜控｜泛性恋｜欢迎入🚪\n🖤全职家里蹲.画稿/收门槛赚生活费_(√ ζ ε:)\n🐾۩愿恶魔三世与你同在۩\n#地雷系 #互fo #门槛妹 #纯绿 #陪玩 #互转 #一日女友 #互转 https://t.co/ufh3NB9CuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 922,
+          "like_count": 5980,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.请叫我小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜门槛纯陪聊赚零花钱不搞颜色",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2076562861653135848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076563706037805056/nP2Rt8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 85,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

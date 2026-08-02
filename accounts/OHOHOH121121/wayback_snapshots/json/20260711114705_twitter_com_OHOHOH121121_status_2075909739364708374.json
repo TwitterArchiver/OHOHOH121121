@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2075580288688701946",
+    "created_at": "2026-07-11T11:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075909739364708374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044567923130298369",
+          "start": 0,
+          "username": "MintOwOill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075909739364708374",
+    "in_reply_to_user_id": "2044567923130298369",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075580288688701946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MintOwOill 9494"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2075580288688701946",
+        "created_at": "2026-07-11T11:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075909739364708374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044567923130298369",
+              "start": 0,
+              "username": "MintOwOill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075909739364708374",
+        "in_reply_to_user_id": "2044567923130298369",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075580288688701946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MintOwOill 9494"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044567923130298369",
+        "conversation_id": "2075580288688701946",
+        "created_at": "2026-07-10T13:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075580288688701946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075580288688701946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 24048,
+          "like_count": 883,
+          "quote_count": 0,
+          "reply_count": 114,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "一群蠢货 对女性身材要求极高 不能有赘肉必须大胸大屁股 看看你们充满油脂的肚子和猪脸再来指手画脚吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 916,
+          "like_count": 5857,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T00:06:44.000Z",
+        "description": "备用号 乱发负能 \n🚪52/88/188\n大号营业指路@Mint0v033\n谢谢(^ ^)你们的观看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Mint0v033"
+              }
+            ]
+          }
+        },
+        "id": "2044567923130298369",
+        "location": "不约不线下不视频",
+        "name": "薄荷",
+        "pinned_tweet_id": "2065729559010435387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059072339082403840/WUTugqZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 7,
+          "like_count": 156,
+          "listed_count": 9,
+          "media_count": 92,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "MintOwOill",
+        "verified": false
+      }
+    ]
+  }
+}

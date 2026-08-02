@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2077799745268121711",
+    "created_at": "2026-07-17T17:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078177840181420054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999862284500488192",
+          "start": 0,
+          "username": "Yume33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078177840181420054",
+    "in_reply_to_user_id": "1999862284500488192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077799745268121711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yume33550336 欸有道理，按照这个立论的话多体系统也可以像操纵系统操纵东西？！？！🤓👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2077799745268121711",
+        "created_at": "2026-07-17T17:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078177840181420054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999862284500488192",
+              "start": 0,
+              "username": "Yume33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078177840181420054",
+        "in_reply_to_user_id": "1999862284500488192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077799745268121711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yume33550336 欸有道理，按照这个立论的话多体系统也可以像操纵系统操纵东西？！？！🤓👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999862284500488192",
+        "conversation_id": "2077799745268121711",
+        "created_at": "2026-07-16T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077799745268121711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077799745268121711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多意识体系统和操作系统都是系统*暴论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 962,
+          "like_count": 6653,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:21:50.000Z",
+        "description": "*dreamland system\n*inner world：@yumek496\n*lovers: @SarahAguil32516 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "yumek496"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "SarahAguil32516"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitashioyume.github.io",
+                "end": 23,
+                "expanded_url": "http://kitashioyume.github.io",
+                "start": 0,
+                "url": "https://t.co/n2vIYGSJ6k"
+              }
+            ]
+          }
+        },
+        "id": "1999862284500488192",
+        "name": "Kitashio Yume",
+        "pinned_tweet_id": "2071067138966831121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072896664104960/XV-dO9FM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 435,
+          "like_count": 4385,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/n2vIYGSJ6k",
+        "username": "Yume33550336",
+        "verified": false
+      }
+    ]
+  }
+}

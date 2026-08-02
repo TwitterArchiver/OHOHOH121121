@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082798464531144951",
+    "created_at": "2026-07-30T12:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082798464531144951"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082798464531144951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在思考，晴一直说初始存在过是否是真的，还是她自我认知出现错乱。\n她自己说她是躯体6岁时出现的，看着初始长大的。\n但是我是在躯体12岁时出现的，那时候我并没有见到什么所谓的初始，只是看到一个小孩子而已。然后晴就说那个是初始。\n这个小孩子，真的不是她的妄想吗？\n---初澜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082798464531144951",
+        "created_at": "2026-07-30T12:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082798464531144951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082798464531144951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在思考，晴一直说初始存在过是否是真的，还是她自我认知出现错乱。\n她自己说她是躯体6岁时出现的，看着初始长大的。\n但是我是在躯体12岁时出现的，那时候我并没有见到什么所谓的初始，只是看到一个小孩子而已。然后晴就说那个是初始。\n这个小孩子，真的不是她的妄想吗？\n---初澜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1000,
+          "like_count": 7738,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1971
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

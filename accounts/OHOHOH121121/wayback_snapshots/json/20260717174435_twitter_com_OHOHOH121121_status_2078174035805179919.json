@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2078174035805179919",
+    "created_at": "2026-07-17T17:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078174035805179919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 206,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2077074971139194977",
+          "start": 183,
+          "url": "https://t.co/H9pQsyz10H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078174035805179919",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077074971139194977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "born: 🇲🇾\nraised: 🇲🇾\nlive: 🇲🇾\nmom: 🇨🇳\ndad: 🇲🇾\nfirst name: Sychyn\nlast name: Ng\nethnicity: Malaysian Chinese\nspeak: 🇨🇳/🇲🇾🇬🇧little bit.....\nvisited: haven't.....\nwant to visit: 🇯🇵🇰🇷🇸🇬🇬🇧 https://t.co/H9pQsyz10H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2078174035805179919",
+        "created_at": "2026-07-17T17:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078174035805179919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2077074971139194977",
+              "start": 183,
+              "url": "https://t.co/H9pQsyz10H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078174035805179919",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077074971139194977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "born: 🇲🇾\nraised: 🇲🇾\nlive: 🇲🇾\nmom: 🇨🇳\ndad: 🇲🇾\nfirst name: Sychyn\nlast name: Ng\nethnicity: Malaysian Chinese\nspeak: 🇨🇳/🇲🇾🇬🇧little bit.....\nvisited: haven't.....\nwant to visit: 🇯🇵🇰🇷🇸🇬🇬🇧 https://t.co/H9pQsyz10H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077074971139194977",
+        "created_at": "2026-07-14T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077074971139194977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toxicfootyuri/…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/toxicfootyuri/status/2076953883499278608",
+              "start": 174,
+              "url": "https://t.co/yJPQTSOBST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077074971139194977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2414,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076953883499278608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "born: 🇨🇳\nraised: 🇨🇳\nlive: 🇨🇳\nmom: 🇨🇳\ndad: 🇨🇳\nfirst name: private qwq\nlast name: Wesley\nethnicity: 🇨🇳\nspeak: 🇨🇳🇬🇧/🇯🇵(a little)\nvisited: 🇨🇳🇭🇰🇲🇴🇯🇵\nwant to visit: 🇹🇼🇰🇷🇬🇧🇫🇷🇮🇹🇸🇬🇲🇾 https://t.co/yJPQTSOBST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 961,
+          "like_count": 6610,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 696,
+          "like_count": 5608,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

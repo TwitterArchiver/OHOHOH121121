@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017142425047707648"
+      ],
+      "media_source_tweet_id": [
+        "2017142428583551429"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2081377607686529063",
+    "created_at": "2026-07-26T13:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081377607686529063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wd0iwmtIoe",
+          "end": 54,
+          "expanded_url": "https://x.com/Kenntnis22/status/2017142428583551429/photo/1",
+          "media_key": "3_2017142425047707648",
+          "start": 31,
+          "url": "https://t.co/wd0iwmtIoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081377607686529063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017142428583551429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: “不要把近视人的苦难色情化” https://t.co/wd0iwmtIoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2017142425047707648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5UWSpWsAAEqMk.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017142425047707648"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2017142428583551429",
+        "created_at": "2026-01-30T07:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017142428583551429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wd0iwmtIoe",
+              "end": 38,
+              "expanded_url": "https://x.com/Kenntnis22/status/2017142428583551429/photo/1",
+              "media_key": "3_2017142425047707648",
+              "start": 15,
+              "url": "https://t.co/wd0iwmtIoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017142428583551429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 109034,
+          "like_count": 4207,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "“不要把近视人的苦难色情化” https://t.co/wd0iwmtIoe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017142425047707648"
+          ],
+          "media_source_tweet_id": [
+            "2017142428583551429"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2081377607686529063",
+        "created_at": "2026-07-26T13:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081377607686529063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wd0iwmtIoe",
+              "end": 54,
+              "expanded_url": "https://x.com/Kenntnis22/status/2017142428583551429/photo/1",
+              "media_key": "3_2017142425047707648",
+              "start": 31,
+              "url": "https://t.co/wd0iwmtIoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081377607686529063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017142428583551429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: “不要把近视人的苦难色情化” https://t.co/wd0iwmtIoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 997,
+          "like_count": 7510,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2077342413903810969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57048,
+          "following_count": 448,
+          "like_count": 63757,
+          "listed_count": 284,
+          "media_count": 14176,
+          "tweet_count": 21768
+        },
+        "url": "",
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

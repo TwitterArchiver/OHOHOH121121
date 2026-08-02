@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2082397851292958743",
+    "created_at": "2026-07-29T11:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082428578466340985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824037197210898432",
+          "start": 0,
+          "username": "ivan23389"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082428578466340985",
+    "in_reply_to_user_id": "1824037197210898432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082397851292958743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivan23389 尼古男生。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19371,
+        "height": 1280,
+        "media_key": "13_2082397786465853440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082397786465853440/img/BJQlVXdLHHVQq5Cd.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082397786465853440/vid/avc1/320x568/Cm_7PSgkCvSZBf-C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082397786465853440/vid/avc1/480x852/0K7T5B_Cv0wPqDlc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082397786465853440/vid/avc1/720x1280/R0iC6KdLnXDxJr5L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082397786465853440/pl/LSQs5snzEle4aZsb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2082397851292958743",
+        "created_at": "2026-07-29T11:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082428578466340985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824037197210898432",
+              "start": 0,
+              "username": "ivan23389"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082428578466340985",
+        "in_reply_to_user_id": "1824037197210898432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082397851292958743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan23389 尼古男生。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082397786465853440"
+          ]
+        },
+        "author_id": "1824037197210898432",
+        "conversation_id": "2082397851292958743",
+        "created_at": "2026-07-29T09:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082397851292958743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YvoAc6Z8p",
+              "end": 32,
+              "expanded_url": "https://x.com/ivan23389/status/2082397851292958743/video/1",
+              "media_key": "13_2082397786465853440",
+              "start": 9,
+              "url": "https://t.co/6YvoAc6Z8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082397851292958743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑子一抽成本巨大 https://t.co/6YvoAc6Z8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1000,
+          "like_count": 7758,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1956
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:55:45.000Z",
+        "description": "=Tomorin_燈/09抑郁od蛆/双向\n友好一切/同类互fo/自杀三次被救\n我的人生像假烟一样受万人唾弃",
+        "id": "1824037197210898432",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "確信犯（淡推",
+        "pinned_tweet_id": "2057467986320269339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079288288435900416/CSOt7JXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 456,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 839
+        },
+        "url": "",
+        "username": "ivan23389",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075940812408733696"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2075940823531925885",
+    "created_at": "2026-07-11T13:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075940823531925885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JuisDeiKCe",
+          "end": 30,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2075940823531925885/photo/1",
+          "media_key": "3_2075940812408733696",
+          "start": 7,
+          "url": "https://t.co/JuisDeiKCe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075940823531925885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "慢慢学习中。 https://t.co/JuisDeiKCe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2075940812408733696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM85K4pbwAAH4lx.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075940812408733696"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2075940823531925885",
+        "created_at": "2026-07-11T13:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075940823531925885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuisDeiKCe",
+              "end": 30,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2075940823531925885/photo/1",
+              "media_key": "3_2075940812408733696",
+              "start": 7,
+              "url": "https://t.co/JuisDeiKCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075940823531925885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慢慢学习中。 https://t.co/JuisDeiKCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 917,
+          "like_count": 5900,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

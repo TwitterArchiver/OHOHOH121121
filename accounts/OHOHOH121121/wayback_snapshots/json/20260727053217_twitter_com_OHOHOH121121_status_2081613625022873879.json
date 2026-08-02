@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2080951489514856621",
+    "created_at": "2026-07-27T05:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081613625022873879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827684856823980032",
+          "start": 0,
+          "username": "spz9ilN1Kp33053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081613625022873879",
+    "in_reply_to_user_id": "1827684856823980032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081150379228795170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spz9ilN1Kp33053 全吃了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2080951489514856621",
+        "created_at": "2026-07-27T05:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081613625022873879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827684856823980032",
+              "start": 0,
+              "username": "spz9ilN1Kp33053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081613625022873879",
+        "in_reply_to_user_id": "1827684856823980032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081150379228795170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spz9ilN1Kp33053 全吃了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827684856823980032",
+        "conversation_id": "2080951489514856621",
+        "created_at": "2026-07-25T22:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081150379228795170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081150379228795170",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080951489514856621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 贪了多少？自己说😒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1000,
+          "like_count": 7550,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T12:30:29.000Z",
+        "description": "INFP/天蝎/09/重焦抑\n神，如果你存在的話請放過我吧，我真的好孤獨，我不知道我犯了什麼錯，但是我錯了。\n理理我吧，我真的好孤獨，我求求你了",
+        "id": "1827684856823980032",
+        "location": "Kumamoto-shi, Kumamoto",
+        "name": "Tsuki",
+        "pinned_tweet_id": "2080936626944152042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080934397755502592/EhLtXb4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 182,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "spz9ilN1Kp33053",
+        "verified": false
+      }
+    ]
+  }
+}
