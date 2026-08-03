@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2083160739582456237",
+    "created_at": "2026-07-31T12:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083165132407087452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083165132407087452",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083160739582456237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "莫露：不道啊，本来是碎片（此人本来是记忆碎片后突然成为意识体）的但是一醒来我就在这里了。\n要是可以的话真的蛮不想要成为意识体,但是都成了意识体还能怎么办呢，死的话很痛苦但是活着也很痛苦所以还在思考要活还是死，但大多数跟着情绪走就是了＼⁠(⁠^⁠o⁠^⁠)⁠／"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2083160739582456237",
+        "created_at": "2026-07-31T12:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083165132407087452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083165132407087452",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083160739582456237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莫露：不道啊，本来是碎片（此人本来是记忆碎片后突然成为意识体）的但是一醒来我就在这里了。\n要是可以的话真的蛮不想要成为意识体,但是都成了意识体还能怎么办呢，死的话很痛苦但是活着也很痛苦所以还在思考要活还是死，但大多数跟着情绪走就是了＼⁠(⁠^⁠o⁠^⁠)⁠／"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2083160739582456237",
+        "created_at": "2026-07-31T11:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083160739582456237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083160739582456237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚突然想到了一个问题，然后问成员。\n“是什么东西，让你们有活下去并且想要治疗病症的动力呢？”\n因为我本人有点不太理解，为什么他们有动力去治疗疾病这些的。\n我放一下他们的回答吧\n----安枫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 999,
+          "like_count": 7917,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2019
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}
