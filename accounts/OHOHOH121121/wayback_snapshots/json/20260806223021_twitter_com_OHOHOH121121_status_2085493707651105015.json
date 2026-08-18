@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2084826842436157555",
+    "created_at": "2026-08-06T22:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T23:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085493707651105015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1888950813286125568",
+          "start": 0,
+          "username": "yyyq6519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085493707651105015",
+    "in_reply_to_user_id": "1888950813286125568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084826842436157555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyq6519 正确的...而且对他们进行围剿不就跟网暴人没有区别了吗，口口声声说不要网暴任何人，但却在事情还没有确定之前对人进行围剿我也觉得很恐怖。\n我仿佛看到那些被网暴的人已经去世后，又在天上看到他们喜欢的人被网暴，是人都承受不了。\n而且这东西的确跟性别对立没有任何关系，从始至终网暴人的都是粉丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2084826842436157555",
+        "created_at": "2026-08-06T22:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T23:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085493707651105015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1888950813286125568",
+              "start": 0,
+              "username": "yyyq6519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085493707651105015",
+        "in_reply_to_user_id": "1888950813286125568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084826842436157555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyq6519 正确的...而且对他们进行围剿不就跟网暴人没有区别了吗，口口声声说不要网暴任何人，但却在事情还没有确定之前对人进行围剿我也觉得很恐怖。\n我仿佛看到那些被网暴的人已经去世后，又在天上看到他们喜欢的人被网暴，是人都承受不了。\n而且这东西的确跟性别对立没有任何关系，从始至终网暴人的都是粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888950813286125568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          }
+        ],
+        "conversation_id": "2084826842436157555",
+        "created_at": "2026-08-05T02:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084826842436157555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084826842436157555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 1114057,
+          "like_count": 13576,
+          "quote_count": 106,
+          "reply_count": 1291,
+          "retweet_count": 2115
+        },
+        "reply_settings": "everyone",
+        "text": "如果真心觉得mina被网暴离世很可怜，更多的应该是呼吁不要网暴吧，那现在用恶意将这件事安到西村力甚至enhypen身上，难道就不是网暴了吗？西村力直播说的话也只是谈心语气说的话，没有指名道姓，也没有用强制的语气，逝者为大是没错，但也不代表你们可以用逝者这个幌子发起对西村力甚至enhypen的围剿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1008,
+          "like_count": 8647,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2115
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T13:59:17.000Z",
+        "description": "",
+        "id": "1888950813286125568",
+        "name": "Kyoen_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069062233620094976/kF5IQ6my_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "yyyq6519",
+        "verified": false
+      }
+    ]
+  }
+}

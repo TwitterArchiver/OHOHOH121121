@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2086815998192263481",
+    "created_at": "2026-08-11T07:40:16.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087081652300489173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072699786336075776",
+          "start": 0,
+          "username": "zhiyeranxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087081652300489173",
+    "in_reply_to_user_id": "2072699786336075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087075058661400702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyeranxi 也很高兴认识你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2086815998192263481",
+        "created_at": "2026-08-11T07:40:16.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087081652300489173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072699786336075776",
+              "start": 0,
+              "username": "zhiyeranxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087081652300489173",
+        "in_reply_to_user_id": "2072699786336075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087075058661400702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyeranxi 也很高兴认识你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072699786336075776",
+        "conversation_id": "2086815998192263481",
+        "created_at": "2026-08-11T07:14:04.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087075058661400702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087075058661400702",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086939941725216805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 谢谢哦，很高兴认识你们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087081652300489173",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1001,
+          "like_count": 8914,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 2163
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T15:14:29.000Z",
+        "description": "08/男孩子/随缘用药自伤/随性/dream\n性格飘忽不定，坚定的悲剧爱好者\n热爱着物哀 热爱亚文化 最喜欢青叶寄老师的溺于盛夏\n欢迎互fo 我是负能量与正能量的集合体 预感到自己会在某个夏日结束前离开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%9C%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%A4%9C%E5%87%AA%E6%B1%90%E6%9F%931",
+                "start": 0,
+                "url": "https://t.co/LtxUZ7iP7i"
+              }
+            ]
+          }
+        },
+        "id": "2072699786336075776",
+        "is_identity_verified": false,
+        "location": "Dream country",
+        "most_recent_tweet_id": "2087075058661400702",
+        "name": "凪夜染汐",
+        "pinned_tweet_id": "2073506511096087005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072699786336075776/1783005464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 41,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/LtxUZ7iP7i",
+        "username": "zhiyeranxi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2088439864622477717",
+    "created_at": "2026-08-15T01:59:16.000Z",
+    "display_text_range": [
+      13,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088445387795497470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "revive_myne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088445387795497470",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088439864622477717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@revive_myne 😨我靠。你们的关系那么不好吗，伤敌一千自损八百啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2088439864622477717",
+        "created_at": "2026-08-15T01:59:16.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088445387795497470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "revive_myne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088445387795497470",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088439864622477717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@revive_myne 😨我靠。你们的关系那么不好吗，伤敌一千自损八百啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "2088439864622477717",
+        "created_at": "2026-08-15T01:37:19.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088439864622477717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088439864622477717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成员A和成员B总是喜欢虐对方玩，更多时候是A殴打肢解B。后来发生了一些事情A开始讨厌B了，但B还是很喜欢A。于是B仍然自愿让A继续虐ta玩（ta权限甚至比A高），只不过现在是纯为了解气，想让B不好过。\n\n然后现在A认为暴力没啥意思了（里世界没啥痛感），决定使用挖创伤这种伤敌一千自损八百的方式伤B。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088445387795497470",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 997,
+          "like_count": 9150,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2194
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "Minecraft 基岩版回归玩家｜enby（neutrois）｜aplatonic｜多意识体\n|\n二十二月系统\n|\n里推：@knimaisey\n|\n呃画的都放这里好了：@Victimized_P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "knimaisey"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "is_identity_verified": false,
+        "location": "SilverLawn",
+        "most_recent_tweet_id": "2088439864622477717",
+        "name": "铭",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884627325398212611/1760969839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087099355220058113/efZg697b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 235,
+          "like_count": 11980,
+          "listed_count": 2,
+          "media_count": 941,
+          "tweet_count": 5674
+        },
+        "url": "",
+        "username": "revive_myne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2085366760765853754",
+    "created_at": "2026-08-06T14:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085366760765853754"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085366760765853754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对了我想要解释一个东西\n我在每个帖子里所说的“正常”并不是健全人所认为的开心快乐的人\n因为这个正常，与他们的观点无关，这个正常甚至不包含健康与幸福\n我所认为的正常是，能够意识到对于不对，客观的看待事情，不歧视不针对人，对于每个事情都保持一个开放性，同时也有自己的边界和三观的人\n---初澜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085366760765853754",
+        "created_at": "2026-08-06T14:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085366760765853754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085366760765853754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对了我想要解释一个东西\n我在每个帖子里所说的“正常”并不是健全人所认为的开心快乐的人\n因为这个正常，与他们的观点无关，这个正常甚至不包含健康与幸福\n我所认为的正常是，能够意识到对于不对，客观的看待事情，不歧视不针对人，对于每个事情都保持一个开放性，同时也有自己的边界和三观的人\n---初澜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 1009,
+          "like_count": 8627,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2111
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

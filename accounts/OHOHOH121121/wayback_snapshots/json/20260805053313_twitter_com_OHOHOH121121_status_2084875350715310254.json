@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2084875350715310254",
+    "created_at": "2026-08-05T05:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084875350715310254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748763011140169729",
+          "start": 3,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084875350715310254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084639086128840858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovelyshuimao: 我真的很想和一些医生说\n你根本就不懂医学根本就不会开药\n你只不过是在sb医学院读过几年书\n取得过一个sb行医资格\n在这个sb医院混过几年资历而已\n然后你就可以对着像我这样趾高气昂\n你有什么资格对着我指手画脚瞎开药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2084875350715310254",
+        "created_at": "2026-08-05T05:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084875350715310254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748763011140169729",
+              "start": 3,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084875350715310254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084639086128840858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovelyshuimao: 我真的很想和一些医生说\n你根本就不懂医学根本就不会开药\n你只不过是在sb医学院读过几年书\n取得过一个sb行医资格\n在这个sb医院混过几年资历而已\n然后你就可以对着像我这样趾高气昂\n你有什么资格对着我指手画脚瞎开药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2084639086128840858",
+        "created_at": "2026-08-04T13:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084639086128840858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084639086128840858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1456,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很想和一些医生说\n你根本就不懂医学根本就不会开药\n你只不过是在sb医学院读过几年书\n取得过一个sb行医资格\n在这个sb医院混过几年资历而已\n然后你就可以对着像我这样趾高气昂\n你有什么资格对着我指手画脚瞎开药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1012,
+          "like_count": 8476,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2097
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5680,
+          "following_count": 994,
+          "like_count": 276,
+          "listed_count": 22,
+          "media_count": 3490,
+          "tweet_count": 15880
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

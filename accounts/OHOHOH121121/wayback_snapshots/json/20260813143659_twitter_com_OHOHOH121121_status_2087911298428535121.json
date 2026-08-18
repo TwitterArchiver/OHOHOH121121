@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2087909956238602672",
+    "created_at": "2026-08-13T14:36:59.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087911298428535121"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087911298428535121",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087909956238602672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都是人谁有比谁高人一等啊，还在拿拿其他聪明种族就留下不聪明的种族就灭绝吗。拜托现在已经是21世纪了怎么这些人比清朝还要封建啊...\n我真的没招了本来是吐槽结果看到她安慰我的话语更气了（歧视的更加过分）到底要干嘛.....💩💩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2087909940405186560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm_B1DbsAAEked.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2087909956238602672",
+        "created_at": "2026-08-13T14:36:59.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087911298428535121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087911298428535121",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087909956238602672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都是人谁有比谁高人一等啊，还在拿拿其他聪明种族就留下不聪明的种族就灭绝吗。拜托现在已经是21世纪了怎么这些人比清朝还要封建啊...\n我真的没招了本来是吐槽结果看到她安慰我的话语更气了（歧视的更加过分）到底要干嘛.....💩💩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087909940405186560"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2087909956238602672",
+        "created_at": "2026-08-13T14:31:39.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087909956238602672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjZzjozVLn",
+              "end": 140,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2087909956238602672/photo/1",
+              "media_key": "3_2087909940405186560",
+              "start": 117,
+              "url": "https://t.co/UjZzjozVLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087909956238602672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087909940405186560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于学校歧视种族的傻逼我就这样。\n还有之前我说的那个朋友我明明只说有一个马来男生直接扯到种族话题到底是想要干嘛，还扯到印度人去之后又说华人就是比其他种族高人一等是何意味。\n我真的活在这个世界吗怎么身边全是阴的没有阳的💩💩\n---安枫 https://t.co/UjZzjozVLn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087911298428535121",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 998,
+          "like_count": 9043,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2183
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

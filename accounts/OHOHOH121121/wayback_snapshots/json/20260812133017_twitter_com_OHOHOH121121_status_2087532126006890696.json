@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2087489060768010308",
+    "created_at": "2026-08-12T13:30:17.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087532126006890696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "revive_myne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087532126006890696",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087489060768010308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@revive_myne 不道。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2087489046729658368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhAOl7XEAATOji.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2087489060768010308",
+        "created_at": "2026-08-12T13:30:17.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087532126006890696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "revive_myne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087532126006890696",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087489060768010308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@revive_myne 不道。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087489046729658368"
+          ]
+        },
+        "author_id": "1884627325398212611",
+        "conversation_id": "2087489060768010308",
+        "created_at": "2026-08-12T10:39:10.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087489060768010308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTx9caQ6kf",
+              "end": 48,
+              "expanded_url": "https://x.com/revive_myne/status/2087489060768010308/photo/1",
+              "media_key": "3_2087489046729658368",
+              "start": 25,
+              "url": "https://t.co/yTx9caQ6kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087489060768010308",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087489046729658368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论什么时候发推文总是会有固定的几个人秒赞啊（） https://t.co/yTx9caQ6kf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087532126006890696",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1001,
+          "like_count": 8997,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 2175
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "Minecraft 基岩版回归玩家｜enby（neutrois）｜aplatonic｜多意识体\n|\n二十二月系统\n|\n里推：@knimaisey\n|\n呃画的都放这里好了：@Victimized_P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "knimaisey"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "is_identity_verified": false,
+        "location": "SilverLawn",
+        "most_recent_tweet_id": "2087490680826335625",
+        "name": "铭",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884627325398212611/1760969839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087099355220058113/efZg697b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 237,
+          "like_count": 11948,
+          "listed_count": 2,
+          "media_count": 938,
+          "tweet_count": 5646
+        },
+        "url": "",
+        "username": "revive_myne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

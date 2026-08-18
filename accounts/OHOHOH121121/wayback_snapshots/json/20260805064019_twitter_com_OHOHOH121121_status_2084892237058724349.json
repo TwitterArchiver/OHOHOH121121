@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2084892237058724349",
+    "created_at": "2026-08-05T06:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084892237058724349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiGuang_Lab/st…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/JiGuang_Lab/status/2084137982328721749",
+          "start": 138,
+          "url": "https://t.co/wd4Tm5x2Gk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084892237058724349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084137982328721749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hmmmm，这个看国家吧...我们这里如果真的有adhd和asd会引荐我们去团体训练的，然后父母也要听心理疾病等等的讲座。（仅限政府医院）\n而且真的严重医生会花很多时间和父母说，还有病患说，我记得那时侯出院医生就和我父母谈两个小时多吧....🤔🤔\n但他们时间也是很满就是了。 https://t.co/wd4Tm5x2Gk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2084892237058724349",
+        "created_at": "2026-08-05T06:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084892237058724349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiGuang_Lab/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/JiGuang_Lab/status/2084137982328721749",
+              "start": 138,
+              "url": "https://t.co/wd4Tm5x2Gk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084892237058724349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084137982328721749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hmmmm，这个看国家吧...我们这里如果真的有adhd和asd会引荐我们去团体训练的，然后父母也要听心理疾病等等的讲座。（仅限政府医院）\n而且真的严重医生会花很多时间和父母说，还有病患说，我记得那时侯出院医生就和我父母谈两个小时多吧....🤔🤔\n但他们时间也是很满就是了。 https://t.co/wd4Tm5x2Gk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2084137982328721749",
+        "created_at": "2026-08-03T04:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084137982328721749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084137982328721749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3055,
+          "like_count": 78,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "精神病院存在的意义。就是你们去治病，然后给你们开狗屎喹硫平，让你认清精神病并学会隐藏 然后痛苦的活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1007,
+          "like_count": 8483,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2099
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质和0D知识整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "location": "化学极乐 人类崛起",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083870888664219648/kFxXDJre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 76,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false
+      }
+    ]
+  }
+}

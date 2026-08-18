@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2084524501224882426",
+    "created_at": "2026-08-04T06:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084524501224882426"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084524501224882426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我觉得恐怖情人大多是并不是回避型，而是矛盾型。\n地雷恋人和重力恋人这种也算在恐怖恋人里的。\n不一定是要家暴这种才算是恐怖情人，情绪控制经济控制人身控制等等（极端的）都包含在恐怖情人里面，就比如会通过自残以求对方不要分手的这种就算一个恐怖情人\n但也往往最吸引白骑士，恐怖如斯\n--安枫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2084524501224882426",
+        "created_at": "2026-08-04T06:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084524501224882426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084524501224882426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得恐怖情人大多是并不是回避型，而是矛盾型。\n地雷恋人和重力恋人这种也算在恐怖恋人里的。\n不一定是要家暴这种才算是恐怖情人，情绪控制经济控制人身控制等等（极端的）都包含在恐怖情人里面，就比如会通过自残以求对方不要分手的这种就算一个恐怖情人\n但也往往最吸引白骑士，恐怖如斯\n--安枫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1014,
+          "like_count": 8360,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2074
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2084846568902127620",
+    "created_at": "2026-08-05T07:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084903360902431132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1823645469194809344",
+          "start": 0,
+          "username": "xy000_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084903360902431132",
+    "in_reply_to_user_id": "1823645469194809344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084846568902127620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xy000_ 看到好熟悉的药物.....\n不知道欸，我医生没有跟我说要写地址呱🤔（我也是MDD）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084846562518474752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7c5xIboAAYZS2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2084846568902127620",
+        "created_at": "2026-08-05T07:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084903360902431132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1823645469194809344",
+              "start": 0,
+              "username": "xy000_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084903360902431132",
+        "in_reply_to_user_id": "1823645469194809344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084846568902127620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xy000_ 看到好熟悉的药物.....\n不知道欸，我医生没有跟我说要写地址呱🤔（我也是MDD）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084846562518474752"
+          ]
+        },
+        "author_id": "1823645469194809344",
+        "conversation_id": "2084846568902127620",
+        "created_at": "2026-08-05T03:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084846568902127620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLA9HDvRz1",
+              "end": 48,
+              "expanded_url": "https://x.com/xy000_/status/2084846568902127620/photo/1",
+              "media_key": "3_2084846562518474752",
+              "start": 25,
+              "url": "https://t.co/jLA9HDvRz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084846568902127620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么MPD拿药 药单上要写地址啊 我不是很明白 https://t.co/jLA9HDvRz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1007,
+          "like_count": 8494,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2100
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T08:59:37.000Z",
+        "description": "08 ip 🇲🇾INTP  我喜欢春野樱\n碎碎念 负能量 分享日常 我有病\nig：yixin0428 \n欢迎交友哦 黄推拒来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixin04281",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixin04281",
+                "start": 0,
+                "url": "https://t.co/zNgojeAbPF"
+              }
+            ]
+          }
+        },
+        "id": "1823645469194809344",
+        "location": "极乐世界",
+        "name": "sakura喵喵🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082716465367814144/dMjZXgK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 35,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/zNgojeAbPF",
+        "username": "xy000_",
+        "verified": false
+      }
+    ]
+  }
+}

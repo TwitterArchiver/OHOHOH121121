@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2087093569844822221",
+    "created_at": "2026-08-11T08:27:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087093569844822221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1884627325398212611",
+          "start": 3,
+          "username": "revive_myne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087093569844822221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087073310546722995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @revive_myne: 现在真的好多人都不论场合都要将任何事物与精神多样性或精神疾病扯上关系。\n\n难道人就不能在不抑郁的情况下记性不好了吗？我一定要有ASD才可以感官过载吗？阅读障碍也不是ADHD的专属。一个人精神多样性就一定得是ASD或ADHD了吗？有幻觉也不能直接…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2087093569844822221",
+        "created_at": "2026-08-11T08:27:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087093569844822221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884627325398212611",
+              "start": 3,
+              "username": "revive_myne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087093569844822221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087073310546722995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @revive_myne: 现在真的好多人都不论场合都要将任何事物与精神多样性或精神疾病扯上关系。\n\n难道人就不能在不抑郁的情况下记性不好了吗？我一定要有ASD才可以感官过载吗？阅读障碍也不是ADHD的专属。一个人精神多样性就一定得是ASD或ADHD了吗？有幻觉也不能直接…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "2087073310546722995",
+        "created_at": "2026-08-11T07:07:07.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087073310546722995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087073310546722995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 136,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在真的好多人都不论场合都要将任何事物与精神多样性或精神疾病扯上关系。\n\n难道人就不能在不抑郁的情况下记性不好了吗？我一定要有ASD才可以感官过载吗？阅读障碍也不是ADHD的专属。一个人精神多样性就一定得是ASD或ADHD了吗？有幻觉也不能直接与精神分裂划等号啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087093569844822221",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1001,
+          "like_count": 8921,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 2165
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "Minecraft 基岩版回归玩家｜enby（neutrois）｜aplatonic｜多意识体\n|\n二十二月系统\n|\n里推：@knimaisey\n|\n呃画的都放这里好了：@Victimized_P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "knimaisey"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "is_identity_verified": false,
+        "location": "SilverLawn",
+        "most_recent_tweet_id": "2087084325724450836",
+        "name": "铭",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884627325398212611/1760969839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032132026799640576/vkG_DsEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 235,
+          "like_count": 11918,
+          "listed_count": 2,
+          "media_count": 930,
+          "tweet_count": 5625
+        },
+        "url": "",
+        "username": "revive_myne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
