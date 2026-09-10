@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2090730826246029760",
+    "created_at": "2026-08-22T01:29:45.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090974674985652289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059249764730834944",
+          "start": 0,
+          "username": "SeptimusWaoxti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090974674985652289",
+    "in_reply_to_user_id": "2059249764730834944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090947025529651666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeptimusWaoxti 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2090730826246029760",
+        "created_at": "2026-08-22T01:29:45.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090974674985652289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059249764730834944",
+              "start": 0,
+              "username": "SeptimusWaoxti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090974674985652289",
+        "in_reply_to_user_id": "2059249764730834944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090947025529651666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeptimusWaoxti 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059249764730834944",
+        "conversation_id": "2090730826246029760",
+        "created_at": "2026-08-21T23:39:53.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090947025529651666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090947025529651666",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090730826246029760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 我的话初高中都是既有喜欢的，又有憎恨的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090974674985652289",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 979,
+          "like_count": 9670,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2301
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T12:29:57.000Z",
+        "description": "每个人都被困在一个小笼子里，而即使有的人突破了一个笼子，ta所将面对的无非是面对另一个笼子而已。只不过有的人的笼子恰当，有的人笼子丑陋不堪。所以，笼子中的人啊，因为，笼子的不同而隔着笼子互骂吧。",
+        "id": "2059249764730834944",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2090954036761829420",
+        "name": "虚幻也是一种真实",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059249764730834944/1779981662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062339830030209024/HkE8vsWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 95,
+          "like_count": 4728,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 3341
+        },
+        "url": "",
+        "username": "SeptimusWaoxti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

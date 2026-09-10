@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094362911087161344",
+        "3_2094362923493896192"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2094361123797782760",
+    "created_at": "2026-08-31T09:53:28.000Z",
+    "display_text_range": [
+      15,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094362930741755934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/24nBw7coGD",
+          "end": 75,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2094362930741755934/photo/1",
+          "media_key": "3_2094362911087161344",
+          "start": 52,
+          "url": "https://t.co/24nBw7coGD"
+        },
+        {
+          "display_url": "pic.x.com/24nBw7coGD",
+          "end": 75,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2094362930741755934/photo/1",
+          "media_key": "3_2094362923493896192",
+          "start": 52,
+          "url": "https://t.co/24nBw7coGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094362930741755934",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094362911087161344"
+      },
+      {
+        "media_key": "3_2094362923493896192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094362131953225769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 而且我觉得她说的那么低是真的很离谱，我那时候发的是这两张图。离谱过头了。 https://t.co/24nBw7coGD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2094362911087161344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCr-KIacAA3Kx1.jpg",
+        "width": 3000
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094362923493896192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCr-4WaMAApbv5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094362911087161344",
+            "3_2094362923493896192"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2094361123797782760",
+        "created_at": "2026-08-31T09:53:28.000Z",
+        "display_text_range": [
+          15,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094362930741755934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/24nBw7coGD",
+              "end": 75,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2094362930741755934/photo/1",
+              "media_key": "3_2094362911087161344",
+              "start": 52,
+              "url": "https://t.co/24nBw7coGD"
+            },
+            {
+              "display_url": "pic.x.com/24nBw7coGD",
+              "end": 75,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2094362930741755934/photo/1",
+              "media_key": "3_2094362923493896192",
+              "start": 52,
+              "url": "https://t.co/24nBw7coGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094362930741755934",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094362911087161344"
+          },
+          {
+            "media_key": "3_2094362923493896192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094362131953225769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 而且我觉得她说的那么低是真的很离谱，我那时候发的是这两张图。离谱过头了。 https://t.co/24nBw7coGD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2094361123797782760",
+        "created_at": "2026-08-31T09:50:18.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094362131953225769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094362131953225769",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094361123797782760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 因为这里是网络，如果是实物的话可能会更赚钱一点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094362930741755934",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 983,
+          "like_count": 10417,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 2403
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️| 同类互fo |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "is_identity_verified": false,
+        "location": "新西兰   奥克兰",
+        "most_recent_tweet_id": "2094362505976127880",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937073350750466048/1772488051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 799,
+          "like_count": 49152,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 10614
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

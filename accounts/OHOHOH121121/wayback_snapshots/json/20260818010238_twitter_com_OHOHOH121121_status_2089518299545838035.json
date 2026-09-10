@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2089504952104386906",
+    "created_at": "2026-08-18T01:02:38.000Z",
+    "display_text_range": [
+      16,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T02:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089518299545838035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059249764730834944",
+          "start": 0,
+          "username": "SeptimusWaoxti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089518299545838035",
+    "in_reply_to_user_id": "2059249764730834944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089515160599982214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeptimusWaoxti 而且还会每天问你要吃什么给我们自己选择然后我们选的全部都很好吃，但是住院费很贵，一天300块🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2089504952104386906",
+        "created_at": "2026-08-18T01:02:38.000Z",
+        "display_text_range": [
+          16,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089518299545838035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059249764730834944",
+              "start": 0,
+              "username": "SeptimusWaoxti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089518299545838035",
+        "in_reply_to_user_id": "2059249764730834944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089515160599982214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeptimusWaoxti 而且还会每天问你要吃什么给我们自己选择然后我们选的全部都很好吃，但是住院费很贵，一天300块🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059249764730834944",
+        "conversation_id": "2089504952104386906",
+        "created_at": "2026-08-18T00:50:10.000Z",
+        "display_text_range": [
+          14,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089515160599982214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089515160599982214",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089510066424783208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 而且我最想吐槽的是那些饭店他们做的那些东西真的没有性价比17块钱20块钱。就是普通的盒饭和各种的清汤面条……当然也有不清汤的，但更贵了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089518299545838035",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 993,
+          "like_count": 9420,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2246
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T12:29:57.000Z",
+        "description": "每个人都被困在一个小笼子里，而即使有的人突破了一个笼子，ta所将面对的无非是面对另一个笼子而已。只不过有的人的笼子恰当，有的人笼子丑陋不堪。所以，笼子中的人啊，因为，笼子的不同而隔着笼子互骂吧。",
+        "id": "2059249764730834944",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2089515160599982214",
+        "name": "虚幻也是一种真实",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059249764730834944/1779981662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062339830030209024/HkE8vsWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 94,
+          "like_count": 4515,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 3328
+        },
+        "url": "",
+        "username": "SeptimusWaoxti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

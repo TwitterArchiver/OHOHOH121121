@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2092150577702855144",
+    "created_at": "2026-08-25T07:22:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092150577702855144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1036097392855007232",
+          "start": 3,
+          "username": "hikikomoriutu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092150577702855144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1396
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091802820504948979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikikomoriutu: 統合失調症→一生涯治らない、一生涯服薬が必要\n双極性障害→一生涯治らない、一生涯服薬が必要\n重度うつ病→治る可能性は困難、長期服薬が必要\n中等うつ病→治る可能性は低い、中期服薬が必要\n軽度うつ病→治る可能性は高い、短期服薬が必要\n詐病うつ病…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2092150577702855144",
+        "created_at": "2026-08-25T07:22:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092150577702855144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1036097392855007232",
+              "start": 3,
+              "username": "hikikomoriutu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092150577702855144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1396
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091802820504948979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikikomoriutu: 統合失調症→一生涯治らない、一生涯服薬が必要\n双極性障害→一生涯治らない、一生涯服薬が必要\n重度うつ病→治る可能性は困難、長期服薬が必要\n中等うつ病→治る可能性は低い、中期服薬が必要\n軽度うつ病→治る可能性は高い、短期服薬が必要\n詐病うつ病…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036097392855007232",
+        "conversation_id": "2091802820504948979",
+        "created_at": "2026-08-24T08:20:30.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091802820504948979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091802820504948979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3149,
+          "impression_count": 2943063,
+          "like_count": 20429,
+          "quote_count": 724,
+          "reply_count": 81,
+          "retweet_count": 1396
+        },
+        "reply_settings": "everyone",
+        "text": "統合失調症→一生涯治らない、一生涯服薬が必要\n双極性障害→一生涯治らない、一生涯服薬が必要\n重度うつ病→治る可能性は困難、長期服薬が必要\n中等うつ病→治る可能性は低い、中期服薬が必要\n軽度うつ病→治る可能性は高い、短期服薬が必要\n詐病うつ病→治す可能性は低い、薬はゴミ箱へ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092150577702855144",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 981,
+          "like_count": 10127,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 2355
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T03:44:03.000Z",
+        "description": "うつ病〜双極10年以上、精神科入院10回近くトータル4年、自◯未遂4回 救急搬送3回🏥多くの方々に支えられながら生きられてます #闘病垢自己紹介カード 精神疾患スペースや📻精神疾患に通ずるような社会課題についてや📰ビットコインについて₿ポストしてます。気軽にフォローいいねリポスト歓迎 無言フォロー🙏ENFP-T",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "闘病垢自己紹介カード"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1OPK0MV9HNGCC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/TfzM7qHzkG"
+              }
+            ]
+          }
+        },
+        "id": "1036097392855007232",
+        "is_identity_verified": false,
+        "location": "欲しいものリスト→",
+        "most_recent_tweet_id": "2092133682803020108",
+        "name": "めんたん❤️‍🩹うつ病〜双極性障害💊ビットコイン〜仮想通貨💸",
+        "pinned_tweet_id": "1672546467641434113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036097392855007232/1743321089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928256589091536896/-eU0rk8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8051,
+          "following_count": 2546,
+          "like_count": 42660,
+          "listed_count": 31,
+          "media_count": 1730,
+          "tweet_count": 39874
+        },
+        "url": "https://t.co/TfzM7qHzkG",
+        "username": "hikikomoriutu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

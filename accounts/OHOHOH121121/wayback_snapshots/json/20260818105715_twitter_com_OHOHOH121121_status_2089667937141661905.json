@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2089345202251350478",
+    "created_at": "2026-08-18T10:57:15.000Z",
+    "display_text_range": [
+      17,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089667937141661905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675878602930524163",
+          "start": 0,
+          "username": "indigo_skynight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089667937141661905",
+    "in_reply_to_user_id": "1675878602930524163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089608162487742903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@indigo_skynight 是这样呱，但是中国好像很少有督导来帮助这些咨询师们....因为我见到的一些咨询师要不是过度掺和进去来访的生活就是在来访面前暴露情绪这种，感觉特别恐怖..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2089345202251350478",
+        "created_at": "2026-08-18T10:57:15.000Z",
+        "display_text_range": [
+          17,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089667937141661905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675878602930524163",
+              "start": 0,
+              "username": "indigo_skynight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089667937141661905",
+        "in_reply_to_user_id": "1675878602930524163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089608162487742903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indigo_skynight 是这样呱，但是中国好像很少有督导来帮助这些咨询师们....因为我见到的一些咨询师要不是过度掺和进去来访的生活就是在来访面前暴露情绪这种，感觉特别恐怖..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675878602930524163",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2089345202251350478",
+        "created_at": "2026-08-18T06:59:43.000Z",
+        "display_text_range": [
+          14,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089608162487742903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089608162487742903",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089345202251350478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 其实心理咨询也是需要咨询师接受很多的督导和个人分析（）精神科医生的话不是心理学出身，一般是临床医学，他们只开药不做咨询，大多数也没啥自身问题hh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089667937141661905",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 992,
+          "like_count": 9446,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2252
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-03T14:46:38.000Z",
+        "description": "不想当人补药用性别框我、always stand by your side🏳️‍🌈、asexual💜｜Chinese、English｜AS｜我希望人类的人道主义是一种底线而非仰望｜因为as所以看上去很人机｜不太可爱但并不爱吵架",
+        "id": "1675878602930524163",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089667134360101256",
+        "name": "雾雨💫 🏳️‍🌈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965452179474710533/tHIk_H43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 209,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "indigo_skynight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

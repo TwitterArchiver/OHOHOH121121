@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2094668883093529086",
+    "created_at": "2026-09-01T10:12:53.000Z",
+    "display_text_range": [
+      17,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094730202614301010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094730202614301010",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094668883093529086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 ooo好美丽！！！！！.....🥹🥹🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2094668872792281088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHCPeTaEAAONz7.jpg",
+        "width": 1403
+      },
+      {
+        "height": 1346,
+        "media_key": "3_2094668872733573120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHCPeFaQAA1D9V.jpg",
+        "width": 2048
+      },
+      {
+        "height": 920,
+        "media_key": "3_2094668872804896768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHCPeWakAALQ_b.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2094668883093529086",
+        "created_at": "2026-09-01T10:12:53.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094730202614301010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094730202614301010",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094668883093529086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 ooo好美丽！！！！！.....🥹🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094668872792281088",
+            "3_2094668872733573120",
+            "3_2094668872804896768"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094668883093529086",
+        "created_at": "2026-09-01T06:09:13.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094668883093529086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTb8sgCXcB",
+              "end": 42,
+              "expanded_url": "https://x.com/qngshu988723424/status/2094668883093529086/photo/1",
+              "media_key": "3_2094668872792281088",
+              "start": 19,
+              "url": "https://t.co/QTb8sgCXcB"
+            },
+            {
+              "display_url": "pic.x.com/QTb8sgCXcB",
+              "end": 42,
+              "expanded_url": "https://x.com/qngshu988723424/status/2094668883093529086/photo/1",
+              "media_key": "3_2094668872733573120",
+              "start": 19,
+              "url": "https://t.co/QTb8sgCXcB"
+            },
+            {
+              "display_url": "pic.x.com/QTb8sgCXcB",
+              "end": 42,
+              "expanded_url": "https://x.com/qngshu988723424/status/2094668883093529086/photo/1",
+              "media_key": "3_2094668872804896768",
+              "start": 19,
+              "url": "https://t.co/QTb8sgCXcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094668883093529086",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094668872792281088"
+          },
+          {
+            "media_key": "3_2094668872733573120"
+          },
+          {
+            "media_key": "3_2094668872804896768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实没脸看我画了什么但是还是发出来了 https://t.co/QTb8sgCXcB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094730202614301010",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 987,
+          "like_count": 10519,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 2427
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/一分钟发八条/说话很人机可能博关注,谢谢你们祝你们身体健康可能🩸💊内容|| @Ace_Purin←点击关注布丁谢谢喵，这个是很可爱说话也很萌的人。@PP_Konig←这个是我的好妈妈，可以多和她们互动！这个布丁很好互动也很有意思，盐鸦妈妈特别温柔，然后我特别喜欢这个人，希望我们都能开心。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ace_Purin"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "PP_Konig"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "is_identity_verified": false,
+        "location": "鸟笼",
+        "most_recent_tweet_id": "2094686891459465664",
+        "name": "rotaka",
+        "pinned_tweet_id": "2089918754981593307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801534903626121216/1751515393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 819,
+          "like_count": 10839,
+          "listed_count": 1,
+          "media_count": 758,
+          "tweet_count": 9958
+        },
+        "url": "",
+        "username": "qngshu988723424",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

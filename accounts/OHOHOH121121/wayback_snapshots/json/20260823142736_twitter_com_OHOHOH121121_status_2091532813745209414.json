@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2091532813745209414",
+    "created_at": "2026-08-23T14:27:36.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T15:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091532813745209414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kohoshitsumu/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kohoshitsumu/status/2091497024176972286",
+          "start": 3,
+          "url": "https://t.co/hbeGYiuKXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091532813745209414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091497024176972286",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩！ https://t.co/hbeGYiuKXm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_2091497016497238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ9dI0bcAA-A0T.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2091532813745209414",
+        "created_at": "2026-08-23T14:27:36.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091532813745209414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kohoshitsumu/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kohoshitsumu/status/2091497024176972286",
+              "start": 3,
+              "url": "https://t.co/hbeGYiuKXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091532813745209414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091497024176972286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩！ https://t.co/hbeGYiuKXm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091497016497238016"
+          ]
+        },
+        "author_id": "2004456046295973888",
+        "conversation_id": "2091497024176972286",
+        "created_at": "2026-08-23T12:05:23.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091497024176972286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1720665183188922368",
+              "start": 28,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YB5QzBfwSu",
+              "end": 57,
+              "expanded_url": "https://x.com/kohoshitsumu/status/2091497024176972286/photo/1",
+              "media_key": "3_2091497016497238016",
+              "start": 34,
+              "url": "https://t.co/YB5QzBfwSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091497024176972286",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091497016497238016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看小星紡所有的推文\n小星紡是哪種\n（可以不只一種！）\n@grok https://t.co/YB5QzBfwSu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091532813745209414",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 980,
+          "like_count": 9946,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2338
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期:𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度:-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜𝗛𝗣:-𝟒𝟎𝟒/𝟎｜陪我玩回𝚏𝚘｜\n\n𝟒𝟎𝟒 此玩家帳號不存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/Qk6Y5IYAxK"
+              }
+            ]
+          }
+        },
+        "id": "2004456046295973888",
+        "is_identity_verified": false,
+        "location": "永恆的夢里",
+        "most_recent_tweet_id": "2091532155818283123",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2082824480762872031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004456046295973888/1784463809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 339,
+          "like_count": 39276,
+          "listed_count": 0,
+          "media_count": 810,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/Qk6Y5IYAxK",
+        "username": "kohoshitsumu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

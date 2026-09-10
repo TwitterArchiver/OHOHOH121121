@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094385567748460544",
+        "3_2094385575369547776"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2094385581921075442",
+    "created_at": "2026-08-31T11:23:29.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094385581921075442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1776553425934909440",
+          "start": 8,
+          "username": "hshshshshs88082"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wGQrMbdO8r",
+          "end": 48,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2094385581921075442/photo/1",
+          "media_key": "3_2094385567748460544",
+          "start": 25,
+          "url": "https://t.co/wGQrMbdO8r"
+        },
+        {
+          "display_url": "pic.x.com/wGQrMbdO8r",
+          "end": 48,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2094385581921075442/photo/1",
+          "media_key": "3_2094385575369547776",
+          "start": 25,
+          "url": "https://t.co/wGQrMbdO8r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094385581921075442",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094385567748460544"
+      },
+      {
+        "media_key": "3_2094385575369547776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽爽画个无偿！ @hshshshshs88082 https://t.co/wGQrMbdO8r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094385567748460544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDAk8xaEAA7VUh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094385575369547776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDAlZKaoAA1P9n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094385567748460544",
+            "3_2094385575369547776"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2094385581921075442",
+        "created_at": "2026-08-31T11:23:29.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094385581921075442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1776553425934909440",
+              "start": 8,
+              "username": "hshshshshs88082"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGQrMbdO8r",
+              "end": 48,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2094385581921075442/photo/1",
+              "media_key": "3_2094385567748460544",
+              "start": 25,
+              "url": "https://t.co/wGQrMbdO8r"
+            },
+            {
+              "display_url": "pic.x.com/wGQrMbdO8r",
+              "end": 48,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2094385581921075442/photo/1",
+              "media_key": "3_2094385575369547776",
+              "start": 25,
+              "url": "https://t.co/wGQrMbdO8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094385581921075442",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094385567748460544"
+          },
+          {
+            "media_key": "3_2094385575369547776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽爽画个无偿！ @hshshshshs88082 https://t.co/wGQrMbdO8r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094385581921075442",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 985,
+          "like_count": 10446,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 2411
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了\n🈲私信 私信一律不回，给我私信会被毕业喔!🤤\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 79,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 56,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094062349917585655",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 117,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

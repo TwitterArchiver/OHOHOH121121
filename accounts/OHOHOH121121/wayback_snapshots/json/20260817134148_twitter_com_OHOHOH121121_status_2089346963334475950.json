@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2089346963334475950",
+    "created_at": "2026-08-17T13:41:48.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089346963334475950"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089346963334475950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是真的觉得中国某些咨询师根本没有树立和来访者的边界。\n真的很傻逼，书读到狗肚子里去了吗？还想要再重复前资历的血泪吗？又想要闹人命？之所以为伦理设定一套课程就是因为之前真的很多不好的事情发生为了防止再次发生才专门设置的啊\n搞不懂他们到底有没有把伦理这东西读好来😇\n---初澜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2089346963334475950",
+        "created_at": "2026-08-17T13:41:48.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089346963334475950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089346963334475950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的觉得中国某些咨询师根本没有树立和来访者的边界。\n真的很傻逼，书读到狗肚子里去了吗？还想要再重复前资历的血泪吗？又想要闹人命？之所以为伦理设定一套课程就是因为之前真的很多不好的事情发生为了防止再次发生才专门设置的啊\n搞不懂他们到底有没有把伦理这东西读好来😇\n---初澜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089346963334475950",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 993,
+          "like_count": 9400,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2233
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

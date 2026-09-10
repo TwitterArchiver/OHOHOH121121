@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2092164546702217284",
+    "created_at": "2026-08-25T08:17:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092164546702217284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868259773067476992",
+          "start": 3,
+          "username": "SAGIRI__520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092164546702217284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091834877733711996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SAGIRI__520: 买药的宝子特别多，我要再次说一下，如果没有尝试过滥用药物，或者是好奇心想尝试的，我是不会推荐大家去od，这不会让你很酷，不会让你真正好受，你只是暂时性填补了自己的伤口，用身体健康换取自己一时的幸福，这不叫真正的幸福，真正的幸福不是靠药物麻痹自己…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2091834868997234688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQewuvdbIAAjFLf.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2092164546702217284",
+        "created_at": "2026-08-25T08:17:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092164546702217284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868259773067476992",
+              "start": 3,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092164546702217284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091834877733711996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SAGIRI__520: 买药的宝子特别多，我要再次说一下，如果没有尝试过滥用药物，或者是好奇心想尝试的，我是不会推荐大家去od，这不会让你很酷，不会让你真正好受，你只是暂时性填补了自己的伤口，用身体健康换取自己一时的幸福，这不叫真正的幸福，真正的幸福不是靠药物麻痹自己…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091834868997234688"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2091834877733711996",
+        "created_at": "2026-08-24T10:27:53.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091834877733711996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjOaO4IPpw",
+              "end": 165,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2091834877733711996/photo/1",
+              "media_key": "3_2091834868997234688",
+              "start": 142,
+              "url": "https://t.co/cjOaO4IPpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091834877733711996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091834868997234688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3142,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "买药的宝子特别多，我要再次说一下，如果没有尝试过滥用药物，或者是好奇心想尝试的，我是不会推荐大家去od，这不会让你很酷，不会让你真正好受，你只是暂时性填补了自己的伤口，用身体健康换取自己一时的幸福，这不叫真正的幸福，真正的幸福不是靠药物麻痹自己，要好好爱自己，你永远是最特别的那个人 https://t.co/cjOaO4IPpw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092164546702217284",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 980,
+          "like_count": 10136,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "08/od/自伤/双向/宅属性/不登校/药代/🚪30\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2092135997828116548",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 115,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

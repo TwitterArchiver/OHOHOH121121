@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2095793844969460163",
+    "created_at": "2026-09-04T08:39:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095793844969460163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2071604428805996544",
+          "start": 3,
+          "username": "Seramikimiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095793844969460163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095084102399734050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seramikimiki: 任何，我tm是说任何\n为了无套性爱让你吃避孕药的男朋友\n都让他滚 fuck it off 立刻分手\n但凡敢开这个口，就让他自己下单一份药品\n再从头到尾把铺满整整一张大桌子的副作用清单给念完\n包括但不限于：肝脏肿瘤、静脉血栓、心肌梗死、脑栓、突…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2095078593923784704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM24YdaIAAZtzi.png",
+        "width": 1118
+      },
+      {
+        "height": 856,
+        "media_key": "3_2095082938916548608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM61S0aMAAHMvV.png",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2095793844969460163",
+        "created_at": "2026-09-04T08:39:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095793844969460163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071604428805996544",
+              "start": 3,
+              "username": "Seramikimiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095793844969460163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095084102399734050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seramikimiki: 任何，我tm是说任何\n为了无套性爱让你吃避孕药的男朋友\n都让他滚 fuck it off 立刻分手\n但凡敢开这个口，就让他自己下单一份药品\n再从头到尾把铺满整整一张大桌子的副作用清单给念完\n包括但不限于：肝脏肿瘤、静脉血栓、心肌梗死、脑栓、突…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095078593923784704",
+            "3_2095082938916548608"
+          ]
+        },
+        "author_id": "2071604428805996544",
+        "conversation_id": "2095084102399734050",
+        "created_at": "2026-09-02T09:39:09.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095084102399734050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTdWE7NOjD",
+              "end": 173,
+              "expanded_url": "https://x.com/Seramikimiki/status/2095084102399734050/photo/1",
+              "media_key": "3_2095078593923784704",
+              "start": 150,
+              "url": "https://t.co/nTdWE7NOjD"
+            },
+            {
+              "display_url": "pic.x.com/nTdWE7NOjD",
+              "end": 173,
+              "expanded_url": "https://x.com/Seramikimiki/status/2095084102399734050/photo/1",
+              "media_key": "3_2095082938916548608",
+              "start": 150,
+              "url": "https://t.co/nTdWE7NOjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095084102399734050",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095078593923784704"
+          },
+          {
+            "media_key": "3_2095082938916548608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "任何，我tm是说任何\n为了无套性爱让你吃避孕药的男朋友\n都让他滚 fuck it off 立刻分手\n但凡敢开这个口，就让他自己下单一份药品\n再从头到尾把铺满整整一张大桌子的副作用清单给念完\n包括但不限于：肝脏肿瘤、静脉血栓、心肌梗死、脑栓、突发眩晕、失明、肝功能异常、红斑狼疮、溶血性尿毒症....\n再他妈浓烈的性欲\n看完说明书后也老实了\n\n戴套是能死吗？？\n拿女朋友身体当玩具\n抱着侥幸心理拿生命风险做赌注很爽是吗\n别扯什么，你看那些鸡吃了这么多年不也没事吗\n废话，副作用不出在他身上他当然可以侥幸了\n女朋友是鸡吗？？穷的要死没钱点鸡把对象当鸡整你真出息\n\n谈谈经济账，最便宜的避孕药优思明200元/月\n该药不能随便停服\n否则伴随严重的血栓/乳腺癌风险\n每天不按时服用\n不好意思，也是血栓癌症副作用一大堆\n至少得以半年为周期进行服用\n一年下来得2400元\n是很多男人一个月的生活费了\n他愿意给你掏这钱吗？？\n就算恋爱期间掏得起，关键是你这个恋爱坚持得了半年吗\n分手了没爱可做了\n药还得自己买，\n副作用风险依旧自己承担\n整天干呕恶心吃不下饭、\n情绪低落没有奋斗的力气\n人生还活个什么滋味？80岁老奶奶都比你有精神\n怎么去闯事业挣大钱，怎么去实现人生目标？\n对于很多女大学生而言，每月多200支出\n虽然不是大数目，但也挺有压力了\n这真的值得吗???\n\n一个师妹说她和她对象aa避孕药钱\n我说你这恋爱还谈个鸡巴\n我问无套和有套有区别吗？她说没有\n是单纯为了取悦对象而做的事\n我笑了，为了那十几分钟的爽拿自己健康开赌\n做个爱还给你整的逼连心上了\n别做不敢告诉爸妈的亏心事\n这世界很大，屌很多\n就算这个人你很心爱\n也不能做任何威胁你健康的事情\n框架要立住，人才不贱，懂吗？\n\n拿我的亲身经验跟你讲\n我真的真的很庆幸很庆幸\n那时候的我\n足够自爱、清醒、理智\n那个药，我买了，拆封了\n昏暗的灯光下\n花了整整5min才读完所有不良反应\n\n然后，毫不犹豫地，\n花一分钟拉黑那个男人"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 426,
+          "impression_count": 212444,
+          "like_count": 2236,
+          "quote_count": 23,
+          "reply_count": 602,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "任何，我tm是说任何\n为了无套性爱让你吃避孕药的男朋友\n都让他滚 fuck it off 立刻分手\n但凡敢开这个口，就让他自己下单一份药品\n再从头到尾把铺满整整一张大桌子的副作用清单给念完\n包括但不限于：肝脏肿瘤、静脉血栓、心肌梗死、脑栓、突发眩晕、失明、肝功能异常、红斑狼疮、溶血性尿毒症.... https://t.co/nTdWE7NOjD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095793844969460163",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 984,
+          "like_count": 10608,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T14:40:27.000Z",
+        "description": "Building in AI & Web3\n优绩主义反叛者｜港股IPO Lawyer\nBuilt a 20w+ IELTS business at 20\n｜分享從 0→1 的一切",
+        "id": "2071604428805996544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095720080609030384",
+        "name": "Sera",
+        "pinned_tweet_id": "2095257945265377615",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071604428805996544/1783062582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071609225273610241/K6jjRPYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 224,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "Seramikimiki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

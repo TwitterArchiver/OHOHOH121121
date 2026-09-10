@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2091123487046017362",
+    "created_at": "2026-08-22T11:21:05.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091123487046017362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775079210484436992",
+          "start": 3,
+          "username": "0xAstra"
+        },
+        {
+          "end": 26,
+          "id": "2041159531657416704",
+          "start": 13,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091123487046017362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091093267601641509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xAstra: @amber_digit2 我觉得最大的误区，就是只谈男性获得了什么，却不谈男性为了获得这些东西，被要求支付什么成本。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2091123487046017362",
+        "created_at": "2026-08-22T11:21:05.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091123487046017362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775079210484436992",
+              "start": 3,
+              "username": "0xAstra"
+            },
+            {
+              "end": 26,
+              "id": "2041159531657416704",
+              "start": 13,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091123487046017362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091093267601641509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xAstra: @amber_digit2 我觉得最大的误区，就是只谈男性获得了什么，却不谈男性为了获得这些东西，被要求支付什么成本。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "conversation_id": "2090594226698354968",
+        "created_at": "2026-08-22T09:21:00.000Z",
+        "display_text_range": [
+          14,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091093267601641509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091093267601641509",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得最大的误区，就是只谈男性获得了什么，却不谈男性为了获得这些东西，被要求支付什么成本。\n\n中国社会里，男性当然可能在某些领域拥有优势，但很多所谓“男性优势”，从来不是无条件发放的。它往往和另一整套性别义务绑定在一起：买房、彩礼、承担主要家庭开支、必须有事业、必须赚钱、不能示弱、不能失败，出了问题还默认“男人自己扛”。\n\n所以讨论所谓“男性特权”，如果只统计收益，不统计义务和成本，本身就是不完整的。\n\n更有意思的是，中国社会一谈婚恋，衡量男性的标准往往恰恰极度物质化：收入多少、有没有房、有没有车、家庭条件怎么样、能不能承担未来开支。一个男人如果达不到这些标准，社会可不会因为他“享有男性特权”就突然对他温柔起来。\n\n这也是为什么我不太认同把今天的一切简单解释成“男性压迫女性”。\n\n经济基础决定上层建筑。传统社会一方面要求男性承担主要经济责任，另一方面又长期把女性塑造成家庭中的依附者。于是最后形成的是一套互相强化的结构：\n\n男性被教育成“你必须挣钱、必须供养家庭”；\n女性则被教育成“找一个经济条件好的男人，是婚姻的重要目标”。\n\n在这种环境里出现彩礼攀比、婚房焦虑、极端物质择偶，甚至所谓“捞女”“傍老头”，本质上都不是凭空长出来的。\n\n如果要批判这种社会结构，那就应该把整套逻辑一起批判，而不是一边反对传统社会要求女性承担的角色，一边又默认传统社会要求男性承担的经济责任天经地义。\n\n你当然可以拒绝传统男性角色，也可以拒绝传统女性角色，这都是个人自由。但不能只把一个身份里的好处叫“权利”，然后把这个身份对应的责任全部删掉，再回过头告诉别人：你看，你们活得多轻松。\n\n至于最后一点，我还是忍不住想嘲讽一句：\n\n如果你觉得当男人只剩下特权，男性责任又一项都不想认，那其实完全可以直接去阉了，这是你的自由\n\n我一直尊重跨性别者选择自己的身份。\n\n但都已经跨出去了，回头还站在女性主义立场上教育别人“男人到底过得有多爽”，这个场面确实多少有点幽默。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090597758558154806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我觉得最大的误区，就是只谈男性获得了什么，却不谈男性为了获得这些东西，被要求支付什么成本。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091123487046017362",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 979,
+          "like_count": 9768,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2317
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "Intern @GMWallet | Top 10 GitHub Stars in Crypto | HODLer @PudgyPenguins #5103\nTrade crypto on Binance: https://t.co/gCvs8cb1ga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "GMWallet"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "PudgyPenguins"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 127,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 104,
+                "url": "https://t.co/gCvs8cb1ga"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "is_identity_verified": false,
+        "location": "Canberra",
+        "most_recent_tweet_id": "2091101622340559041",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775079210484436992/1781170680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063723095492644864/wQfoPaC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8676,
+          "following_count": 990,
+          "like_count": 64395,
+          "listed_count": 38,
+          "media_count": 793,
+          "tweet_count": 13209
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2091057572614689168",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 900,
+          "like_count": 4181,
+          "listed_count": 7,
+          "media_count": 240,
+          "tweet_count": 3156
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

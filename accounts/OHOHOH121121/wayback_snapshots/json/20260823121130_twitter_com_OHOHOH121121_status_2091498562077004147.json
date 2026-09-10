@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2091498562077004147",
+    "created_at": "2026-08-23T12:11:30.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091498562077004147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091498562077004147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就不能事论事吗？为什么要分男女权啊，请注意人的所作所为再加上对面也没有想要做什么啊为什么诅咒到这样子....谁能懂我一开始是想要和她讨论这一类行为的怎么变成只有她的骂人现场了。（而我全程都不敢说话）\n关注点不在于怎么去帮助这类人吗为什么上升到这些去了🥲😇\n----安枫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2091498562077004147",
+        "created_at": "2026-08-23T12:11:30.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091498562077004147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091498562077004147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就不能事论事吗？为什么要分男女权啊，请注意人的所作所为再加上对面也没有想要做什么啊为什么诅咒到这样子....谁能懂我一开始是想要和她讨论这一类行为的怎么变成只有她的骂人现场了。（而我全程都不敢说话）\n关注点不在于怎么去帮助这类人吗为什么上升到这些去了🥲😇\n----安枫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091498562077004147",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 980,
+          "like_count": 9912,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2329
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

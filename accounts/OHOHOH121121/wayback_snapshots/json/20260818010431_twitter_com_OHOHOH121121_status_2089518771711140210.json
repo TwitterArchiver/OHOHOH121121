@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2089401239062847616",
+    "created_at": "2026-08-18T01:04:31.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T02:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089518771711140210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089518771711140210",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089401239062847616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_QianQian_8964_ 好好笑...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2089401231647342592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8LWZ2agAAkDE6.jpg",
+        "width": 2142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2089401239062847616",
+        "created_at": "2026-08-18T01:04:31.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089518771711140210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089518771711140210",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089401239062847616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_QianQian_8964_ 好好笑...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089401231647342592"
+          ]
+        },
+        "author_id": "2063228399586541568",
+        "conversation_id": "2089401239062847616",
+        "created_at": "2026-08-17T17:17:29.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089401239062847616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S58kx9KcNj",
+              "end": 25,
+              "expanded_url": "https://x.com/_QianQian_8964_/status/2089401239062847616/photo/1",
+              "media_key": "3_2089401231647342592",
+              "start": 2,
+              "url": "https://t.co/S58kx9KcNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089401239062847616",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089401231647342592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 707,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/S58kx9KcNj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089518771711140210",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 993,
+          "like_count": 9422,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2247
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089439691561140489",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2089426601880813891",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 123,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1103
+        },
+        "url": "",
+        "username": "_QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

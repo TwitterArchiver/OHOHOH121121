@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2091794150647885947",
+    "created_at": "2026-08-24T07:52:42.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T08:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091795824590438538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767453480065839104",
+          "start": 0,
+          "username": "Lone_Wolf_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091795824590438538",
+    "in_reply_to_user_id": "1767453480065839104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091795100905152663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lone_Wolf_CYK 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2091794150647885947",
+        "created_at": "2026-08-24T07:52:42.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091795824590438538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767453480065839104",
+              "start": 0,
+              "username": "Lone_Wolf_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091795824590438538",
+        "in_reply_to_user_id": "1767453480065839104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091795100905152663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lone_Wolf_CYK 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767453480065839104",
+        "conversation_id": "2091794150647885947",
+        "created_at": "2026-08-24T07:49:50.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091795100905152663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091795100905152663",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091794150647885947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 抱抱~🫂\n把問題都解決掉吧嗷~▼⁠・⁠ᴥ⁠・⁠▼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091795824590438538",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 983,
+          "like_count": 10030,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2344
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "| 大薩摩耶 | 19 | ISSAO | 小帳:大貴賓狗 @YK_C_8964 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "YK_C_8964"
+              }
+            ]
+          }
+        },
+        "id": "1767453480065839104",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2091795100905152663",
+        "name": "YK C",
+        "pinned_tweet_id": "2046060980032225741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767453480065839104/1777511228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059903559278440448/DzORE7-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1563,
+          "like_count": 74681,
+          "listed_count": 4,
+          "media_count": 1837,
+          "tweet_count": 17239
+        },
+        "url": "",
+        "username": "Lone_Wolf_CYK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2094377768851271977",
+    "created_at": "2026-08-31T14:29:57.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094432508964471209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2093199347764887552",
+          "start": 0,
+          "username": "kk2yyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094432508964471209",
+    "in_reply_to_user_id": "2093199347764887552",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094377768851271977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk2yyds 1！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2094377768851271977",
+        "created_at": "2026-08-31T14:29:57.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094432508964471209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2093199347764887552",
+              "start": 0,
+              "username": "kk2yyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094432508964471209",
+        "in_reply_to_user_id": "2093199347764887552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094377768851271977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk2yyds 1！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093199347764887552",
+        "conversation_id": "2094377768851271977",
+        "created_at": "2026-08-31T10:52:26.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094377768851271977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094377768851271977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互转扣1呀我想交朋友惹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094432523229229439",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 987,
+          "like_count": 10476,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 2417
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T04:50:53.000Z",
+        "description": "💊｜🩸｜🔪｜🚬\n不常看黑茶但是看到会秒回\nod妹直接fo会回我喜欢交朋友",
+        "id": "2093199347764887552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094425088087167433",
+        "name": "親愛なるあなたは火葬",
+        "pinned_tweet_id": "2093203444475764930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093199347764887552/1787893004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094005158623793152/frUFhAvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 121,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "kk2yyds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

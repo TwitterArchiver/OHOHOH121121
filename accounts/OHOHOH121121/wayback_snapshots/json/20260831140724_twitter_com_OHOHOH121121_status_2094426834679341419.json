@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094426819990786048",
+        "3_2094426828668846080"
+      ]
+    },
+    "author_id": "2026259002813005824",
+    "conversation_id": "2094426834679341419",
+    "created_at": "2026-08-31T14:07:24.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094426834679341419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r4XsU44MIn",
+          "end": 159,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2094426834679341419/photo/1",
+          "media_key": "3_2094426819990786048",
+          "start": 136,
+          "url": "https://t.co/r4XsU44MIn"
+        },
+        {
+          "display_url": "pic.x.com/r4XsU44MIn",
+          "end": 159,
+          "expanded_url": "https://x.com/OHOHOH121121/status/2094426834679341419/photo/1",
+          "media_key": "3_2094426828668846080",
+          "start": 136,
+          "url": "https://t.co/r4XsU44MIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094426834679341419",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094426819990786048"
+      },
+      {
+        "media_key": "3_2094426828668846080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以我要道歉说，对不起是因为我没有说清楚就来询问您的意见吗？😇😇啊我需要你的估价请你想象自己是顾客所以对我的画进行评估吗？\n而且您的美商并不低吧，再加上您是我的朋友吧，那么我询问您是不是合理的？而且啊，我一开始是不是说请认真评估呢？\n我需要这么问您吗？😊😊\n----安枫 https://t.co/r4XsU44MIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2094426819990786048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDmGJWaEAAZmSN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1899,
+        "media_key": "3_2094426828668846080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDmGprawAA48iy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094426819990786048",
+            "3_2094426828668846080"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2094426834679341419",
+        "created_at": "2026-08-31T14:07:24.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094426834679341419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4XsU44MIn",
+              "end": 159,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2094426834679341419/photo/1",
+              "media_key": "3_2094426819990786048",
+              "start": 136,
+              "url": "https://t.co/r4XsU44MIn"
+            },
+            {
+              "display_url": "pic.x.com/r4XsU44MIn",
+              "end": 159,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2094426834679341419/photo/1",
+              "media_key": "3_2094426828668846080",
+              "start": 136,
+              "url": "https://t.co/r4XsU44MIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094426834679341419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094426819990786048"
+          },
+          {
+            "media_key": "3_2094426828668846080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以我要道歉说，对不起是因为我没有说清楚就来询问您的意见吗？😇😇啊我需要你的估价请你想象自己是顾客所以对我的画进行评估吗？\n而且您的美商并不低吧，再加上您是我的朋友吧，那么我询问您是不是合理的？而且啊，我一开始是不是说请认真评估呢？\n我需要这么问您吗？😊😊\n----安枫 https://t.co/r4XsU44MIn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094426834679341419",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 986,
+          "like_count": 10464,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 2413
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

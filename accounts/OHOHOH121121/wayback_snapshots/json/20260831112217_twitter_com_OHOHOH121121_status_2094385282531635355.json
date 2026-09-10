@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2042547099171197332",
+    "created_at": "2026-08-31T11:22:17.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094385282531635355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032792248333852672",
+          "start": 0,
+          "username": "KUENGQUESHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094385282531635355",
+    "in_reply_to_user_id": "2032792248333852672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042915792447066435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUENGQUESHI 哦不现在才看到.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042547099171197332",
+        "created_at": "2026-08-31T11:22:17.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094385282531635355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032792248333852672",
+              "start": 0,
+              "username": "KUENGQUESHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094385282531635355",
+        "in_reply_to_user_id": "2032792248333852672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042915792447066435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUENGQUESHI 哦不现在才看到.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032792248333852672",
+        "conversation_id": "2042547099171197332",
+        "created_at": "2026-04-11T10:40:55.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042915792447066435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042915792447066435",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042547099171197332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 抱抱你🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094385282531635355",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 985,
+          "like_count": 10429,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 2410
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-14T12:13:56.000Z",
+        "description": "我不會寫簡介ㄟ，歡迎私信(畢竟很閒)，因為每週都有五天時間是住宿在學校裡面，所以說只有週五週六和週日可以回復私信的說\n不od|割手|精神狀態不正常的時候不使用推特\ndiscord聊天群💬：\nhttps://t.co/aZiJKBSD1r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/H8WXVvhKcA",
+                "end": 118,
+                "expanded_url": "https://discord.gg/H8WXVvhKcA",
+                "start": 95,
+                "url": "https://t.co/aZiJKBSD1r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+v-mdMXFDP9k0O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+v-mdMXFDP9k0OTll",
+                "start": 0,
+                "url": "https://t.co/STTR2S5Rg6"
+              }
+            ]
+          }
+        },
+        "id": "2032792248333852672",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2093642850143727957",
+        "name": "孔雀石醬(⁠≧⁠▽⁠≦⁠)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032792248333852672/1776480458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067798163944083456/pn5U0QEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 114,
+          "like_count": 6118,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/STTR2S5Rg6",
+        "username": "KUENGQUESHI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
