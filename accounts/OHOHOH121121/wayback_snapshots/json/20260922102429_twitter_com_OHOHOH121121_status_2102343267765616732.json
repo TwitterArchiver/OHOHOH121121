@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2102213076535955819",
+    "created_at": "2026-09-22T10:24:29.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102343267765616732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102343267765616732",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102213076535955819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 这人也不正常呱，适合进精神科。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102213055891582977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyPouabMAEYaap.jpg",
+        "width": 1034
+      },
+      {
+        "height": 1351,
+        "media_key": "3_2102213055891623936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyPouab0AAAOGc.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2102213076535955819",
+        "created_at": "2026-09-22T10:24:29.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102343267765616732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102343267765616732",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102213076535955819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 这人也不正常呱，适合进精神科。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102213055891582977",
+            "3_2102213055891623936"
+          ]
+        },
+        "author_id": "1974688655513096192",
+        "conversation_id": "2102213076535955819",
+        "created_at": "2026-09-22T01:47:09.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102213076535955819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQ54sDvDBg",
+              "end": 43,
+              "expanded_url": "https://x.com/lin_dialog/status/2102213076535955819/photo/1",
+              "media_key": "3_2102213055891582977",
+              "start": 20,
+              "url": "https://t.co/rQ54sDvDBg"
+            },
+            {
+              "display_url": "pic.x.com/rQ54sDvDBg",
+              "end": 43,
+              "expanded_url": "https://x.com/lin_dialog/status/2102213076535955819/photo/1",
+              "media_key": "3_2102213055891623936",
+              "start": 20,
+              "url": "https://t.co/rQ54sDvDBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102213076535955819",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102213055891582977"
+          },
+          {
+            "media_key": "3_2102213055891623936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10558,
+          "like_count": 148,
+          "quote_count": 12,
+          "reply_count": 33,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "人生建议：别和正常人交朋友，对双方都好 https://t.co/rQ54sDvDBg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102343267765616732",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 993,
+          "like_count": 11107,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": ":可以叫我竹霖/霖，\nftx(含男性代词，hrt) 无性恋/aegosexual\n孩子停止吸毒，上帝在救你\n哲学&推理小说 安那其\n#GNR#cybpk#postal偶尔 随缘产出 同人",
+        "id": "1974688655513096192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102266977347850301",
+        "name": "竹霖",
+        "pinned_tweet_id": "2034712622327898524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974688655513096192/1786720755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033542781080408065/SwlGhoGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 189,
+          "like_count": 1790,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "lin_dialog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2104859602286518615",
+    "created_at": "2026-09-29T09:03:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104859602286518615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052760341411708928",
+          "start": 3,
+          "username": "Sui17171Fei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104859602286518615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104728481687032138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui17171Fei: ai满足了太多虚荣心极强却没有任何才华也不愿意花时间来创作的小偷\n融合的产物究竟高贵在哪？连画法都是偷的融的手绘画师用心血跟爱创造出来的作品\n哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2104727769020276736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTV-wS1aoAA1eF0.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2104859602286518615",
+        "created_at": "2026-09-29T09:03:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104859602286518615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052760341411708928",
+              "start": 3,
+              "username": "Sui17171Fei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104859602286518615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104728481687032138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui17171Fei: ai满足了太多虚荣心极强却没有任何才华也不愿意花时间来创作的小偷\n融合的产物究竟高贵在哪？连画法都是偷的融的手绘画师用心血跟爱创造出来的作品\n哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104727769020276736"
+          ]
+        },
+        "author_id": "2052760341411708928",
+        "conversation_id": "2104728481687032138",
+        "created_at": "2026-09-29T00:22:28.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T01:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104728481687032138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tz0V4fYru9",
+              "end": 167,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2104728481687032138/photo/1",
+              "media_key": "3_2104727769020276736",
+              "start": 144,
+              "url": "https://t.co/Tz0V4fYru9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104728481687032138",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104727769020276736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ai满足了太多虚荣心极强却没有任何才华也不愿意花时间来创作的小偷\n融合的产物究竟高贵在哪？连画法都是偷的融的手绘画师用心血跟爱创造出来的作品\n哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈ai绘画是创作！是创作\n吗 https://t.co/Tz0V4fYru9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104859602286518615",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 979,
+          "like_count": 11257,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 2701
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "💊🔪🩸I  ADHD重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️| 同类互fo|恐游像素RPG跟任系游戏爱好者| 友全部 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向；all昴全肯定 all雷古全肯定     尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我者死全家",
+        "id": "2052760341411708928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104804813330592008",
+        "name": "雨鈴2.0互关寻回（账号又被冻结了😭）",
+        "pinned_tweet_id": "2096149992071467206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052760341411708928/1789291905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096042663938273280/B8d49Wio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 464,
+          "like_count": 7986,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1840
+        },
+        "url": "",
+        "username": "Sui17171Fei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

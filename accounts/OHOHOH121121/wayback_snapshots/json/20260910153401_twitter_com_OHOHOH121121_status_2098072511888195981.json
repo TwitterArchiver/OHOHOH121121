@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2098072511888195981",
+    "created_at": "2026-09-10T15:34:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098072511888195981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082558183009345536",
+          "start": 3,
+          "username": "5q2bng"
+        },
+        {
+          "end": 23,
+          "id": "1778719380639014913",
+          "start": 12,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098072511888195981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098029326910599366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5q2bng: @Ancde_1118 连痛苦的资格都被剥削？？\n连痛苦都要问问自己配不配？？\n什么时候起，人们开始冷漠的问一种复杂的情感安上世俗的标签去衡量它，以此来随意的决定别人是否具有痛苦的权利与发泄的自由，这个世界本身就是一副手铐，我们看到别人戴着，自己也随波逐…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2098072511888195981",
+        "created_at": "2026-09-10T15:34:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098072511888195981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082558183009345536",
+              "start": 3,
+              "username": "5q2bng"
+            },
+            {
+              "end": 23,
+              "id": "1778719380639014913",
+              "start": 12,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098072511888195981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098029326910599366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5q2bng: @Ancde_1118 连痛苦的资格都被剥削？？\n连痛苦都要问问自己配不配？？\n什么时候起，人们开始冷漠的问一种复杂的情感安上世俗的标签去衡量它，以此来随意的决定别人是否具有痛苦的权利与发泄的自由，这个世界本身就是一副手铐，我们看到别人戴着，自己也随波逐…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082558183009345536",
+        "conversation_id": "2097758219770970183",
+        "created_at": "2026-09-10T12:42:25.000Z",
+        "display_text_range": [
+          12,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098029326910599366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098029326910599366",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097758219770970183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 连痛苦的资格都被剥削？？\n连痛苦都要问问自己配不配？？\n什么时候起，人们开始冷漠的问一种复杂的情感安上世俗的标签去衡量它，以此来随意的决定别人是否具有痛苦的权利与发泄的自由，这个世界本身就是一副手铐，我们看到别人戴着，自己也随波逐流。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098072511888195981",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 989,
+          "like_count": 10741,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 2498
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T20:07:25.000Z",
+        "description": "",
+        "id": "2082558183009345536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098046399854379250",
+        "name": "Peace²⁷",
+        "pinned_tweet_id": "2083169633230799211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082558183009345536/1789006573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097878367328727040/sWFZVbje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 65,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "5q2bng",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098070315146547393",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 701,
+          "like_count": 153,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 2032
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

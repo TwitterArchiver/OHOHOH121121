@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2104884705703137347",
+    "created_at": "2026-09-29T10:52:01.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T11:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104886910833525138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Oori_Tvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104886910833525138",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104884705703137347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oori_Tvv 说不出名字可恶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2104884705703137347",
+        "created_at": "2026-09-29T10:52:01.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104886910833525138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Oori_Tvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104886910833525138",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104884705703137347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oori_Tvv 说不出名字可恶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731670068189114368",
+        "conversation_id": "2104884705703137347",
+        "created_at": "2026-09-29T10:43:15.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104884705703137347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "オオリ_ディヴァ's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vJpP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vJpPNEejvmJE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2104884707078914048/WpaMh67G?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2104884707078914048/WpaMh67G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: オオリ_ディヴァ's Space / X",
+              "unwound_url": "https://x.com/i/spaces/1vJpPNEejvmJE",
+              "url": "https://t.co/evqcyTdvjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104884705703137347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/evqcyTdvjJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104886910833525138",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 980,
+          "like_count": 11252,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "刀子嘴 玻璃心",
+        "id": "1731670068189114368",
+        "is_identity_verified": false,
+        "location": "東京 新宿区",
+        "most_recent_tweet_id": "2104884705703137347",
+        "name": "オオリ_ディヴァ",
+        "pinned_tweet_id": "2102187621271150827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731670068189114368/1702165402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096662948769046528/tbwBHYQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 551,
+          "like_count": 84098,
+          "listed_count": 2,
+          "media_count": 801,
+          "tweet_count": 10352
+        },
+        "url": "",
+        "username": "Oori_Tvv",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

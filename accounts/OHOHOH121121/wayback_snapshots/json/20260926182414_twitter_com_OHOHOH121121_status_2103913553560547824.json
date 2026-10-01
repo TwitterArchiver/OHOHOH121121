@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2103913553560547824",
+    "created_at": "2026-09-26T18:24:14.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T19:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103913553560547824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yueliang12388/…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/yueliang12388/status/2103625638821146838",
+          "start": 72,
+          "url": "https://t.co/RajN66C5Qr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103913553560547824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103625638821146838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最恨最恨这种男性。\n我恨死ltp了，我想到和我住一排的那个女孩子，我想到了那些因为小时候遭遇这些的孩子们。\n我恨死ltp了。这种畜生去死吧。 https://t.co/RajN66C5Qr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103625634261921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGUXm6WcAA-OHK.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103625634270289920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGUXm8WIAAFQ_9.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2103913553560547824",
+        "created_at": "2026-09-26T18:24:14.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103913553560547824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueliang12388/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/yueliang12388/status/2103625638821146838",
+              "start": 72,
+              "url": "https://t.co/RajN66C5Qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103913553560547824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103625638821146838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最恨最恨这种男性。\n我恨死ltp了，我想到和我住一排的那个女孩子，我想到了那些因为小时候遭遇这些的孩子们。\n我恨死ltp了。这种畜生去死吧。 https://t.co/RajN66C5Qr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103625634261921792",
+            "3_2103625634270289920"
+          ]
+        },
+        "author_id": "1555682109888483328",
+        "conversation_id": "2103625638821146838",
+        "created_at": "2026-09-25T23:20:10.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103625638821146838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzNlPln8xd",
+              "end": 88,
+              "expanded_url": "https://x.com/yueliang12388/status/2103625638821146838/photo/1",
+              "media_key": "3_2103625634261921792",
+              "start": 65,
+              "url": "https://t.co/rzNlPln8xd"
+            },
+            {
+              "display_url": "pic.x.com/rzNlPln8xd",
+              "end": 88,
+              "expanded_url": "https://x.com/yueliang12388/status/2103625638821146838/photo/1",
+              "media_key": "3_2103625634270289920",
+              "start": 65,
+              "url": "https://t.co/rzNlPln8xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103625638821146838",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103625634261921792"
+          },
+          {
+            "media_key": "3_2103625634270289920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 134517,
+          "like_count": 572,
+          "quote_count": 9,
+          "reply_count": 133,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我操他妈的我真哭了啊\n你妈的你妹妹不懂事你还能不懂事吗好恶心啊好绝望啊为什么啊 \n越老实的男人越废物 只能诱骗小女生\n我一直在哭 https://t.co/rzNlPln8xd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103913553560547824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 979,
+          "like_count": 11191,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 2677
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-05T22:28:21.000Z",
+        "description": "有主人 不私信",
+        "id": "1555682109888483328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103900487745458213",
+        "name": "黎姿",
+        "pinned_tweet_id": "2102783767593333183",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555682338624921600/hSEKkxeT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4732,
+          "following_count": 13,
+          "like_count": 1085,
+          "listed_count": 16,
+          "media_count": 16,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "yueliang12388",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

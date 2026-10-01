@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2026259002813005824",
+    "conversation_id": "2083470662262567072",
+    "created_at": "2026-09-12T11:49:34.000Z",
+    "display_text_range": [
+      17,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T12:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098740803464274089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491630454730293248",
+          "start": 0,
+          "username": "yalishandayiwa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098740803464274089",
+    "in_reply_to_user_id": "1491630454730293248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098740043385098707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yalishandayiwa1 因为爱干净的关系导致根本不懂男生为什么那么臭，一进车直接就是臭味熏天疯狂吐槽他们甚至当面说他们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2083470662262567072",
+        "created_at": "2026-09-12T11:49:34.000Z",
+        "display_text_range": [
+          17,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098740803464274089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491630454730293248",
+              "start": 0,
+              "username": "yalishandayiwa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098740803464274089",
+        "in_reply_to_user_id": "1491630454730293248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098740043385098707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yalishandayiwa1 因为爱干净的关系导致根本不懂男生为什么那么臭，一进车直接就是臭味熏天疯狂吐槽他们甚至当面说他们。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491630454730293248",
+        "conversation_id": "2083470662262567072",
+        "created_at": "2026-09-12T11:46:33.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098740043385098707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098740043385098707",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098738826864935030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 我家里的话是因为我妈有严重的洁癖，所以说我也从小养成了爱干净"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098740803464274089",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026259002813005824/1776045500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 994,
+          "like_count": 10835,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 2533
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T04:30:02.000Z",
+        "description": "单亲父亲家有女儿 （不要看我转发被吓到概不负责\n超级杂食来这里只是看喜欢看的东西和回复有意思的。请互相尊重 生理男心理男异性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yalishandayiwa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yalishandayiwa1",
+                "start": 0,
+                "url": "https://t.co/OEApHneRdu"
+              }
+            ]
+          }
+        },
+        "id": "1491630454730293248",
+        "is_identity_verified": false,
+        "location": "苏丹后宫",
+        "most_recent_tweet_id": "2098740732358189394",
+        "name": "树莓鼠",
+        "pinned_tweet_id": "2083411913975988332",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025655970349871104/v2373Lp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 286,
+          "like_count": 1322,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2755
+        },
+        "url": "https://t.co/OEApHneRdu",
+        "username": "yalishandayiwa1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
